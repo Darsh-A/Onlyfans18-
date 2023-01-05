@@ -1,10 +1,10 @@
 {
   "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup : Aadarsh",
+  "autoCommitMessage": "vault backup: {{date}} - Dors",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0.15,
-  "autoPushInterval": 0.15,
-  "autoPullInterval": 0.15,
+  "autoSaveInterval": 1,
+  "autoPushInterval": 8,
+  "autoPullInterval": 1,
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
@@ -21,7 +21,6 @@
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000,
-  "showBranchStatusBar": true,
-  "setLastSaveToLastCommit": false
+  "refreshSourceControlTimer": 5000,
+  "showBranchStatusBar": true
 }
