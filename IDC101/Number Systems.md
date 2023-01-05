@@ -1,3 +1,1 @@
-Test a thing of value.
-
-Another test.
+Test a thingy.
