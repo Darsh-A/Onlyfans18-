@@ -1,1 +1,1 @@
-Test a thing of value
+Test a thing of value of mine
