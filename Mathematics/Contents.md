@@ -1,4 +1,5 @@
 1. MTH101
+	- [[Random Important Stuff]]
 	- [[1.Groups]]
 	- [[2.Symmetry]]
 	- [[3.Isomorphism]]
