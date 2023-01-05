@@ -1,13 +1,7 @@
-\documentclass[12pt,a4paper]{standalone}
-\newcommand*{\xdash}[1][3em]{\rule[0.5ex]{#1}{0.55pt}}
+\documentclass{article}
+\usepackage{newpxtext,newpxmath}
 \usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
-\usepackage{graphicx}
-\newcommand{\sZ}{\ensuremath{\scalebox{.86}{Z}
-\kern-.41em\raisebox{.07em}{$\xdash[.3em]$}}}
-\newcommand{\sz}{\ensuremath{\scalebox{.86}{z}
-\kern-.3em\raisebox{-.045em}{$\xdash[.2em]$}}}
-\begin{document}
-~\sZ~\sz~
-\end{document}
+
+\newcommand{\Zstroke}{%\text{\ooalign{\hidewidth\raisebox{0.2ex}{--}\hidewidth\cr$Z$\cr}}%}
+\newcommand{\zstroke}{%\text{\ooalign{\hidewidth -\kern-.3em-\hidewidth\cr$z$\cr}}%}
+
