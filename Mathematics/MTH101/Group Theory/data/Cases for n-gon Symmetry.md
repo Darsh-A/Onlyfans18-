@@ -21,9 +21,9 @@ In general,
 
    $\sigma(P_{j}) = P_{i-j}$
 
-Now the vertex labels run clockwise. So $\sigma$ is not a rotation
+Now the vertex labels run clockwise. So $\sigma$ is not a rotation.
 
-![[Drawing 2022-11-12 12.41.56.excalidraw.png]]
+![](https://i.imgur.com/CBgfOkm.png)
 
 We see that, 
    $\varphi_{1}$ is the line of symmetry
