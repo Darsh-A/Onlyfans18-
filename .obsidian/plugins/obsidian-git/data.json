@@ -1,6 +1,6 @@
 {
   "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup : IDC",
+  "autoCommitMessage": "vault backup : Aadarsh",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0.15,
   "autoPushInterval": 0,
