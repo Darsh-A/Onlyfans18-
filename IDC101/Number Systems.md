@@ -1,1 +1,1 @@
-Test a thing
+Test a thing of value
