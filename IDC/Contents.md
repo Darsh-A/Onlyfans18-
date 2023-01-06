@@ -1,3 +1,4 @@
 1. IDC101
-	- [[1. UNIX Operating System]]
 	- [[0. Introduction to Computers]]
+	- [[1. UNIX Operating System]]
+	- 
