@@ -78,4 +78,5 @@ where;
 
 **Example**:
 `chmod 700` gives read, write and execute permissions to the user
-`chmod 764` gives read, write and execute permissions to the user; read and write permission to the group; and read permission 
+`chmod 764` gives read, write and execute permissions to the user; read and write permission to the group; and read permission to others
+
