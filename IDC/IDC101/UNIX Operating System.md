@@ -14,4 +14,26 @@ Varieties of UNIX:
 - Linux
 - MacOX
 
-#### The UNIX is primarily made of three layers:
+
+### The UNIX is primarily made of three layers:
+
+#### Kernel
+- Hub or core of UNIX OS that maintains OS functionality through effectively communicating with hardware for various things such as to time/memory allocation to programs; device managaement, file handling, communication to system calls etc.
+
+#### Shell
+- Interface between kernel and user.
+- Interprets the command submitted by user at terminal and executes the process. It is a Command Line Interpreter (CLI).
+- Different types of shells are; Bourne Shell (sh), C shell (csh or tcsh), Korn Shell (ksh)
+
+#### Programs
+- They are programs
+
+
+### Unix OS Data Structure Organisation
+
+![[Screenshot 2023-01-06 at 3.52.06 PM.png]]
+
+This is a directory structure in UNIX file system. A file can be inside any of these folders and is a collection of data/commands.
+
+
+### 
