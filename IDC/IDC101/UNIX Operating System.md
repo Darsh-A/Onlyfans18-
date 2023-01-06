@@ -57,7 +57,8 @@ where;
 - `w` represents giving write permissions.
 - `x` represents giving execute permissions.
 
-Example: `chmod u+rwx FILENAME` ; `chmod ugo=r FILENAME`
+Example: 
+`chmod u+rwx FILENAME` ; `chmod ugo=r FILENAME`
 
 
 **Another method to executing the same command is:**
@@ -69,4 +70,5 @@ where;
 
 This command is used in the form `chmod abc`
 where;
-- 'a' has to be substituted for the numeric value of permissions to be assinged 
+- 'a' has to be substituted for the numeric value of permissions to be assinged for 'users'
+- 'b' has to be substituted
