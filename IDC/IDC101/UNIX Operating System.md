@@ -57,4 +57,6 @@ where;
 - `w` represents giving write permissions.
 - `x` represents giving execute permissions.
 
-Example: `chmod u+rwx FILENAME` ; `chmod ugo=r`
+Example: `chmod u+rwx FILENAME` ; `chmod ugo=r FILENAME`
+
+Another method to executing
