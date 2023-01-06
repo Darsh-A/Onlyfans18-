@@ -100,6 +100,7 @@ $$
 &E = \frac{1}{2}\mu \dot{r}^{2} + U_{eff}(r) \\
 \implies & \dot{r} = \sqrt{ \frac{2}{\mu}(E-U_{eff}) } \\
 \implies & \frac{dr}{dt} = \sqrt{ \frac{2}{\mu}(E-U_{eff}) }  \\
-\implies & \int_{t_{0}}^{t} dt = \int _{r_{0}}^{r} \frac{dr}{}\, dx  
+\implies & \int_{t_{0}}^{t} dt = \int _{r_{0}}^{r} \frac{dr}{\sqrt{ \frac{2}{\mu}(E-U_{eff})}} \\
+\implies & \int_{t_{0}}^{t} dt = \int _{r_{0}}^{r} \frac{dr}{\sqrt{ \frac{2}{\mu}(E-U_{eff})}}
 \end{align}
 $$
