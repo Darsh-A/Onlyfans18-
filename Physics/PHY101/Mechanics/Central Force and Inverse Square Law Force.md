@@ -107,6 +107,10 @@ $$
 The above equation gives us $r$ as a function of $t$. But often times we have to find θ as a function of $t$, therefore we make use of
 $$
 \require{physics}
- \frac{d\theta}{dt}= \frac{L}{\mu r^{2}}
+ \frac{d\theta}{dt}= \frac{L}{\mu r^{2}} 
 $$
-In the above equat
+In the above equation since $r$ is known to be a function of $t$. We can integrate the above equation to find
+$$
+\require{physics}
+\theta - \theta_{0}=\frac{L}{\mu}
+$$
