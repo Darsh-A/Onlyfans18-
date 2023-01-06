@@ -80,6 +80,4 @@ E &= K.E \text{ } + \text{ } U(r) \\
 &= \frac{\mu \dot{r}^{2}}{2}+ \frac{L^{2}}{2\mu r^{2}}+ U(r) \\
 \end{align}
 $$
-The above equation starts to look more and more like the energy equation of a particle moving in one dimension. 
-
-$\mid ss$
+The above equation starts to look more and more like the energy equation of a particle moving in one dimension.
