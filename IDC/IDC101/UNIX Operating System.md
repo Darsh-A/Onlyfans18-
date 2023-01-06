@@ -50,4 +50,5 @@ To exit the *man* window, press Q.
 Command to change permissions of a file is `chmod`. It can be used as:
 `chmod (u/g/o) + (adding permission)   r/w/x (grant permissions for)
                              `- (removing permission)`
-                             ``
+                             `= (assingning permission)`
+                             
