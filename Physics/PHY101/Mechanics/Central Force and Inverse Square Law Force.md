@@ -84,4 +84,4 @@ The above equation starts to look more and more like the energy equation of a pa
 
 ### Effective Potential $U_{eff}(r)$
 
-In order to 
+In order to press the parallel further, we can replace $\frac{L^{2}}{2\mu r^{2}}+U(r)$ with 
