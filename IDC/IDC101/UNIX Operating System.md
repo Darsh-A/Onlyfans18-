@@ -38,4 +38,6 @@ This is a directory structure in UNIX file system. A file can be inside any of t
 
 ### UNIX Commands
 There are many UNIX commands. To know more about any UNIX command use the command `man 'command name'`.
-For example: `man ls`
+For example: `man ls` gives the following window
+![[Screenshot 2023-01-06 at 3.57.45 PM.png]]
+To exit the *man* window, press Q
