@@ -57,7 +57,7 @@ where;
 - `w` represents giving write permissions.
 - `x` represents giving execute permissions.
 
-Example: 
+**Example**: 
 `chmod u+rwx FILENAME` adds read, write and execute permissions to the user
 `chmod ugo=r FILENAME` gives ONLY read permission to the user, group and others
 
@@ -68,8 +68,14 @@ where;
 - `r` is given the numeric value **4**
 - `w` is given the numeric value **2**
 - `x` is given the numeric value **1**
+and you add the numeric vaue for each permission you want to give.
 
 This command is used in the form `chmod abc`
 where;
-- 'a' has to be substituted for the numeric value of permissions to be assinged for 'users'
-- 'b' has to be substituted for the numeric value of the permission
+- 'a' has to be substituted for the numeric value of the permissions to be assinged for 'users'
+- 'b' has to be substituted for the numeric value of the permissions to be assigned for 'groups'
+- 'c' has to be substituted for the numeric value of the permissions to be assigned for 'others'
+
+**Example**:
+`chmod 700` gives read, write and execute permissions to the user
+`chmod 764` gives read, write and execute permissions to the user; read and write permission to the group; and read permission 
