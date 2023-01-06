@@ -48,3 +48,4 @@ To exit the *man* window, press Q.
 
 #### File Permissions
 Command to change permissions of a file is `chmod`. It can be used as:
+![[Screenshot 2023-01-06 at 4.08.23 PM.png]]
