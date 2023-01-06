@@ -97,6 +97,7 @@ Introduction of the effective potential term is a just a way of conveniently rep
 $$
 \require{physics}
 \begin{align}
-E = \frac{1}{2}\mu rdo
+&E = \frac{1}{2}\mu \dot{r}^{2} + U_{eff}(r) \\
+\implies & \dot{r}
 \end{align}
 $$
