@@ -125,7 +125,11 @@ $$
 
 ### Central Force Description of Free Particle Motion
 
+![](https://i.imgur.com/76rQhGp.png)
 Two non-interacting particles $m_{1}$ and $m_{2}$ move toward each other with velocities $v_{1}$ and $v_{2}$, respectively.
+$$
+\require{physics}
+\mu = \frac{m_{1}m_{2}}{m_{1}+m_{2}}
+$$
 
-
-The reduced mass is μ = m1m2/ (m1 + m2). Their paths are offset by distance b, as shown in the sketch. We shall develop the equivalent one-body description of this system and its energy diagram.
+Their paths are offset by distance b, as shown in the sketch.
