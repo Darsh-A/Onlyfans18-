@@ -14,5 +14,4 @@ Varieties of UNIX:
 - Linux
 - MacOX
 
-The UNIX is primarily made of three layers:
-- Kernel
+#### The UNIX is primarily made of three layers:
