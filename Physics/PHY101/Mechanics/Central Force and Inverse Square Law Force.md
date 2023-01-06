@@ -101,6 +101,7 @@ $$
 \implies & \dot{r} = \sqrt{ \frac{2}{\mu}(E-U_{eff}) } \\
 \implies & \frac{dr}{dt} = \sqrt{ \frac{2}{\mu}(E-U_{eff}) }  \\
 \implies & \int_{t_{0}}^{t} dt = \int _{r_{0}}^{r} \frac{dr}{\sqrt{ \frac{2}{\mu}(E-U_{eff})}} \\
-\implies & \int_{t_{0}}^{t} dt = \int _{r_{0}}^{r} \frac{dr}{\sqrt{ \frac{2}{\mu}(E-U_{eff})}}
+\implies & t-t_{0} = \int _{r_{0}}^{r} \frac{dr}{\sqrt{ \frac{2}{\mu}(E-U_{eff})}}
 \end{align}
 $$
+The aboquation formally gives us r as a function of t, although the integral may have to be done numerically in some cases. To find θ as a function of t, rewrite Eq. (10.5) as
