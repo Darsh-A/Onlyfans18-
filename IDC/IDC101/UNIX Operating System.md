@@ -46,3 +46,4 @@ To exit the *man* window, press Q.
 ![[Screenshot 2023-01-06 at 4.01.56 PM.png]]
 ![[Screenshot 2023-01-06 at 4.02.28 PM.png]]
 
+#### File Permissions
