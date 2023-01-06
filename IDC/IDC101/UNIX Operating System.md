@@ -59,9 +59,10 @@ where;
 
 Example: `chmod u+rwx FILENAME` ; `chmod ugo=r FILENAME`
 
+
 **Another method to executing the same command is:**
-`chmod` using number sytstem;
+`chmod` using number system;
 where;
 - `r` is given the numeric value **4**
 - `w` is given the numeric value **2**
-- `x` is given the numeric value **
+- `x` is given the numeric value **1**
