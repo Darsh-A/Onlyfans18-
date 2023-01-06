@@ -43,4 +43,3 @@ For example: `man ls` gives the following window
 To exit the *man* window, press Q.
 
 #### List of UNIX commands
-
