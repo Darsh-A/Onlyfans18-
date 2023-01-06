@@ -104,7 +104,7 @@ $$
 \implies & t-t_{0} = \int _{r_{0}}^{r} \frac{dr}{\sqrt{ \frac{2}{\mu}(E-U_{eff})}}
 \end{align}
 $$
-The above equation gives us $r$ as a function of $t$. But often times we need to  have to find θ as a function of $t$, therefore we make use of
+The above equation gives us $r$ as a function of $t$. But often times we need to find the path of the particle which means knowing $r$ as a function of $\theta$ rather than $t$, so in order to find θ as a function of $t$, therefore we make use of
 $$
 \require{physics}
  \frac{d\theta}{dt}= \frac{L}{\mu r^{2}} 
