@@ -1,2 +1,2 @@
 1. IDC101
-	- [[Number Systems]]
+	- [[Overview of Scientific Computing]]
