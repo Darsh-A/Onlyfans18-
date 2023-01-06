@@ -157,4 +157,11 @@ $$
 E = \frac{1}{2}
 \mu \dot{r}^{2}+ \frac{L^{2}}{2 \mu r^{2}}= \frac{1}{2}\mu v_{0}^{2}
 $$
-When $m_{1}$ and $m_{2}$ pass each other the value of $\dot{r}=0$ an
+When $m_{1}$ and $m_{2}$ pass each other the value of $\dot{r}=0$ and $r=b$
+$$
+\require{physics}
+\begin{align}
+& \frac{L^{2}}{2 \mu b^{2}}=\frac{1}{2}\mu v_{0} ^{2} \\
+& L =\mu b v_{0}
+\end{align}
+$$
