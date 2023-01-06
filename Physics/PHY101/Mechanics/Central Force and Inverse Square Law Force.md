@@ -118,6 +118,7 @@ which is
 $$
 \require{physics}
 \begin{align}
-\frac{d\theta}{dr}=\frac{L}{\mu r^{2}}
+& \frac{d\theta}{dr}=\frac{L}{\mu r^{2}}\sqrt{ \frac{\mu}{2(E-U_{eff})} } \\
+\implies & \theta - \theta_{0} = L \int _{r} \, dx 
 \end{align}
 $$
