@@ -51,5 +51,8 @@ Command to change permissions of a file is `chmod`. It can be used as:
 ![[Screenshot 2023-01-06 at 4.08.23 PM.png]]
 where; 
 - `u` represents giving permission to the user.
-- `g` represents giving permission to th entire group.
-- `o` represents giving permission 
+- `g` represents giving permission to the entire group.
+- `o` represents giving permission to others.
+
+Example: `chmod u+rwx FILENAME`
+		
