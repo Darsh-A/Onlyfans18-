@@ -135,6 +135,9 @@ Their paths are offset by distance $b$ as shown in the diagram. The relative vel
 $$
 \require{physics}
 \begin{align}
-v_{0} &= \dot{r}
+v_{0} &= \dot{r} \\
+&= \dot{r}_{1} - \dot{r}_{2} \\
+&= v_{1}-v_{2}
 \end{align}
 $$
+Here $v_{0}$ is constant because$v_{1}$ and 
