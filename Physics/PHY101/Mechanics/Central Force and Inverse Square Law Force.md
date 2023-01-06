@@ -98,6 +98,8 @@ $$
 \require{physics}
 \begin{align}
 &E = \frac{1}{2}\mu \dot{r}^{2} + U_{eff}(r) \\
-\implies & \dot{r} = \sqrt{( \frac{2}{\mu}(E-U_{eff}) \right)  }
+\implies & \dot{r} = \sqrt{ \frac{2}{\mu}(E-U_{eff}) } \\
+\implies & \frac{dr}{dt} = \sqrt{ \frac{2}{\mu}(E-U_{eff}) }  \\
+\implies & in
 \end{align}
 $$
