@@ -119,6 +119,6 @@ $$
 \require{physics}
 \begin{align}
 & \frac{d\theta}{dr}=\frac{L}{\mu r^{2}}\sqrt{ \frac{\mu}{2(E-U_{eff})} } \\
-\implies & \theta - \theta_{0} = L \int _{r} \, dx 
+\implies & \theta - \theta_{0} = L \int _{r_{0}}^{r} \frac{dr}{r^{2} \sqrt{ 2\mu(E-U_{eff}) } } 
 \end{align}
 $$
