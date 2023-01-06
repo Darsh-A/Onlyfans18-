@@ -53,6 +53,9 @@ where;
 - `u` represents giving permission to the user.
 - `g` represents giving permission to the entire group.
 - `o` represents giving permission to others.
+- `r` represents giving read permissions.
+- `w` represents giving write permissions.
+- `x` represents giving execute permissions.
+
 
 Example: `chmod u+rwx FILENAME`
-		
