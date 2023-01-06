@@ -42,4 +42,5 @@ For example: `man ls` gives the following window
 ![[Screenshot 2023-01-06 at 3.57.45 PM.png]]
 To exit the *man* window, press Q.
 
-**List of UNIX commands**
+#### List of UNIX commands
+
