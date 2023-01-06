@@ -47,3 +47,4 @@ To exit the *man* window, press Q.
 ![[Screenshot 2023-01-06 at 4.02.28 PM.png]]
 
 #### File Permissions
+Command to change permissions of a file is `chmod` 
