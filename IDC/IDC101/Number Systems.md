@@ -1,1 +1,1 @@
-Penis good 😊👍̛
+Penis good
