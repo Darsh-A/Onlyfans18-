@@ -58,7 +58,7 @@ where;
 - `x` represents giving execute permissions.
 
 Example: 
-`chmod u+rwx FILENAME` ; `chmod ugo=r FILENAME`
+`chmod u+rwx FILENAME` gives read, write and execute permissions to the user `chmod ugo=r FILENAME`
 
 
 **Another method to executing the same command is:**
