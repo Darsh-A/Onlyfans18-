@@ -7,6 +7,6 @@ $$
 
 $a_{centrifugal}= r \dot{\theta}^{2}$
 
-
 ## Coriolis Force
 
+$a_{coriolis} = 2 \dot{r} \dot{\theta}$
