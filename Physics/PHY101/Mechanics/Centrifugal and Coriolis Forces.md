@@ -5,4 +5,7 @@ $$
 $$
 ## Centrifugal Force
 
-$a_{}$
+$a_{centrifugal}= r \dot{\theta}^{2}$
+
+
+
