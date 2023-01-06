@@ -183,4 +183,4 @@ $$
 \require{physics}
 r_{t}=b
 $$
-Which is as we expected
+Which is as we expected, since $r_{t}$ is the distance of closest approach of the particles; it is the 
