@@ -77,6 +77,6 @@ where;
 - 'c' has to be substituted for the numeric value of the permissions to be assigned for 'others'
 
 **Example**:
-`chmod 700` gives read, write and execute permissions to the user
+`chmod 700` gives read, write and execute permissions to the user and no permission 
 `chmod 764` gives read, write and execute permissions to the user; read and write permission to the group; and read permission to others
 
