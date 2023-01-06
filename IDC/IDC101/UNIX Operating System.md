@@ -67,4 +67,6 @@ where;
 - `w` is given the numeric value **2**
 - `x` is given the numeric value **1**
 
-This command is used in the form `chmod `
+This command is used in the form `chmod abc`
+where;
+- 'a' has to be substituted for the numeric value of permissions to be assinged 
