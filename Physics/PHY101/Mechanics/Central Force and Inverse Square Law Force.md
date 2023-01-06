@@ -104,7 +104,7 @@ $$
 \implies & t-t_{0} = \int _{r_{0}}^{r} \frac{dr}{\sqrt{ \frac{2}{\mu}(E-U_{eff})}}
 \end{align}
 $$
-The above equation gives us $r$ as a function of $t$. But often times we have to find θ as a function of $t$, therefore we make use of
+The above equation gives us $r$ as a function of $t$. But often times we need to  have to find θ as a function of $t$, therefore we make use of
 $$
 \require{physics}
  \frac{d\theta}{dt}= \frac{L}{\mu r^{2}} 
@@ -112,5 +112,5 @@ $$
 In the above equation since $r$ is known to be a function of $t$. We can integrate the above equation to find
 $$
 \require{physics}
-\theta - \theta_{0}=\frac{L}{\mu}
-$$
+\theta - \theta_{0}=\frac{L}{\mu} \int _{t_{0}}^{t} \frac{dt}{r^{2}} 
+$$ 
