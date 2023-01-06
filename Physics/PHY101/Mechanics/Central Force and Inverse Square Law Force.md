@@ -172,3 +172,5 @@ U_{eff}=\frac{1}{2}\mu v_{0}^{2} \frac{b^{2}}{r^{2}}
 $$
 The following is the energy diagram:
 ![](https://i.imgur.com/BV7Bfzh.png)
+
+The kinetic energy associated with radial motion is $K =$
