@@ -84,4 +84,4 @@ The above equation starts to look more and more like the energy equation of a pa
 
 ### Effective Potential $U_{eff}(r)$
 
-In order to press the parallel further, we can replace $\frac{L^{2}}{2\mu r^{2}}+U(r)$ with $U_{eff}(r)$. Here $U_{eff}(r)$ is simply referred to as the 
+In order to press the parallel further, we can replace $\frac{L^{2}}{2\mu r^{2}}+U(r)$ with $U_{eff}(r)$. Here $U_{eff}(r)$ is simply referred to as the effective potential which differs from true potential by a value of $\frac{L^{2}}{2\mu r^{2}}$ which is called the *centripetal potential*.
