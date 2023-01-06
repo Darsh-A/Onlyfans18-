@@ -177,5 +177,10 @@ The kinetic energy associated with radial motion is $K = \frac{1}{2} \mu \dot{r}
 As $K$ can never be negative, the motion is restricted to regions where $E - U_{eff} \geq 0$. Initially as $r$ is very large and $U_{eff} \approx 0$. As the particles approach, the kinetic energy decreases vanishing at the turning point $r_{t}$, where the radial velocity is $0$ and the motion is purely tangential. At the turning point $E = U_{eff}(r_{t})$, which gives
 $$
 \require{physics}
-\frac{1}{2}\mu v_{0}^{2}= \frac{1}{2}\mu v_{0}^{2} \frac{b^{2}}{}
+\frac{1}{2}\mu v_{0}^{2}= \frac{1}{2}\mu v_{0}^{2} \frac{b^{2}}{r_{t}^{2}}
 $$
+$$
+\require{physics}
+r_{t}=b
+$$
+Which is as we expected
