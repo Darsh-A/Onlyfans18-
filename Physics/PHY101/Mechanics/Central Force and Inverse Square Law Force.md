@@ -77,7 +77,11 @@ $$
 \require{physics}
 \begin{align}
 E &= K.E \text{ } + \text{ } U(r) \\
-&= \frac{\mu \dot{r}^{2}}{2}+ \frac{L^{2}}{2\mu r^{2}}+ U(r) \\
+E&= \frac{\mu \dot{r}^{2}}{2}+ \frac{L^{2}}{2\mu r^{2}}+ U(r) \\
 \end{align}
 $$
 The above equation starts to look more and more like the energy equation of a particle moving in one dimension with all references to $\theta$ gone.
+
+### Effective Potential $U_{eff}(r)$
+
+
