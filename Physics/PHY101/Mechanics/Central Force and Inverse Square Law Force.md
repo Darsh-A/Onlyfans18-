@@ -112,5 +112,12 @@ $$
 In the above equation since $r$ is known to be a function of $t$. We can use chain rule to write
 $$
 \require{physics}
-\frac{d\theta}{dr}= \frac{d\theta}{dt}
+\frac{d\theta}{dr}= \frac{d\theta}{dt} \frac{dt}{dr}
+$$
+which is
+$$
+\require{physics}
+\begin{align}
+\frac{d\theta}{dr}=\frac{L}{\mu r^{2}}
+\end{align}
 $$
