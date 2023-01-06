@@ -143,5 +143,7 @@ $$
 Here $v_{0}$ is constant because $v_{1}$ and $v_{2}$ are constant. The energy the system relative to the center of mass is
 $$
 \require{physics}
-E = \frac{1}{2}\mu_{0}
+E = \frac{1}{2}\mu_{0}v_{0}^{2} + U(r) = \frac{1}{2}\mu_{0}v_{0}^{2}
 $$
+as $U(r)=0$ for non interacting particles.
+
