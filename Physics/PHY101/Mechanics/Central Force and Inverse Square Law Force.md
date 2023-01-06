@@ -98,6 +98,6 @@ $$
 \require{physics}
 \begin{align}
 &E = \frac{1}{2}\mu \dot{r}^{2} + U_{eff}(r) \\
-\implies & \dot{r}
+\implies & \dot{r} = \sqrt{( \frac{2}{\mu}(E-U_{eff}) \right)  }
 \end{align}
 $$
