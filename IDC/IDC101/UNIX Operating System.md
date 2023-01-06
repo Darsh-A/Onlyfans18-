@@ -3,4 +3,9 @@ Unix OS is a powerful multi-user and multi-tasking system developed in the 1970'
 - Open-source and comunity based development.
 
 ###### Features:
-- Portabilti
+- Portability
+- File Security
+- Communication
+- Command Line
+- Graphics User Interface (GUI)
+
