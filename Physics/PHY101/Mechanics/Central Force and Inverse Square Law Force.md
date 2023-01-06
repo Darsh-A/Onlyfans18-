@@ -123,4 +123,4 @@ $$
 \end{align}
 $$
 
-### Energy equations and Energy Diagrams
+### Central 
