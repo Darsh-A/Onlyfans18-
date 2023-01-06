@@ -174,4 +174,4 @@ The following is the energy diagram:
 ![](https://i.imgur.com/BV7Bfzh.png)
 
 The kinetic energy associated with radial motion is $K = \frac{1}{2} \mu \dot{r}^{2} = E-U_{eff}$
-As $K$ can never be negative, the motion is restricted to regions where $E - U_{eff} \geq 0$. Initially as $r$ is very l
+As $K$ can never be negative, the motion is restricted to regions where $E - U_{eff} \geq 0$. Initially as $r$ is very large and $U_{eff} \approx 0$. As the particles approach, the kinetic energy decreases vanishing at
