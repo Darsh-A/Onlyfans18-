@@ -168,5 +168,7 @@ $$
 and this relation always holds true because $L$ is constant. Therefore,
 $$
 \require{physics}
-U_{eff}=\frac{1}{2}\mu v_{0}^{2}b^{2}/
+U_{eff}=\frac{1}{2}\mu v_{0}^{2} \frac{b^{2}}{r^{2}}
 $$
+The following is the energy diagram:
+![Uploading file...g0pqi]()
