@@ -9,4 +9,10 @@ Features:
 - Command Line
 - Graphics User Interface (GUI)
 
-Theere
+Varieties of UNIX:
+- Sun Solaris
+- Linux
+- MacOX
+
+The UNIX is primarily made of three layers:
+- Kernel
