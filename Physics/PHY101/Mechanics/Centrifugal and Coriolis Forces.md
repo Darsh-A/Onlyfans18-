@@ -7,5 +7,6 @@ $$
 
 $a_{centrifugal}= r \dot{\theta}^{2}$
 
-## Coriolis Morc
+
+## Coriolis Force
 
