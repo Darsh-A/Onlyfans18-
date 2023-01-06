@@ -140,4 +140,8 @@ v_{0} &= \dot{r} \\
 &= v_{1}-v_{2}
 \end{align}
 $$
-Here $v_{0}$ is constant because$v_{1}$ and 
+Here $v_{0}$ is constant because $v_{1}$ and $v_{2}$ are constant. The energy the system relative to the center of mass is
+$$
+\require{physics}
+E = \frac{1}{2}\mu_{0}
+$$
