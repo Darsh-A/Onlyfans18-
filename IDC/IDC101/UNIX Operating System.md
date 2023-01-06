@@ -66,3 +66,5 @@ where;
 - `r` is given the numeric value **4**
 - `w` is given the numeric value **2**
 - `x` is given the numeric value **1**
+
+This command is used in the form `chmod `
