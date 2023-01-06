@@ -59,7 +59,7 @@ where;
 
 Example: 
 `chmod u+rwx FILENAME` adds read, write and execute permissions to the user
-`chmod ugo=r FILENAME` gives ONLY read permission to the user, group
+`chmod ugo=r FILENAME` gives ONLY read permission to the user, group and others
 
 
 **Another method to executing the same command is:**
@@ -72,4 +72,4 @@ where;
 This command is used in the form `chmod abc`
 where;
 - 'a' has to be substituted for the numeric value of permissions to be assinged for 'users'
-- 'b' has to be substituted
+- 'b' has to be substituted for the numeric value of the permission
