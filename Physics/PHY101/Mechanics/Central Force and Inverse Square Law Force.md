@@ -146,4 +146,3 @@ $$
 E = \frac{1}{2}\mu_{0}v_{0}^{2} + U(r) = \frac{1}{2}\mu_{0}v_{0}^{2}
 $$
 as $U(r)=0$ for non interacting particles.
-
