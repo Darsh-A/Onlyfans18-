@@ -37,4 +37,4 @@ This is a directory structure in UNIX file system. A file can be inside any of t
 
 
 ### UNIX Commands
-There are many UNIX
+There are many UNIX commands. To know 
