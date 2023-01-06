@@ -81,3 +81,5 @@ E &= K.E \text{ } + \text{ } U(r) \\
 \end{align}
 $$
 The above equation starts to look more and more like the energy equation of a particle moving in one dimension. 
+
+$\mid ss$
