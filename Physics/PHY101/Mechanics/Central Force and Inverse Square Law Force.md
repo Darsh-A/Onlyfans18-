@@ -151,4 +151,9 @@ $$
 U_{eff}(r)= \frac{L^{}{2}}{2\mu r^{2}}+ U(r) = \frac{L^{2}}{2 \mu r^{2}}
 $$
 
-We can evaluate $L$ easily by 
+We can evaluate $L$ easily by
+$$
+\require{physics}
+E = \frac{1}{2}
+\mu \dot{r}^{2}+ \frac{L^{2}}{2 \mu r^{2}}=
+$$
