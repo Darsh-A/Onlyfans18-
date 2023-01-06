@@ -92,4 +92,11 @@ color: 255,0,0
 Introduction of the effective potential term is a just a way of conveniently representing the energy equation to look similar to energy equation of a particle undergoing one dimensional motion. 
 ```
 
-## Formal Solution of 
+## Formal Solution of Central Force Motion
+
+$$
+\require{physics}
+\begin{align}
+E = \frac{1}{2}\mu rdo
+\end{align}
+$$
