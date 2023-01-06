@@ -173,4 +173,5 @@ $$
 The following is the energy diagram:
 ![](https://i.imgur.com/BV7Bfzh.png)
 
-The kinetic energy associated with radial motion is $K =$
+The kinetic energy associated with radial motion is $K = \frac{1}{2} \mu \dot{r}^{2} = E-U_{eff}$
+
