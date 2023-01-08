@@ -3,6 +3,7 @@ List of cool plugins.
 ## Necessary
 - Admonitions
 - Imgur Plugin
+- Obsidian Git
 
 ## Great Ones
 - Latex Suite
@@ -11,4 +12,5 @@ List of cool plugins.
 - Advanced Tables
 
 ## Good For Specific Tasks
-- Omni
+- Omnisearch
+- Better PDF Plugin
