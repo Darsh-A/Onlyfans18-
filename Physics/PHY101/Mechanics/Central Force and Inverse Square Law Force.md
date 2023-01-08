@@ -3,6 +3,7 @@ Consider an isolated system containing two particles interacting under a central
 ![](https://i.imgur.com/JAjXvql.png)
 
 The equations of motion therefore are:
+
 $$
 \require{physics}
 \begin{align}
@@ -11,12 +12,12 @@ $$
 \text{Therefore }\mu \ddot{r}= f(r)\hat{\mathbf{r}},
 \end{align}
 $$
+
 where $\mu$ is the reduced mass of the system $\mu = \frac{m_{1}m_{2}}{m_{1}+m_{2}}$
 
 ```ad-note
 ## Consequences of conservation of angular momentum
 ```
-
 
 ```ad-note
 title: The motion is confined to a plane
@@ -63,7 +64,8 @@ Since $L$ and $\mu$ is constant the rate of change of area is same.
 ## Consequences of the Conservation of Energy
 
 The kinetic energy of $\mu$ is,
- $$
+
+$$
 \require{physics}
 \begin{align}
 K &= \frac{1}{2}\mu v^{2} \\
@@ -72,7 +74,9 @@ K &= \frac{1}{2}\mu v^{2} \\
 &= \frac{1}{2} (\mu \dot{r}^{2}+ \frac{L^{2}}{\mu r^{2}})
 \end{align}
 $$
+
 The total energy $E$ of the system becomes:
+
 $$
 \require{physics}
 \begin{align}
@@ -80,6 +84,7 @@ E &= K.E \text{ } + \text{ } U(r) \\
 \implies E&= \frac{\mu \dot{r}^{2}}{2}+ \frac{L^{2}}{2\mu r^{2}}+ U(r)\\
 \end{align}
 $$
+
 The above equation starts to look more and more like the energy equation of a particle moving in one dimension with all references to $\theta$ gone.
 
 ### Effective Potential $U_{eff}(r)$
@@ -104,17 +109,23 @@ $$
 \implies & t-t_{0} = \int _{r_{0}}^{r} \frac{dr}{\sqrt{ \frac{2}{\mu}(E-U_{eff})}}
 \end{align}
 $$
+
 The above equation gives us $r$ as a function of $t$. But often times we need to find the path of the particle which means knowing $r$ as a function of $\theta$ rather than $t$, so in order to find θ as a function of $t$, therefore we make use of
+
 $$
 \require{physics}
  \frac{d\theta}{dt}= \frac{L}{\mu r^{2}} 
 $$
+
 In the above equation since $r$ is known to be a function of $t$. We can use chain rule to write
+
 $$
 \require{physics}
 \frac{d\theta}{dr}= \frac{d\theta}{dt} \frac{dt}{dr}
 $$
+
 which is
+
 $$
 \require{physics}
 \begin{align}
@@ -126,12 +137,16 @@ $$
 ### Central Force Description of Free Particle Motion
 
 ![](https://i.imgur.com/76rQhGp.png)
+
 Two non-interacting particles $m_{1}$ and $m_{2}$ move toward each other with velocities $v_{1}$ and $v_{2}$, respectively. Therefore,
+
 $$
 \require{physics}
 \mu = \frac{m_{1}m_{2}}{m_{1}+m_{2}}
 $$
+
 Their paths are offset by distance $b$ as shown in the diagram. The relative velocity is:
+
 $$
 \require{physics}
 \begin{align}
@@ -140,24 +155,31 @@ v_{0} &= \dot{r} \\
 &= v_{1}-v_{2}
 \end{align}
 $$
+
 Here $v_{0}$ is constant because $v_{1}$ and $v_{2}$ are constant. The energy the system relative to the center of mass is
+
 $$
 \require{physics}
 E = \frac{1}{2}\mu_{0}v_{0}^{2} + U(r) = \frac{1}{2}\mu_{0}v_{0}^{2}
 $$
+
 as $U(r)=0$ for non interacting particles.
+
 $$
 \require{physics}
 U_{eff}(r)= \frac{L^{}{2}}{2\mu r^{2}}+ U(r) = \frac{L^{2}}{2 \mu r^{2}}
 $$
 
 We can evaluate $L$ easily by
+
 $$
 \require{physics}
 E = \frac{1}{2}
 \mu \dot{r}^{2}+ \frac{L^{2}}{2 \mu r^{2}}= \frac{1}{2}\mu v_{0}^{2}
 $$
+
 When $m_{1}$ and $m_{2}$ pass each other the value of $\dot{r}=0$ and $r=b$
+
 $$
 \require{physics}
 \begin{align}
@@ -165,22 +187,30 @@ $$
 L =\mu b v_{0}
 \end{align}
 $$
+
 and this relation always holds true because $L$ is constant. Therefore,
+
 $$
 \require{physics}
 U_{eff}=\frac{1}{2}\mu v_{0}^{2} \frac{b^{2}}{r^{2}}
 $$
+
 The following is the energy diagram:
+
 ![](https://i.imgur.com/BV7Bfzh.png)
 
 The kinetic energy associated with radial motion is $K = \frac{1}{2} \mu \dot{r}^{2} = E-U_{eff}$
+
 As $K$ can never be negative, the motion is restricted to regions where $E - U_{eff} \geq 0$. Initially as $r$ is very large and $U_{eff} \approx 0$. As the particles approach, the kinetic energy decreases vanishing at the turning point $r_{t}$, where the radial velocity is $0$ and the motion is purely tangential. At the turning point $E = U_{eff}(r_{t})$, which gives
+
 $$
 \require{physics}
 \frac{1}{2}\mu v_{0}^{2}= \frac{1}{2}\mu v_{0}^{2} \frac{b^{2}}{r_{t}^{2}}
 $$
+
 $$
 \require{physics}
 r_{t}=b
 $$
+
 Which is as we expected, since $r_{t}$ is the distance of closest approach of the particles; it is the minimum value of $r$. Once the turning point is passed, $r$ increases and the particles separate.
