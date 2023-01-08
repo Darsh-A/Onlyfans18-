@@ -98,7 +98,6 @@ Introduction of the effective potential term is a just a way of conveniently rep
 ```
 
 ## Formal Solution of Central Force Motion
-
 $$
 \require{physics}
 \begin{align}

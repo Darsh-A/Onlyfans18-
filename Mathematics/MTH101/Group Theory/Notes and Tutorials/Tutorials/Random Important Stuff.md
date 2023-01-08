@@ -1,7 +1,9 @@
 $ax\equiv b \: \:\: (mod \: \: m)$
 
 Does $gcd(a,m)$ divide $b$?
+
 	If no $\implies$ no sulution
+
 	If yes, find $x,y$ such that $ax+my=gcd(a,m)$
 
 $$
