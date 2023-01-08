@@ -1,3 +1,6 @@
-Add content rendering plugins if you start using a new one.
-- Latex Suite
-- Admonition
+List of cool plugins.
+
+## Necessary
+- Admonitions
+
+## 
