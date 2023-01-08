@@ -4,8 +4,11 @@ List of cool plugins.
 - Admonitions
 - Imgur Plugin
 
-## Good to have
+## Great Ones
 - Latex Suite
 - Execute Code
 - Code Block to Selection and Commander (For Admonitions)
-- 
+- Advanced Tables
+
+## Good For Specific Tasks
+- Omni
