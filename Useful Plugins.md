@@ -7,4 +7,5 @@ List of cool plugins.
 ## Good to have
 - Latex Suite
 - Execute Code
+- Code Block to Selection and Commander (For Admonitions)
 - 
