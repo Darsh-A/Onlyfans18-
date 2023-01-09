@@ -129,7 +129,7 @@ $$
 \end{align}
 $$
 			- Since boron oxides can act as bronsted acids, borate ions are capable of acting as bronsted bases
-		
+		2. **Boron Trihlaides
 
 
 
