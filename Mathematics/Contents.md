@@ -21,4 +21,8 @@
 > [[4.Sub-Groups#Finite Groups: | Finite Group]]
 
 [[5.Lagrange's Theorem]]
->[[5.Lagrange's Theorem#]]
+>[[5.Lagrange's Theorem#Theorem | The Theorem]]
+>[[5.Lagrange's Theorem#Disjoint-ness Arguments: | Disjoint Argument]]
+
+[[6.Cosets]]
+>[[6.Cosets#Cardinality of Cosets | Cardinality]]
