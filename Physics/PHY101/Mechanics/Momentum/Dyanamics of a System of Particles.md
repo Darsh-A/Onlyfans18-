@@ -49,7 +49,9 @@ We define $R$ as a vector from origin to the center of mass
 > $i.e,$ the system of particles obey Newton's Third Law
 
 Furthermore,
-```ad-no
+```ad-note
+title: ~
+$\qquad \qquad \qquad R = \frac{1}{M}\int r \, dm  \qquad -\text{when N} \rightarrow \infty$
 ```
 
 #### Calculating COM of a Rod
