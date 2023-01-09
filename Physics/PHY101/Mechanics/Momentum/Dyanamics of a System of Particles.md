@@ -16,5 +16,16 @@ $$
 $$
 Hence,
 $$
-P \equiv \sum_{j=1}^{N}
+\begin{align}
+P \equiv \sum_{j=1}^{N}p_{j} \\  \\
+F_{ext} = \frac{dP}{dt}
+\end{align}
+
 $$
+
+This shows how Internal and External Forces affect the momentum of the system
+
+---
+
+## Centre of Mass
+
