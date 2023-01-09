@@ -49,9 +49,8 @@ We define $R$ as a vector from origin to the center of mass
 > $i.e,$ the system of particles obey Newton's Third Law
 
 Furthermore,
-$$
-R = \frac{1}{M}\int r \, dm  \qquad -\text{when N} \rightarrow \infty
-$$
+```ad-no
+```
 
 #### Calculating COM of a Rod
 $$
@@ -62,11 +61,12 @@ M &= \int  \, dm  \\
 &= \int_{0}^{L} \frac{\lambda_{o}x}{L} \, dx  \\
 &= \frac{1}{2}\lambda_{o}L \\ \\
 R &= \frac{1}{M} \int \lambda \:r \, dx  \\
-&=\frac{2}{\lambda_{o}L} \int _{0}^{L} \frac{(x \mathbf{i}+0\mathbf{j}+o\mathbf{k})\lambda_{o}x}{L} \, dx  \\
-&= \frac{2}{L^{2}} \left[ \frac{x_{3}}{3} \right]^{L}_{0} \mathbf{i} \\
-&=\frac{2}{3}
+&=\frac{2}{\lambda_{o}L} \int _{0}^{L} \frac{(x \mathbf{i}+0\mathbf{j}+0\mathbf{k})\lambda_{o}x}{L} \, dx  \\
+&= \frac{2}{L^{2}} \left[ \frac{x^{3}}{3} \right]^{L}_{0} \mathbf{i} \\
+&=\frac{2}{3}L \:\:\mathbf{i}
 \end{align}
 $$
+
 
 
 
