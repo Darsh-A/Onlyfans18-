@@ -116,3 +116,4 @@ Metal salts of hydride ions
 	- To *deprotonate reactive $C - H$ bonds*$$\require{mhchem} \ce{ NaH(s) + CH_{3}C#C-H(g) -> CH_{3}C#C- Na+ + H_{2}(g) }$$
 
 ### Covalent and Intermediate Hydrides 
+These are formed by non-
