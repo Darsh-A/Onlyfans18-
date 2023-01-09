@@ -98,7 +98,13 @@ Cation formation favoured due to *low ionisation energies* and *high solvation e
 
 ### Group $13$ elements
 #### Boron
-Network covalent solid characterized by sharing of electrons in boron clusters, primarily linked icosahedra 
+Network covalent solid characterized by sharing of electrons in boron clusters, primarily linked *icosahedra*
+![[icosahedra .png]]
+
+##### Chemical Properties
+***Preparation:***
+- Reduction of its hal
+
 
 ----
 
