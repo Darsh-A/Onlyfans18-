@@ -97,7 +97,8 @@ Cation formation favoured due to *low ionisation energies* and *high solvation e
 	- Size effects are also responsible for alkali metal complexes with macrocyclic ligands: particularly crown ethers and cyptands ![[cryptands and crown ethers .png]]
 
 ### Group $13$ elements
-
+#### Boron
+Network covalent solid characterized by sharing of electrons in boron clusters, primarily linked icosahedra 
 
 ----
 
