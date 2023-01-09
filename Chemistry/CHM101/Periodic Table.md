@@ -105,9 +105,10 @@ Cation formation favoured due to *low ionisation energies* and *high solvation e
 
 #### Ionic Hydrides 
 Metal salts of hydride ions
+	- form *ionic lattices*
+		$NaCl$ structure common for $MH$ and $PbI_{2}$ for $MH_{2}$ 
 	- formed by all alkali metals and alkaline earth metals except $Be$ $$\require{mhchem}
 	\ce{2M(s) + H_{2}(g) ->[\Delta] 2MH(s)}\ \ \ \ (M=Li,Na,K,Rb)$$ $$\require{mhchem}
 	\ce{ M(s) + H_{2}(g) ->[\Delta] 2MH_{2} } \ \ \ \ (M=Mg,Ca,Sr,Ba)$$
-	- form *ionic lattices*
-		$NaCl$ structure common for $MH$ and $PbI_{2}$ for $MH_{2}$ 
+	- Act as *reducing agents* towards metal o
 	
