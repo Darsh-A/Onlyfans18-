@@ -53,6 +53,12 @@ $$
 R = \frac{1}{M}\int r \, dm  \qquad -\text{when N} \rightarrow \infty
 $$
 
+#### Calculating COM of a Rod
+$$
+\begin{align}
+\lambda &= \lambda_{o} ()
+\end{align}
+$$
 
 
 
