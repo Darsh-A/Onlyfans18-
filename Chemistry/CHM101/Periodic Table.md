@@ -142,4 +142,6 @@ Properties vary depending on whether the element hydride is electron deficient, 
 
 
 ### Interstitial/Metallic Hydrides
-- Hydrogen dissolves in metals to form non-stoichiometric compounds of the formula m
+- Hydrogen dissolves in metals to form non-stoichiometric compounds of the formula $MH_{n}$
+- $H$ occupies interstices in a $FCC, HCP$ or $BCC$ metal lattice 
+- Metal lattice expands by $10-20$% during the process
