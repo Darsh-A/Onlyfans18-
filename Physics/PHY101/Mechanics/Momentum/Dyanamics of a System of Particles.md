@@ -33,8 +33,12 @@ $$
 \begin{align}
 F &= \frac{dP}{dt} \\ \\
 F &= M\ddot{R} \\ \\
-M\ddot{R} = \frac{dP}{dt} = \sum_{j=1}^{N}
+M\ddot{R} &= \frac{dP}{dt} = \sum_{j=1}^{N} m_{j}\ddot{r_{j}}
 
 \end{align}
+$$
+which is true only if,
+$$
+R = 
 $$
 
