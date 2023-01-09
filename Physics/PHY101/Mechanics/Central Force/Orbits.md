@@ -16,7 +16,10 @@ Thus this tells us ***Angular velocity in Circular Orbit is Constant***
 Now, Integrating
 $$
 \begin{align}
-\theta = \sqrt{ \frac{GM}{r_{p}^{3}} }\cdot t \\ \\
-T &= 
-\end{align}
+\theta &= \sqrt{ \frac{GM}{r_{p}^{3}} }\cdot t \\ \\
+T &= 2\pi \sqrt{ \frac{r_{p}^{3}}{GM} } 
+\qquad \qquad - \theta \text{ goes from  } 0 \rightarrow 2\pi
+\end{align} 
 $$
+
+This accidently proves Ke
