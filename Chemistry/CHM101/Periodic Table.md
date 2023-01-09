@@ -141,4 +141,5 @@ Properties vary depending on whether the element hydride is electron deficient, 
 	For Example: $GeH_{4}$ is expected to be a hydride donor but it deprotonates in liquid ammonia due to high solvation energy of $H+$ ion
 
 
-### Inte
+### Interstitial/Metallic Hydrides
+- Hydrogen dissolves in metals to form non-stoichiometric compounds of the formula m
