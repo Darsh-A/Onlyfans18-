@@ -25,4 +25,10 @@
 >[[5.Lagrange's Theorem#Disjoint-ness Arguments: | Disjoint Argument]]
 
 [[6.Cosets]]
->[[6.Cosets#Cardinality of Cosets | Cardinality]]
+> [[6.Cosets#Cardinality of Cosets | Cardinality]]
+>  [[6.Cosets#Sub Groups of $mathbb{Z}$ |Subgroups of Z]]
+> [[6.Cosets#Well Ordering Principle | Well Ordering Principle]]
+> [[6.Cosets#Division Algorithm | Division Algorithm]]
+> [[6.Cosets#]]
+>
+>
