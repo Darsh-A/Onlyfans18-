@@ -112,5 +112,7 @@ Metal salts of hydride ions
 	\ce{ M(s) + H_{2}(g) ->[\Delta] 2MH_{2} } \ \ \ \ (M=Mg,Ca,Sr,Ba)$$
 	- Act as *reducing agents* towards metal oxides $$\require{mhchem}
 	\ce{ 2CaH_{2}(s) + TiO_{2}(l) -> 2Cao(s) + Ti(s) + 2H_{2}}$$
+	- Act as *strong bases* towards protic $E -H$ bonds(exothermic reaction with water, liberating $H_{2}$)
+		$$\require{mhchem} \ce{ MH +H_{2} }$$
 	
 	
