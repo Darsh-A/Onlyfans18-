@@ -5,7 +5,7 @@ $$
 \begin{align}
 f_{j} &= \frac{dp_{j}}{dt} \\ \\
 f_{j} &= f_{j}^{int} + f_{j}^{ext} \\ \\
-\sum
+\sum_{j=1}^{N}f_{j}^{int} &+ \sum_{j=1}^{N} f_{j}^{ext} = \sum_{j=1}^{N} \frac{dp_{j}}{dt}
 
 \end{align}
 $$
