@@ -126,7 +126,8 @@ $$
 \begin{align}
 \require{mhchem} \\
 \ce{ B_{2}O_{3} + 3H_{2}O -> 2B(OH)3} \\
-B(O)
+\ce{ B(OH)3 <=> H+ + B(OH)2O- } \\
+\ce{ B(OH)3 <=> 3H+ + BO_{3}^{3}-}
 \end{align}
 $$
 		 
