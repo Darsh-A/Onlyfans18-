@@ -9,7 +9,7 @@ f_{j} &= f_{j}^{int} + f_{j}^{ext} \\ \\
 
 \end{align}
 $$
-We know by Newton's Third law i.e, The force between any two particles are equal and opposite so their sum is zero
+We know by Newton's Third law $i.e$, The force between any two particles are equal and opposite so their sum is zero
 Thus,
 $$
 \sum_{j=1}^{N} f_{j}^{int} = 0
@@ -27,18 +27,20 @@ This shows how Internal and External Forces affect the momentum of the system
 
 ---
 
-## Centre of Mass
+## Center of Mass
 
 $$
 \begin{align}
 F &= \frac{dP}{dt} \\ \\
 F &= M\ddot{R} \\ \\
+
 M\ddot{R} &= \frac{dP}{dt} = \sum_{j=1}^{N} m_{j}\ddot{r_{j}}
 
 \end{align}
 $$
-which is true only if,
+***which is true only if,***
 $$
-R = 
+R = \frac{1}{M}\sum_{j=1}^{N}m_{j}r_{j}
 $$
+We define $R$ as a vector from origin to the center of mass
 
