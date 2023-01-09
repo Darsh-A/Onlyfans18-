@@ -51,4 +51,14 @@
 >[[9.Cyclic Groups#Experiments with U(m) | Experiments with U(m)]]
 >[[9.Cyclic Groups#Finding If a Group is Cyclic | Finding if a group is Cyclic]]
 >[[9.Cyclic Groups#Primitive Root modulo M | Primitive root modulo M]]
->[[9.Cyclic Groups]]
+>[[9.Cyclic Groups#Finding Generators of a Cyclic Group | Finding generators of a cyclic group]]
+
+[[10.Permutations]]
+> [[10.Permutations#Array Notation | Array notation]]
+> [[10.Permutations#Order of a Permutation | Order of permutation]]
+
+[[11.Constructing Groups]]
+> [[11.Constructing Groups#External Direct Products | External Direct Products]]
+> [[11.Constructing Groups#Group Homomorphism | Homomorphism]]
+> [[11.Constructing Groups#Kernel and Image | Kernel and Image]]
+
