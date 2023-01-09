@@ -14,4 +14,11 @@
 > [[2.Symmetry#Compositions with Algebra: | Composition through Algebra]]
 
 [[3.Isomorphism]]
-> [[3.Isomorphism]]
+
+[[4.Sub-Groups]]
+> [[4.Sub-Groups#Properties of a Subgroup | Properties]]
+> [[4.Sub-Groups#Order of a Group: | Order of a Group]]
+> [[4.Sub-Groups#Finite Groups: | Finite Group]]
+
+[[5.Lagrange's Theorem]]
+>[[5.Lagrange's Theorem#]]
