@@ -124,5 +124,7 @@ Properties vary depending on whether the element hydride is electron deficient, 
 
 - Dimerise or polymerise using bridging $E -H-E$ bonds which are $3c-2e^{-}$ bonds. 
 
-#### Electron-precise and Electron-rich Hydrides 
-- Formed by $C,N,O,F$ and their higher congeners 
+#### Electron-precise Hydrides 
+- Formed by group-$14$ elements 
+	Alkanes, alkenes and alkynes of carbon and $SiH_{4},$
+- Do not possess any lone pairs 
