@@ -60,9 +60,12 @@ $$
 M &= \int  \, dm  \\
 &=\int_{0}^{L} \lambda \:\: dx \\
 &= \int_{0}^{L} \frac{\lambda_{o}x}{L} \, dx  \\
-&= \frac{1}{2}lam\color{cyan}
+&= \frac{1}{2}\lambda_{o}L \\ \\
+R &= \frac{1}{M} \int \lambda \:r \, dx  \\
+&=\frac{2}{\lambda_{o}L} \int _{0}^{L} (x \cap i) \, dx 
 \end{align}
 $$
+
 
 
 
