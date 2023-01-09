@@ -131,4 +131,5 @@ Properties vary depending on whether the element hydride is electron deficient, 
 
 #### Electron-rich Hydrides 
 - Fomed by $N,O,F$ 
-	$NH_{3},$
+	$NH_{3},H_{2}O,HF$ and their heavier congeners form $PH_{3},H_{2}S,HCl$ 
+- 
