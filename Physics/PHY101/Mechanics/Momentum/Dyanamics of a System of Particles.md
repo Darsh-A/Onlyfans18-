@@ -62,7 +62,9 @@ M &= \int  \, dm  \\
 &= \int_{0}^{L} \frac{\lambda_{o}x}{L} \, dx  \\
 &= \frac{1}{2}\lambda_{o}L \\ \\
 R &= \frac{1}{M} \int \lambda \:r \, dx  \\
-&=\frac{2}{\lambda_{o}L} \int _{0}^{L} (x \cap i) \, dx 
+&=\frac{2}{\lambda_{o}L} \int _{0}^{L} \frac{(x \mathbf{i}+0\mathbf{j}+o\mathbf{k})\lambda_{o}x}{L} \, dx  \\
+&= \frac{2}{L^{2}} \left[ \frac{x_{3}}{3} \right]^{L}_{0} \mathbf{i} \\
+&=\frac{2}{3}
 \end{align}
 $$
 
