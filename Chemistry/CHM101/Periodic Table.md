@@ -118,7 +118,9 @@ Metal salts of hydride ions
 ### Covalent and Intermediate Hydrides 
 These are formed by non-metals, metalloids and many post-transition metals 
 Properties vary depending on whether the element hydride is electron deficient, rich or electron precise. 
-*Note that* in general, stability of element hydrides decreases down the group 
+*Note:* 
+- In general, stability of element hydrides decreases down the group 
+- Ability of an element hydride to function as an acid or hydride donor may be modified by factors like **Solva
 #### Electron-deficient Hydrides 
 - Formed by $Be$, group $13$ elements 
 	Neutral monomeric element hydrides do($BeH_{2},BH_{3}, AlH_{3},GaH_{3},etc.$) not have enough electrons to satisfy octet rule
@@ -133,4 +135,3 @@ Properties vary depending on whether the element hydride is electron deficient, 
 #### Electron-rich Hydrides 
 - Fomed by $N,O,F$ 
 	$NH_{3},H_{2}O,HF$ and their heavier congeners form $PH_{3},H_{2}S,HCl$ 
-- 
