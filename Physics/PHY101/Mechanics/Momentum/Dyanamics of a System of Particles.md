@@ -29,3 +29,6 @@ This shows how Internal and External Forces affect the momentum of the system
 
 ## Centre of Mass
 
+$$
+F
+$$
