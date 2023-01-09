@@ -11,3 +11,5 @@ r_{p}\dot{\theta ^{2}} &= \frac{GM}{r_{p}^{2}} \\ \\
 
 \end{align}
 $$
+Thus this tells us ***Angular velocity in Circular Orbit is Constant***
+
