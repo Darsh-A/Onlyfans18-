@@ -77,7 +77,9 @@
 > [[2. Matrices#Solving Systems of Linear Equations: | Solving system of linear equations]]
 > [[2. Matrices#Matrix Operations | Matrix Operations]]
 
-[[2. Matrices#Row Operations:]]
+
+
+
 
 
 
