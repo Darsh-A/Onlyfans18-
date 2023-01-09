@@ -96,6 +96,9 @@ Cation formation favoured due to *low ionisation energies* and *high solvation e
 	- $K,Rb$ and $Cs$ for a $1:1$ salts of $O^{2-}$ ![[superoxide_peroxide.png]]
 	- Size effects are also responsible for alkali metal complexes with macrocyclic ligands: particularly crown ethers and cyptands ![[cryptands and crown ethers .png]]
 
+### Group $13$ elements
+
+
 ----
 
 
