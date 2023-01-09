@@ -56,7 +56,11 @@ $$
 #### Calculating COM of a Rod
 $$
 \begin{align}
-\lambda &= \lambda_{o} ()
+\lambda &= \lambda_{o} \left( \frac{x}{L} \right)  \\ \\
+M &= \int  \, dm  \\
+&=\int_{0}^{L} \lambda \:\: dx \\
+&= \int_{0}^{L} \frac{\lambda_{o}x}{L} \, dx  \\
+&= \frac{1}{2}lam\color{cyan}
 \end{align}
 $$
 
