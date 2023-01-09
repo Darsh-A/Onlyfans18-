@@ -4,7 +4,7 @@
 - Helium 
 	- $1s$ orbital full, compact and low in energy 
 - Hydrogen 
-	- **More reactive:** $1s$ orbital higher in energy(as comapred to $He$)
+	- **More reactive:** $1s$ orbital higher in energy(as compared to $He$)
 	- **Multicentered Bonding**(pair of electrons shared between more than $2$ centers)
 	- **Chemical Versatility:** 
 		- Contains one electron and loses it readily in aqueous media: property similar to *Alkali Metals*
