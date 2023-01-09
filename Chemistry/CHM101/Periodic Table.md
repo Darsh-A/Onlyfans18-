@@ -43,7 +43,7 @@ Some diagonally related elements have similar physical and chemical properties b
 
 ### $Li$ and $Mg$
 - $Li$ : only alkali metal to form stable nitride $Li_{3}N$, oxide $Li_{2}O$ and $THF$ soluble alkyl carbonium salts like alkaline earth metals 
-	Alkali metals usually form insoluble polymeric caronium reagants, superoxides or peroxides, unstable nitrides and no oxides
+	Alkali metals usually form insoluble polymeric carbonium reagants, superoxides or peroxides, unstable nitrides and no oxides
 ![[Li and Be.png]]
 
 ### $Be$ and $Al$
