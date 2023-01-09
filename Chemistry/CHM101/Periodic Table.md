@@ -119,7 +119,8 @@ $$
 		 For example: 
 		 - $BH_{3}$ can be stabilized by forming an adduct with a lewis base giving $BH_{4}^{-}$
 		 - Borates and Boric acid derivatives and mixture of boraxes all of which are of the formula $[Na(H_{2}O)_{x}]_{2}H_{2}B_{4}O_{7}$ and contain tetraborate anion $B_{4}O_{5}(OH)_{4}^{2-}$  ![[borates_boroxes .png]]
-			 - Borno
+			 **Borates:**
+			 - Boron is found in $BO_{4}$ tetrahedra and trigonal planar $BO_{3}$ un
 		 
 
 
