@@ -130,8 +130,10 @@ $$
 $$
 			- Since boron oxides can act as bronsted acids, borate ions are capable of acting as bronsted bases
 		2. **Boron Trihalides**
-			- $B-X$ bonds are shorter than those in analogous tetrahedral structures due to *resonance* ![[boron_trihalides.png]]
-			- 
+			- $B-X$ bonds are shorter than those in analogous tetrahedral structures due to 
+			($A$) *Resonance*
+			($B$)Need to reduce strenght![[boron_trihalides.png]]
+			
 
 
 
