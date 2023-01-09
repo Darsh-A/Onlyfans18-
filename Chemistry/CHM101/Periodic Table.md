@@ -101,8 +101,8 @@ Cation formation favoured due to *low ionisation energies* and *high solvation e
 Network covalent solid characterized by sharing of electrons in boron clusters, primarily linked *icosahedra*
 ![[icosahedra .png]]
 
-##### Chemical Properties
-***Preparation:***
+##### Properties
+1. ***Preparation:***
 - Reduction of its halides 
 $$\require{mhchem}
 \ce{ 2BCl_{3} + 3H_{2} -> 2B +6HCl}$$
@@ -111,6 +111,9 @@ $$
 \require{mhchem}
 \ce{ B_{2}H_{6} ->[\Delta] 2B + 3H_{2}}
 $$
+
+2. ***Bonding***
+- Forms covalent bonds and engages in cluster and/or bridge bonding. 
 
 
 
