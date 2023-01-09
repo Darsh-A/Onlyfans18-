@@ -34,10 +34,11 @@
 -----
 
 ## Diagonal Relationships 
+
 ![[diag.png]]
 
 Some diagonally related elements have similar physical and chemical properties because:
-- **Similar $\chi$ :** Increase in $\chi$ across a period is compenstated by decrease in $\chi$ along a group 
+- **Similar $\chi$ :** Increase in $\chi$ across a period is compensated by decrease in $\chi$ along a group 
 - **Similar atomic sizes:** Atomic sizes decrease across a period and increase along a group
 
 ### $Li$ and $Mg$
