@@ -22,4 +22,5 @@ T &= 2\pi \sqrt{ \frac{r_{p}^{3}}{GM} }
 \end{align} 
 $$
 
-This accidently proves Ke
+This accidently proves Kepler's Third Law $T^{2} =kR^{3}$
+
