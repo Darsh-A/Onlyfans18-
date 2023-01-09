@@ -72,5 +72,10 @@
 
 [[2. Matrices]]
 > [[2. Matrices#Echelon Matrix | Echelon Matrix]]
-> [[2. Matrices#Row reduced Echelon Matrix: | Row re]]
+> [[2. Matrices#Row reduced Echelon Matrix: | Row reduced Echelon Matrix]]
+> [[2. Matrices#Row Reduction Algorithm | Row Reduction Algorithm]]
+> [[2. Matrices#Solving Systems of Linear Equations: | Solving system of linear equations]]
+> [[2. Matrices#Matrix Operations | Matrix Operations]]
+
+
 
