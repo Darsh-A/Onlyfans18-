@@ -132,7 +132,8 @@ $$
 		2. **Boron Trihalides**
 			- $B-X$ bonds are shorter than those in analogous tetrahedral structures due to 
 			($A$) *Resonance*
-			($B$)Need to reduce strenght![[boron_trihalides.png]]
+			($B$)Need to reduce strength of the greater number of reoulsions between the $F$ atoms in tetrahedral geometries than trigonal planar geometries 
+			($C$)*Ligand Close Packing Model*  ![[boron_trihalides.png]]
 			
 
 
