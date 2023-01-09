@@ -97,6 +97,7 @@ Cation formation favoured due to *low ionisation energies* and *high solvation e
 	- Size effects are also responsible for alkali metal complexes with macrocyclic ligands: particularly crown ethers and cyptands ![[cryptands and crown ethers .png]]
 
 ### Hydrides 
+
 ![[Pasted image 20230108040605.png]]
 
 #### Ionic Hydrides 
