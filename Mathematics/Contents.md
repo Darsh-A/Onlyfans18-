@@ -45,4 +45,10 @@
 >[[8.Subset of Subgroups#Abelian Groups | Abelian Group]]
 
 [[9.Cyclic Groups]]
->
+>[[9.Cyclic Groups#Structure of Cyclic Groups | Structure of Cyclic Groups]]
+>[[9.Cyclic Groups#Order of an Element of $G = : <a>$ | Order of element in G = <a>]]
+>[[9.Cyclic Groups#Euler's Function $ phi$ | Euler's Function]]
+>[[9.Cyclic Groups#Experiments with U(m) | Experiments with U(m)]]
+>[[9.Cyclic Groups#Finding If a Group is Cyclic | Finding if a group is Cyclic]]
+>[[9.Cyclic Groups#Primitive Root modulo M | Primitive root modulo M]]
+>[[9.Cyclic Groups]]
