@@ -44,3 +44,10 @@ R = \frac{1}{M}\sum_{j=1}^{N}m_{j}r_{j}
 $$
 We define $R$ as a vector from origin to the center of mass
 
+##### Note:
+> As far as translation of the center of mass is concerned $F = M\ddot{R}$ is valid for any system of particles
+> $i.e,$ the system of particles obey Newton's Third Law
+
+
+
+
