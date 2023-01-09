@@ -23,10 +23,3 @@ T &= 2\pi \sqrt{ \frac{r_{p}^{3}}{GM} }
 $$
 
 This accidently proves Kepler's Third Law $T^{2} =kR^{3}$
-
-
-a = string
-b = [s,t,r,i,n,g]
-
-b[0] = s
-a[0]
