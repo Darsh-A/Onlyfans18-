@@ -126,5 +126,9 @@ Properties vary depending on whether the element hydride is electron deficient, 
 
 #### Electron-precise Hydrides 
 - Formed by group-$14$ elements 
-	Alkanes, alkenes and alkynes of carbon and $SiH_{4},$
+	Alkanes, alkenes and alkynes of carbon and $SiH_{4},GeH_{4},SnH_{4},PbH_{4}$ 
 - Do not possess any lone pairs 
+
+#### Electron-rich Hydrides 
+- Fomed by $N,O,F$ 
+	$NH_{3},$
