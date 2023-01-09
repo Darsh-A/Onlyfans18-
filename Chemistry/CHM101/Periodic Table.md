@@ -108,5 +108,5 @@ Metal salts of hydride ions
 	- formed by all alkali metals and alkaline earth metals except $Be$ $$\require{mhchem}
 	\ce{2M(s) + H_{2}(g) ->[\Delta] 2MH(s)}\ \ \ \ (M=Li,Na,K,Rb)$$ $$\require{mhchem}
 	\ce{ M(s) + H_{2}(g) ->[\Delta] 2MH_{2} } \ \ \ \ (M=Mg,Ca,Sr,Ba)$$
-	
+	- form *ionic lattices* 
 	
