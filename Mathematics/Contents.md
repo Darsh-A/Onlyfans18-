@@ -29,6 +29,11 @@
 >  [[6.Cosets#Sub Groups of $mathbb{Z}$ |Subgroups of Z]]
 > [[6.Cosets#Well Ordering Principle | Well Ordering Principle]]
 > [[6.Cosets#Division Algorithm | Division Algorithm]]
-> [[6.Cosets#]]
->
->
+> [[6.Cosets#Cosets of Subgroups of $ mathbb{Z}$ | Cosets of Z]]
+
+[[7.Modular Arithmetic]]
+>[[7.Modular Arithmetic#Arithmetic of mod M | Arithmetic of mod (m)]]
+>[[7.Modular Arithmetic#Addition: | Addition Modulo]]
+>[[7.Modular Arithmetic#Multiplication: | Multiplication Modulo]]
+>[[7.Modular Arithmetic#Binary Operations on $ mathbb{Z}/m mathbb{Z}$ | Binary Operation on Z/mZ]]
+>[[7.Modular Arithmetic#Multiplicative Inverses in $ mathbb{Z}/m mathbb{Z}$ | Mult]]
