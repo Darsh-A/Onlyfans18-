@@ -121,3 +121,5 @@ Properties vary depending on whether the element hydride is electron deficient, 
 #### Electron-deficient Hydrides 
 - Formed by $Be$, group $13$ elements 
 	Neutral monomeric element hydrides do($BeH_{2},BH_{3}, AlH_{3},GaH_{3},etc.$) not have enough electrons to satisfy octet rule
+
+- Dimerise or polymerise using bridging $E -H-E$ bonds which are $$
