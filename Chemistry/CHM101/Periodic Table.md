@@ -128,7 +128,9 @@ $$
 \ce{ B(OH)3 <=> 3H+ + BO_{3}^{3-}}
 \end{align}
 $$
-			
+			- Since boron oxides can act as bronsted acids, borate ions are capable of acting as bronsted bases
+		
+
 
 
 
