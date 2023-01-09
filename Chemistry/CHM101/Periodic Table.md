@@ -103,7 +103,15 @@ Network covalent solid characterized by sharing of electrons in boron clusters, 
 
 ##### Chemical Properties
 ***Preparation:***
-- Reduction of its hal
+- Reduction of its halides 
+$$\require{mhchem}
+\ce{ 2BCl_{3} + 3H_{2} -> 2B +6HCl}$$
+- High temperature thermal decomposition of its hydrides 
+$$
+\require{mhchem}
+\ce{ B_{2}H_{6} ->[\Delta] 2B + 3H_{2}}
+$$
+
 
 
 ----
