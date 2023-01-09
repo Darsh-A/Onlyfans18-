@@ -15,9 +15,7 @@ $$
 
 where $\mu$ is the reduced mass of the system $\mu = \frac{m_{1}m_{2}}{m_{1}+m_{2}}$
 
-```ad-note
-## Consequences of conservation of angular momentum
-```
+## Consequences of conservation of Angular Momentum
 
 ```ad-note
 title: The motion is confined to a plane
