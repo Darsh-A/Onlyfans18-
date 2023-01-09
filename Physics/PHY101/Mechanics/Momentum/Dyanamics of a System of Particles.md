@@ -33,7 +33,7 @@ $$
 \begin{align}
 F &= \frac{dP}{dt} \\ \\
 F &= M\ddot{R} \\ \\
-
+P &= \sum_{j=1}^{N} m_{j}\dot{r_{j}} \\ \\
 M\ddot{R} &= \frac{dP}{dt} = \sum_{j=1}^{N} m_{j}\ddot{r_{j}}
 
 \end{align}
