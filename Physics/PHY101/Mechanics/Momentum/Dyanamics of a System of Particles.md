@@ -50,7 +50,7 @@ We define $R$ as a vector from origin to the center of mass
 
 Furthermore,
 $$
-R = \frac{1}{M}\int r \, dm 
+R = \frac{1}{M}\int r \, dm  \qquad -\text{when N} \rightarrow \infty
 $$
 
 
