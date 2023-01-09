@@ -121,16 +121,14 @@ $$
 		 - Borates and Boric acid derivatives and mixture of boraxes all of which are of the formula $[Na(H_{2}O)_{x}]_{2}H_{2}B_{4}O_{7}$ and contain tetraborate anion $B_{4}O_{5}(OH)_{4}^{2-}$  ![[borates_boroxes .png]]
 			 **Borates:**
 			 - Boron is found in $BO_{4}$ tetrahedra and trigonal planar $BO_{3}$ units 
-			 - Illustrate acid-base properties of boron compounds. 
-				 $$
-\begin{align}
+			 - Illustrate acid-base properties of boron compounds.$$\begin{align}
 \require{mhchem} \\
 \ce{ B_{2}O_{3} + 3H_{2}O -> 2B(OH)3} \\
 \ce{ B(OH)3 <=> H+ + B(OH)2O- } \\
-\ce{ B(OH)3 <=> 3H+ + BO_{3}^{3}-}
+\ce{ B(OH)3 <=> 3H+ + BO_{3}^{3-}}
 \end{align}
 $$
-		 
+			
 
 
 
