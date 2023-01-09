@@ -30,5 +30,11 @@ This shows how Internal and External Forces affect the momentum of the system
 ## Centre of Mass
 
 $$
-F
+\begin{align}
+F &= \frac{dP}{dt} \\ \\
+F &= M\ddot{R} \\ \\
+M\ddot{R} = \frac{dP}{dt} = \sum_{j=1}^{N}
+
+\end{align}
 $$
+
