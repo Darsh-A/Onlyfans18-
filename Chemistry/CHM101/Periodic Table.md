@@ -115,4 +115,4 @@ Metal salts of hydride ions
 	- Act as *strong bases* towards protic $E -H$ bonds(exothermic reaction with water, liberating $H_{2}$)$$\require{mhchem} \ce{ MH +H_{2}O -> M+ (aq) + H_{2}(g) + OH- }$$Therefore, $CaH_{2}$ can be used as drying agent for organic solvents
 	- To *deprotonate reactive $C - H$ bonds*$$\require{mhchem} \ce{ NaH(s) + CH_{3}C#C-H(g) -> CH_{3}C#C- Na+ + H_{2}(g) }$$
 
-#
+### Covalent and Intermediate Hydrides 
