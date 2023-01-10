@@ -135,7 +135,7 @@ $$
 			($B$)Need to reduce strength of the greater number of reoulsions between the $F$ atoms in tetrahedral geometries than trigonal planar geometries 
 			($C$)*Ligand Close Packing Model* (See structure $C$) ![[boron_trihalides.png]]
 		3. **Borazines**
-			
+			- Isoelectronic and isostructural to benzene. Both are planar hexagonal molecular structures, non-planar and exist as relatively low boiling point liquids at room temp. 
 
 
 
