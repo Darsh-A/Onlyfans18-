@@ -151,7 +151,8 @@ $$
 					
 				2. Cubic $h-BN$ symmetries
 					- $B$ and $N$ atoms tetrahedrally coordinated analogous to cubic diamond and Lonsdaleite form of carbon 
-					- Layers are arranged so as to be linked in the form of chair or boat conformation $B_{3}N_{3}$ rings 
+					- Layers are arranged so as to be linked in the form of chair or boat conformation $B_{3}N_{3}$ rings ![[chair_boat_borazine.png]]
+					($B$) Chair  
 
 
 
