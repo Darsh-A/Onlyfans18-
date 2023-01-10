@@ -150,7 +150,7 @@ $$
 					- Ability of sheets to move about relativly freely makes borazine a good lubricant(just like graphite). ![[layered_borazine .png]]
 					
 				2. Cubic $h-BN$ symmetries
-					-
+					- $B$ and $N$ atoms tetrahedrally coordinated analogous to cubic diamond and Lonsdaleite form of carbon 
 
 
 
