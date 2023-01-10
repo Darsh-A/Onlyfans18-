@@ -139,7 +139,7 @@ $$
 				- Isoelectronic and isostructural to benzene.
 				- Both are planar hexagonal molecular structures, non-planar and exist as relatively low boiling point liquids at room temp. 
 				- The $B-N$ bond distance of $1.44\:\mathring A$ in Borazine being less than the $1.6\:\mathring A$ typical $B-N$ single bond distance and closer to $1.42\:\mathring A$ $C-C$ bond distance in benzene is a result of delocalised $\pi$ bonding in borazine. 
-			- Electron density is more concentrated over the $N$ at
+			- Electron density is more concentrated over the $N$ atoms as a result of $\chi$ differences between $N$ and $B$ 
 
 
 
