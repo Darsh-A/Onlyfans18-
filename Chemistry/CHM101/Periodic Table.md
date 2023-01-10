@@ -138,7 +138,7 @@ $$
 			-  Similar to Benzene
 				- Isoelectronic and isostructural to benzene.
 				- Both are planar hexagonal molecular structures, non-planar and exist as relatively low boiling point liquids at room temp. 
-				- $A\over$
+				- The $B-N$ bond distance of $1.44\:\mathring A$ 
 
 
 
