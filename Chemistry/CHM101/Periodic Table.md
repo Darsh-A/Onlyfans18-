@@ -134,9 +134,7 @@ $$
 			($A$) *Resonance*
 			($B$)Need to reduce strength of the greater number of reoulsions between the $F$ atoms in tetrahedral geometries than trigonal planar geometries 
 			($C$)*Ligand Close Packing Model* (See structure $C$) ![[boron_trihalides.png]]
-			
-			
-			
+
 
 
 
