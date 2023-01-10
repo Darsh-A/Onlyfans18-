@@ -144,7 +144,7 @@ $$
 				Because of this $B$ and $N$ atoms retain lewis acid and base character 
 			
 			- Polymorphs of Borazine 
-				- 
+				1. *Layered Hexagonal Structure*
 
 
 
