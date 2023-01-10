@@ -149,7 +149,8 @@ $$
 					- Intersheet spacing of $3.3\:\mathring A$ does not allow interlayer bonding. 
 					- Ability of sheets to move about relativly freely makes borazine a good lubricant(just like graphite). ![[layered_borazine .png]]
 					
-				2. 
+				2. Cubic $h-BN$ symmetries
+					-
 
 
 
