@@ -145,7 +145,9 @@ $$
 			
 			- Polymorphs of Borazine 
 				1. *Layered Hexagonal Structure*
-					In keeping the polarity of $B-N$ bonds, The $B$ atoms in one layer are arranged directly above $N$ atoms is the layer directly above or below 
+					- In keeping the polarity of $B-N$ bonds, The $B$ atoms in one layer are arranged directly above $N$ atoms is the layer directly above or below 
+					- Intersheet spacing of $3.3\:\mathring A$ does not allow interlayer bonding. 
+					- Ability of sheets to move about relativly freel
 
 
 
