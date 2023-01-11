@@ -1,4 +1,4 @@
-Consider an isolated system containing two particles interacting under a central force $f(r)\hat{\mathbf{r}}$. The masses of the particles are $m_{1} \text{ and } m_{2}$ and their position vectors are $\require{physics} \vectorarrow{r_{1}} \text{ and } \vectorarrow{r_{2}}$ respectively.
+Consider an isolated system containing two particles interacting under a central force $f(r)\hat{\mathbf{r}}$. The masses of the particles are $m_{1} \text{ and } m_{2}$ and their position vectors are $\require{physics} \vectorarrow{r_{1}} \text{ and } \vectorarrow{r_{2}}$ respectively.p
 
 ![](https://i.imgur.com/JAjXvql.png)
 
