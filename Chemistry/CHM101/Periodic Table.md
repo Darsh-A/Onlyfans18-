@@ -116,9 +116,9 @@ $$
 2. ***Bonding***
 - Forms covalent bonds and engages in cluster and/or bridge bonding
 - Boron posses $3$ electrons and can be stabilized by sharing $5$. This is done in $3$ ways: 
-	1. Forms ordinary covalent bonds and gains extra electrons to give stable molecules or ions.
-		 For example: 
-		 - $BH_{3}$ can be stabilized by forming an adduct with a lewis base giving $BH_{4}^{-}$
+1. Forms ordinary covalent bonds and gains extra electrons to give stable molecules or ions.
+	 For example: 
+	 - $BH_{3}$ can be stabilized by forming an adduct with a lewis base giving $BH_{4}^{-}$
 		 - Borates and Boric acid derivatives and mixture of boraxes all of which are of the formula $[Na(H_{2}O)_{x}]_{2}H_{2}B_{4}O_{7}$ and contain tetraborate anion $B_{4}O_{5}(OH)_{4}^{2-}$  ![[borates_boroxes .png]]
 			 **Borates:**
 			 - Boron is found in $BO_{4}$ tetrahedra and trigonal planar $BO_{3}$ units 
@@ -130,22 +130,22 @@ $$
 \end{align}
 $$
 			- Since boron oxides can act as bronsted acids, borate ions are capable of acting as bronsted bases
-	2. **Boron Trihalides**
-		- $B-X$ bonds are shorter than those in analogous tetrahedral structures due to:
-			($A$) *Resonance*
-			($B$)Need to reduce strength of the greater number of reoulsions between the $F$ atoms in tetrahedral geometries than trigonal planar geometries 
-			($C$)*Ligand Close Packing Model* (See structure $C$) ![[boron_trihalides.png]]
-	3. **Borazines**
-		- Similar to Benzene
-			- Isoelectronic and isostructural to benzene.
-			- Both are planar hexagonal molecular structures, non-planar and exist as relatively low boiling point liquids at room temp. 
-			- The $B-N$ bond distance of $1.44\:\mathring A$ in Borazine being less than the $1.6\:\mathring A$ typical $B-N$ single bond distance and closer to $1.42\:\mathring A$ $C-C$ bond distance in benzene is a result of delocalised $\pi$ bonding in borazine. ![[borazine .png]]
-			
-		- Electron density is more concentrated over the $N$ atoms as a result of $\chi$ differences between $N$ and $B$
-			Because of this $B$ and $N$ atoms retain lewis acid and base character 
-			
-		- *Polymorphs of Borazine*
-			1. Layered Hexagonal Structure
+2. **Boron Trihalides**
+	- $B-X$ bonds are shorter than those in analogous tetrahedral structures due to:
+		($A$) *Resonance*
+		($B$)Need to reduce strength of the greater number of reoulsions between the $F$ atoms in tetrahedral geometries than trigonal planar geometries 
+		($C$)*Ligand Close Packing Model* (See structure $C$) ![[boron_trihalides.png]]
+3. **Borazines**
+	- Similar to Benzene
+		- Isoelectronic and isostructural to benzene.
+		- Both are planar hexagonal molecular structures, non-planar and exist as relatively low boiling point liquids at room temp. 
+		- The $B-N$ bond distance of $1.44\:\mathring A$ in Borazine being less than the $1.6\:\mathring A$ typical $B-N$ single bond distance and closer to $1.42\:\mathring A$ $C-C$ bond distance in benzene is a result of delocalised $\pi$ bonding in borazine. ![[borazine .png]]
+	
+	- Electron density is more concentrated over the $N$ atoms as a result of $\chi$ differences between $N$ and $B$
+		Because of this $B$ and $N$ atoms retain lewis acid and base character 
+		
+	- *Polymorphs of Borazine*
+		1. Layered Hexagonal Structure
 				- In keeping the polarity of $B-N$ bonds, The $B$ atoms in one layer are arranged directly above $N$ atoms is the layer directly above or below 
 				- Intersheet spacing of $3.3\:\mathring A$ does not allow interlayer bonding. 
 				- Ability of sheets to move about relativly freely makes borazine a good lubricant(just like graphite). ![[layered_borazine .png]]
