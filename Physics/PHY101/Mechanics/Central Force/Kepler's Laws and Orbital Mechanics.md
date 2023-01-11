@@ -1,1 +1,0 @@
-$\color{aqua}\text{test} \text{ }test$
