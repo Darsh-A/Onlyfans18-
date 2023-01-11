@@ -1,1 +1,1 @@
-$\color{aqua}\te$
+$\color{aqua}\text{test} \text{ }test$
