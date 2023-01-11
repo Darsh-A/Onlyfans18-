@@ -12,9 +12,8 @@
 
 ### $2^{nd}$ Row Elements
 - **Strong Multiple bonds:** the fraction of electron density involved in the $\pi$-overlap is significant for the more compact orbitals and shorter bonds
-- **Resistance to high coordination no. centers:** smaller sizes of elements disfavour high coordination numbers 
+- **Resistance to high coordination no. centers:** smaller sizes of elements disfavor high coordination numbers
  ![[row2 1.png]]
-
 
 ### $3^{rd}$ Row Elements 
 - **Weak $\pi$ bonds**: little of the large and diffuse orbitals contribute to the overlap that stabilized the $\pi$ bond.

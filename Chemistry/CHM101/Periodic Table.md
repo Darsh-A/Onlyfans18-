@@ -116,11 +116,10 @@ $$
 2. ***Bonding***
 - Forms covalent bonds and engages in cluster and/or bridge bonding
 - Boron posses $3$ electrons and can be stabilized by sharing $5$. This is done in $3$ ways: 
->1. Forms ordinary covalent bonds and gains extra electrons to give stable molecules or ions.
- For example: 
-	 - $BH_{3}$ can be stabilized by forming an adduct with a lewis base giving $BH_{4}^{-}$
-		 - Borates and Boric acid derivatives and mixture of boraxes all of which are of the formula $[Na(H_{2}O)_{x}]_{2}H_{2}B_{4}O_{7}$ and contain tetraborate anion $B_{4}O_{5}(OH)_{4}^{2-}$  ![[borates_boroxes .png]]
-			 **Borates:**
+1. Forms ordinary covalent bonds and gains extra electrons to give stable molecules or ions.
+	 For example: 
+		 - $BH_{3}$ can be stabilized by forming an adduct with a lewis base giving $BH_{4}^{-}$
+		 - Borates and Boric acid derivatives and mixture of boraxes all of which are of the formula $[Na(H_{2}O)_{x}]_{2}H_{2}B_{4}O_{7}$ and contain tetraborate anion $B_{4}O_{5}(OH)_{4}^{2-}$  ![[borates_boroxes .png]]	 **Borates:**
 			 - Boron is found in $BO_{4}$ tetrahedra and trigonal planar $BO_{3}$ units 
 			 - Illustrate acid-base properties of boron compounds.$$\begin{align}
 \require{mhchem} \\
@@ -207,4 +206,4 @@ Properties vary depending on whether the element hydride is electron deficient, 
 ### Interstitial/Metallic Hydrides
 - Hydrogen dissolves in metals to form non-stoichiometric compounds of the formula $MH_{n}$
 - $H$ occupies interstices in a $FCC, HCP$ or $BCC$ metal lattice 
-- Metal lattice expands by $10-20$% during the process
+- Metal lattice expands by $10-20$% during the process 
