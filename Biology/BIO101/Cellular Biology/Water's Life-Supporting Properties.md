@@ -1,0 +1,119 @@
+## Hydrogen bonds make liquid water cohesive
+
+#### Cohesion
+Tendency of molecules of the same kind to stick together.
+
+Trees depend on cohesion to help transport water and nutrients from their roots to their leaves. The evaporation of water from a leaf exerts a pulling force on water within the veins of the leaf. Because of Cohesion, the force is relayed all the way down to the roots.
+
+#### Adhesion
+The tendency of dissimilar particles or surfaces to cling to one another.
+
+The thinness of a plant's veins enchances the adhesion of water to its cell walls, helping to counter the downward pull of gravity.
+
+#### Surface Tension
+A measure of how Difficult it is to stretch or break the surface of a liquid.
+Hydrogen-Bonds give water unusually high surface tension
+
+
+$Q.$ After a hard workout, you may notice “beads” of sweat on your face. Can you explain what holds the sweat in droplet form on your face?
+>The Cohesion of water molecules and its high surface tension hold water in droplets. The Adhesion of water to your skin helps hold the beads in place
+
+
+----
+
+## Water's Hydrogen bonds moderate Temperature
+
+***Thermal Energy:*** 
+>Energy associated with the random movement of atoms and molecules
+
+***Heat:*** 
+>Transfer of thermal energy from warmer to a cooler body of matter
+
+***Temperature:***
+>The Intensity of heat i.e, the average speed of molecules in a body of matter
+
+As the breaking and rejoining of hydrogen bonds involves a lot of energy, water acts as a good moderator. For ex. Earth's giant water supply moderates temperatures, helping to keep temperatures within limits that permit life.
+Also, as humans are $60$% water, it also helps moderator our temperature.
+
+When a substance evaporates, the surface of the liquid that remains behind coolds down. Because the molecules with the greatest energy leave.
+
+
+$Q.$ Explain the popular adage, "It's not the heat, it's the humidity."
+>HIgh humidity hampers cooling by slowing the evaporation of sweat.
+
+
+-----
+
+## Ice floats because it is less dense than liquid water
+
+Water is less dense in solid state than in liquid due to Hydrogen-Bonds
+Ice has a relatively loosely packed structure than water
+i.e, The ice crystal has fewer molecules than an equal volume of liquid water.
+
+This also explains why the whole oceons dont freeze up and only the top layer freezes
+
+$Q.$ Explain how freezing water can crack boulders
+>Water in the cervices of a boulder expands as it freezes because the water molecules become spaced farther apart as ice crystallizes (cause its less dense)
+
+---------
+## Water is the solvent of Life
+
+Water's versatility as a solvent results from the polarity of its molecules.
+A compound doesnt need to be ionic to dissole in water. 
+A spoonful of sugar will also dissolve in a glass of water. Polar molecules such as sugar dissolve as water molecules surround them and form hydrogen bonds with their polar regions.
+
+
+$Q.$ Why are blood and most other biological fluids classified as aqueous solutions?
+> The solvent in these fuild is water   
+   (uh what????)
+
+-----
+## The chemistry of life is sensitive to acidic and basic conditions
+
+In Liquid water, a very small percentage of the water molecules dissociate or break apart into hydrogen ions ( $H^{+} \:\:\text{and} \:\:OH^{-}$) 
+These ions are very reactive, and changes in their concentration can drastically affect a cell's proteins and other complex molecules.
+
+#### Acid
+A substance that donates hydrogen ions to solutions
+
+#### Base
+A substance that reduces the hydrogen ions concentration of a solution. 
+
+A Human body has a pH of $7.4$
+A person cant survive for than a few minutes if the blood pH drops to $7.0$ or rises to $7.8$
+
+A ***Buffer*** minimizes the changes in pH by accepting $H^{+}$ when it is in excess and donating $H^{+}$ when it is depleted.
+
+----
+
+## Scientists study the effects of rising atmospheric $CO_{2}$ on coral reef ecosystems
+
+#### Ocean Acidification
+$CO_{2}$ dissolving in seawater lowers the pH of the ocean.
+currently the ocean pH is about $8.1$ and will drop $0.3-0.5$ by end of century
+
+#### Calcification
+Coral animals combining calcium and carbonate ions to form their calcium carbonate skeletons. As seawater acidifies, the extra hydrogen ions combine with the carbonate ions ($CO_{3}^{2-}$) to form bicarbonate ions
+This reactions reduces the carbonate ion concentration available to corals and other shell-building animals.
+Scientists predict that ocean acidification will cause the carbonate ion concentration to decrease by $40$% hy $2100$
+
+*The effect of carbonate ion concentration of calcification rate in an artificial coral reef system*
+![[Pasted image 20221216005127.png]]
+
+Keeping pH, temperature, and calcium ion concentration constant we see that
+Lower the rate of Calcification the slower the growth of coral animals
+
+Thus Ocean acidification and reduction in carbonate ion concentration will negatively affect coral reefs.
+
+Even in a non controlled experiment, Scientists saw the same pattern with less structurally complex and slower-growing corals.
+
+
+----
+
+## The search for extraterrestrial life centres on the search for water
+
+mars nasa rover streaks of water ice caps maybe martians (ehe) 
+
+
+-------
+
