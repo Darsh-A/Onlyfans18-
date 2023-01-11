@@ -56,6 +56,7 @@ Some diagonally related elements have similar physical and chemical properties b
 - Form acidic complex polymeric covalent oxides containing interlinking $EO_{4}$ tetrahedra 
 	On the contrary, $C$ forms monomeric oxides and the oxides of higher cogeners of these elements are considered ionic. 
 	$Ex: Al_{2}O_{3},Ga_{2}O_{3},In_{2}O,In_{2}O_{3},Tl_{2}O,GeO_{2},SnO_{2},PbO_{2},PbO$
+
 - Form acidic halides($BCl_{3},SiCl_{4}$)
 	- Halides of higher cogeners of $Si$ are ionic 
 	- Binary halides of $C$ do not readily hydrolyze
