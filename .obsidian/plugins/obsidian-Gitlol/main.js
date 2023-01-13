@@ -9187,7 +9187,7 @@ var MyPlugin = class extends import_obsidian.Plugin {
     console.log("Git-Check Loaded!!! ^^");
     const statusBarItemEl = this.addStatusBarItem();
     const octokit = new Octokit({
-      auth: "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"
+      auth: "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"
     });
     cron.schedule("*/15 * * * * *", async () => {
       console.log("cron launched");
