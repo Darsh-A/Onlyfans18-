@@ -1,0 +1,8 @@
+{
+    "id": "obsidian-gitLOL",
+    "name": "Git-Check",
+    "description": "Pull active files from git.",
+    "isDesktopOnly": false,
+    "js": "main.js",
+    "version": "1.0.0"
+}
