@@ -184,7 +184,9 @@ Common among Boron hydrides and their derivatives
 
 ----
 $Al$ forms covalently bonded oxyanions  
-Example: $Al_{6}O_{18}^{18-}$ which contains 
+Example: $Al_{6}O_{18}^{18-}$ 
+>Contains $AlO_{4}$ tetrahedra covalently vertex-linked into an $Al_{6}O_{6}$ ring 
+>Calcium salt of this anion is found n
 
 
 
