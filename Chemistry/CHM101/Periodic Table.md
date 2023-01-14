@@ -165,8 +165,8 @@ Common among Boron hydrides and their derivatives
 ![[Pasted image 20230114143641.png]]
 
 
-- Higher boranes are formed by pyrolyr
-
+- Higher boranes are formed by pyrolytic removal of $H_{2},H^{-}$, and/or $H^{+}$ units from$BH_{3}$ or $BH_{4}^{-}$ 
+	It can be conceptualized as giving rise 
 
 
 
