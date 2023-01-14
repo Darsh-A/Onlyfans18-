@@ -198,6 +198,7 @@ Example: $Al_{6}O_{18}^{18-}$
 
 #### General Properties of Group $13$ elements 
 - Trialkyl group $13$ compounds exist as monomers and dimers 
+>Monomer-dimer preference shifts towards monomer going down the group 
 
 
 
