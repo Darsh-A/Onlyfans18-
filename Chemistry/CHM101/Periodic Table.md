@@ -168,7 +168,7 @@ Common among Boron hydrides and their derivatives
 - Higher boranes are formed by pyrolytic removal of $H_{2},H^{-}$, and/or $H^{+}$ units from$BH_{3}$ or $BH_{4}^{-}$ 
 	It can be conceptualized as giving rise to $BH,BH^{-}$ and $BH_{2}$ units which come together to form clusters.
 	Consider the structure of *closo-dodecarbonate* $[B_{12}H_{12}]^{2-}$![[Pasted image 20230114145020.png]]
-	
+	- First diborane is pyrolyzed to give arachno-decaborane$(B_{10}H_{14})$, in a process in which loss of $B-H$ and $B-H-B$ bonds is compensated by formation of cluster bonds in which multiple $B$ atoms share the bonding el
 
 
 
