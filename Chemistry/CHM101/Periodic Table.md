@@ -153,6 +153,7 @@ $$
 				- Layers are arranged so as to be linked in the form of chair or boat conformation $B_{3}N_{3}$ rings ![[chair_boat_borazine.png]]
 				($B$) Chair conformation 
 				($C$) Boat conformation 
+3. **Bridge Bonding**
 
 
 
