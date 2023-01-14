@@ -142,18 +142,18 @@ $$
 			- The $B-N$ bond distance of $1.44\:\mathring A$ in Borazine being less than the $1.6\:\mathring A$ typical $B-N$ single bond distance and closer to $1.42\:\mathring A$ $C-C$ bond distance in benzene is a result of delocalised $\pi$ bonding in borazine. ![[borazine .png]]  
 			- Electron density is more concentrated over the $N$ atoms as a result of $\chi$ differences between $N$ and $B$
 				Because of this $B$ and $N$ atoms retain lewis acid and base character 
-	
+			  
 			- *Polymorphs of Borazine*
 			1. Layered Hexagonal Structure
-			- In keeping the polarity of $B-N$ bonds, The $B$ atoms in one layer are arranged directly above $N$ atoms is the layer directly above or below 
-			- Intersheet spacing of $3.3\:\mathring A$ does not allow interlayer bonding. 
-			- Ability of sheets to move about relativly freely makes borazine a good lubricant(just like graphite). ![[layered_borazine .png]]
-			
-		2. Cubic $h-BN$ symmetries
-			- $B$ and $N$ atoms tetrahedrally coordinated analogous to cubic diamond and Lonsdaleite form of carbon 
-			- Layers are arranged so as to be linked in the form of chair or boat conformation $B_{3}N_{3}$ rings ![[chair_boat_borazine.png]]
-			($B$) Chair conformation 
-			($C$) Boat conformation 
+				- In keeping the polarity of $B-N$ bonds, The $B$ atoms in one layer are arranged directly above $N$ atoms is the layer directly above or below 
+				- Intersheet spacing of $3.3\:\mathring A$ does not allow interlayer bonding. 
+				- Ability of sheets to move about relativly freely makes borazine a good lubricant(just like graphite). ![[layered_borazine .png]]
+			2. Cubic $h-BN$ symmetries
+				- $B$ and $N$ atoms tetrahedrally coordinated analogous to cubic diamond and Lonsdaleite form of carbon 
+				- Layers are arranged so as to be linked in the form of chair or boat conformation $B_{3}N_{3}$ rings ![[chair_boat_borazine.png]]
+				($B$) Chair conformation 
+				($C$) Boat conformation 
+
 
 
 
