@@ -161,6 +161,9 @@ $BH_{3}$ attains stable configuration by forming $2c-3e^{-}$ bridge bonds
 
 4. **Cluster Bonding**
 Boron shares electrons amongst multiple borons and other atoms in a cluster.  
+Common among Boron hydrides and their derivatives 
+![[Pasted image 20230114143641.png]]
+
 
 
 
