@@ -170,7 +170,7 @@ Common among Boron hydrides and their derivatives
 	Consider the structure of *closo-dodecarborante* $[B_{12}H_{12}]^{2-}$![[Pasted image 20230114145020.png]]
 	- First diborane is pyrolyzed to give arachno-decaborane$(B_{10}H_{14})$, in a process in which loss of $B-H$ and $B-H-B$ bonds is compensated by formation of cluster bonds in which multiple $B$ atoms share the bonding electrons. 
 		Resulting arachno-decaborane has the icosahedral(polyhedron having $20$ faces) shape of dodecarborante![[Pasted image 20230114163358.png]]
-	- Two missing vertices in the arachno-cluster are added by allowing the cluster to react with additional 
+	- Two missing vertices in the arachno-cluster are added by allowing the cluster to react with additional $BH_{3}$ units 
 
 
 ----
