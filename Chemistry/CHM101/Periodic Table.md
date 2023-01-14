@@ -156,7 +156,7 @@ $$
 				($C$) Boat conformation 
 
 3. **Bridge Bonding**
-
+$BH_{3}$ attains stable configuration by forming $2c-3e^{-}$ bridge bonds 
 
 
 
