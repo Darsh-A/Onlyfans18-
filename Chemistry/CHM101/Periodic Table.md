@@ -192,7 +192,7 @@ Example: $Al_{6}O_{18}^{18-}$
 - $Al$ forms network as a solid and exists as $E_{2}X_{6}$ dimer as liquid, as a mixture of dimers and monomers in gas phase(ultimately giveing the monomer only at high temperatures)
 >![](https://i.imgur.com/Yll79zG.png)
 
-
+- Aluminium Trihalides a 
 
 
 
