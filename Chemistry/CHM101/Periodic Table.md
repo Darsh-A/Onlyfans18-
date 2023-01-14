@@ -182,6 +182,9 @@ Common among Boron hydrides and their derivatives
 - Consists of layers of edge-linked $AlO_{6}$ octahedra(in the horizontal) vertex-linked to adjacent layers(in the vertical)
 ![](https://i.imgur.com/qKl3o1b.png)
 
+----
+$Al$ forms covalently bonded oxyanions  
+Example:
 
 
 
