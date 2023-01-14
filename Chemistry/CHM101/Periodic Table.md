@@ -177,8 +177,8 @@ Common among Boron hydrides and their derivatives
 
 
 #### Aluminium 
-
-
+##### Corundum 
+- Most stable form of $Al_{2}O_{3}$ 
 
 ----
 
