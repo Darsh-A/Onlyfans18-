@@ -174,7 +174,7 @@ Common among Boron hydrides and their derivatives
 	- Two missing vertices in the arachno-cluster are added by allowing the cluster to react with additional $BH_{3}$ units in form of $Et_{3}N-BH_{3}$ ![[Pasted image 20230114183539.png]]
 	Following are some more carborane clusters: ![[Pasted image 20230114184029.png]]
 
-
+---- 
 
 #### Aluminium 
 ##### Corundum 
