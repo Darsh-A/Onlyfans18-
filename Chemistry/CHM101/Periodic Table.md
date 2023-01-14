@@ -205,6 +205,8 @@ Example: $Al_{6}O_{18}^{18-}$
 
 - Trialkyl aluminium and trialkyl gallium compunds are effective lewis acids 
 
+- Group $13$ metals have varying tendencies to form covalent bonds, they tend to act chemically as metals. ![](https://i.imgur.com/vbs0JWz.png)
+
 
 
 ----
