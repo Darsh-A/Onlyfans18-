@@ -202,9 +202,8 @@ Example: $Al_{6}O_{18}^{18-}$
 >- $GaR_{3}$ and $InR_{3}$ species exist as monomers 
 >- For $Al$, monomer and dimer are often in equilibrium for smaller alkyl groups, shifting to monomer with bulky alkyl groups
 >![](https://i.imgur.com/nCFemFp.png)
-> 
 
-
+- Trialkyl aluminium and trialkyl gallium compunds are effective lewis acids and 
 
 ----
 
