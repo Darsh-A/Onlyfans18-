@@ -179,8 +179,11 @@ Common among Boron hydrides and their derivatives
 #### Aluminium 
 ##### Corundum 
 - Most stable form of $Al_{2}O_{3}$ 
-- Consists of layers of edge-linked $AlO_{6}$ octahedra vertex-linked to adjacent layers 
+- Consists of layers of edge-linked $AlO_{6}$ octahedra(in the horizontal) vertex-linked to adjacent layers(in the vertical)
 ![](https://i.imgur.com/qKl3o1b.png)
+
+
+
 
 ----
 
