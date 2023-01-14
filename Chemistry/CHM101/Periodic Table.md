@@ -103,7 +103,7 @@ Network covalent solid characterized by sharing of electrons in boron clusters, 
 ![[icosahedra .png]]
 
 ##### Properties
-1. ***Preparation:***
+>***Preparation***
 - Reduction of its halides 
 $$\require{mhchem}
 \ce{ 2BCl_{3} + 3H_{2} -> 2B +6HCl}$$
@@ -113,7 +113,7 @@ $$
 \ce{ B_{2}H_{6} ->[\Delta] 2B + 3H_{2}}
 $$
 
-2. ***Bonding***
+>***Bonding***
 - Forms covalent bonds and engages in cluster and/or bridge bonding
 - Boron posses $3$ electrons and can be stabilized by sharing $5$. This is done in $3$ ways: 
 1. Forms ordinary covalent bonds and gains extra electrons to give stable molecules or ions.
@@ -129,6 +129,7 @@ $$
 \end{align}
 $$
 			- Since boron oxides can act as bronsted acids, borate ions are capable of acting as bronsted bases
+
 2.  **Resonance**
 	-  **Boron Trihalides**
 		- $B-X$ bonds are shorter than those in analogous tetrahedral structures due to:
@@ -153,6 +154,7 @@ $$
 				- Layers are arranged so as to be linked in the form of chair or boat conformation $B_{3}N_{3}$ rings ![[chair_boat_borazine.png]]
 				($B$) Chair conformation 
 				($C$) Boat conformation 
+
 3. **Bridge Bonding**
 
 
