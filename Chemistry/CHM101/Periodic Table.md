@@ -166,7 +166,7 @@ Common among Boron hydrides and their derivatives
 
 
 - Higher boranes are formed by pyrolytic removal of $H_{2},H^{-}$, and/or $H^{+}$ units from$BH_{3}$ or $BH_{4}^{-}$ 
-	It can be conceptualized as giving rise 
+	It can be conceptualized as giving rise to $BH,BH^{-}$ and $BH_{2}$ units which come together to form clusters.
 
 
 
