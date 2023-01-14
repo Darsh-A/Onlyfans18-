@@ -209,7 +209,8 @@ Example: $Al_{6}O_{18}^{18-}$
 
 - Post transition group $13$ elements exhibit inert pair effect 
 >Lower oxidation states are more preferable going down the group 
->- Stability of higher oxid
+>- Stability of higher$(n^{+})$ oxidation states: $Al^{3+}>Ga^{3+}>In^{3+}>Tl^{3+}$ 
+>- Stability of lower$(n-2)^{+}$ oxidation state: $Al^{3+}<Ga$
 
 
 ----
