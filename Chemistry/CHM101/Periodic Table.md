@@ -186,7 +186,10 @@ Common among Boron hydrides and their derivatives
 $Al$ forms covalently bonded oxyanions  
 Example: $Al_{6}O_{18}^{18-}$ 
 >Contains $AlO_{4}$ tetrahedra covalently vertex-linked into an $Al_{6}O_{6}$ ring 
->Calcium salt of this anion is found n
+>Calcium salt of this anion is found in tricalcium aluminate$(Ca_{3}Al_{2}O_{6})$ cements (formed by mixing 3 equivalents of $CaO$ with one of $Al_{2}O_{3}$)
+>![](https://i.imgur.com/rmop7zt.png)
+>
+
 
 
 
