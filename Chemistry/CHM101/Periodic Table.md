@@ -193,7 +193,11 @@ Example: $Al_{6}O_{18}^{18-}$
 >![](https://i.imgur.com/Yll79zG.png)
 
 - Aluminium Trihalides are effective Lewis acids 
->
+>So, the can be used as a catalyst in Freidel-Crafts alkylations and acylations ![](https://i.imgur.com/sAkGbIL.png)
+
+
+#### Ge
+
 
 
 
