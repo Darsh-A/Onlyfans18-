@@ -165,7 +165,7 @@ Common among Boron hydrides and their derivatives
 ![[Pasted image 20230114143641.png]]
 
 
-
+- Higher boranes are formed by pyrolyr
 
 
 
