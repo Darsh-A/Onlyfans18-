@@ -200,7 +200,8 @@ Example: $Al_{6}O_{18}^{18-}$
 - Trialkyl group $13$ compounds exist as monomers and dimers 
 >Monomer-dimer preference shifts towards monomer going down the group
 >- $GaR_{3}$ and $InR_{3}$ species exist as monomers 
->- For $Al$, monomer and dimer are often in equilibrium for smaller alkyl groups, shifting to monomer with bulky alkyl grou
+>- For $Al$, monomer and dimer are often in equilibrium for smaller alkyl groups, shifting to monomer with bulky alkyl groups
+>![](https://i.imgur.com/nCFemFp.png)
 > 
 
 
