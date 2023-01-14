@@ -184,7 +184,7 @@ Common among Boron hydrides and their derivatives
 
 ----
 $Al$ forms covalently bonded oxyanions  
-Example:
+Example: $Al_{6}O_{18}^{18-}$ which contains 
 
 
 
