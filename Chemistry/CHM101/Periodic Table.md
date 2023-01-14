@@ -115,7 +115,7 @@ $$
 
 >***Bonding***
 - Forms covalent bonds and engages in cluster and/or bridge bonding
-- Boron posses $3$ electrons and can be stabilized by sharing $5$. This is done in $3$ ways: 
+- Boron posses $3$ electrons and can be stabilized by sharing $5$. This is done in following ways: 
 1. Forms ordinary covalent bonds and gains extra electrons to give stable molecules or ions.
 	 For example: 
 		 - $BH_{3}$ can be stabilized by forming an adduct with a lewis base giving $BH_{4}^{-}$
@@ -158,6 +158,9 @@ $$
 3. **Bridge Bonding**
 $BH_{3}$ attains stable configuration by forming $2c-3e^{-}$ bridge bonds 
 ![[bridge_bonding .png]]
+
+4. **Cluster Bonding**
+Boron shares electrons amongst multiple borons and other atoms in a cluster.  
 
 
 
