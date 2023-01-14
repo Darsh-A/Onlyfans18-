@@ -76,8 +76,7 @@
 > [[2. Matrices#Row Reduction Algorithm | Row Reduction Algorithm]]
 > [[2. Matrices#Solving Systems of Linear Equations: | Solving system of linear equations]]
 > [[2. Matrices#Matrix Operations | Matrix Operations]]
-> [[2. Matrices#Matrix Operations#Elementary Matrices | Elementary Matrices]]
-> 
+> [[2. Matrices#Matrix Operations#Elementary Matrices | Elementary Matrice]]
 > 
 > 
 
