@@ -207,7 +207,7 @@ Example: $Al_{6}O_{18}^{18-}$
 
 - Group $13$ metals have varying tendencies to form covalent bonds, they tend to act chemically as metals. ![](https://i.imgur.com/vbs0JWz.png)
 
-
+- Post transition group $13$ elements exhibit inert pair effect 
 
 
 ----
