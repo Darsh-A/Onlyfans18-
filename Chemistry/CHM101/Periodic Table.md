@@ -200,6 +200,7 @@ Example: $Al_{6}O_{18}^{18-}$
 - Trialkyl group $13$ compounds exist as monomers and dimers 
 >Monomer-dimer preference shifts towards monomer going down the group
 >- $GaR_{3}$ and $InR_{3}$ species exist as monomers 
+>- For $AL$
 > 
 
 
