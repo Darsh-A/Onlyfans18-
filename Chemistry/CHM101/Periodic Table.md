@@ -62,7 +62,52 @@ Some diagonally related elements have similar physical and chemical properties b
 	- Binary halides of $C$ do not readily hydrolyze
 ---
 
+## Hydrides 
 
+![[Pasted image 20230108040605.png]]
+
+### Ionic Hydrides 
+Metal salts of hydride ions
+	- form *ionic lattices*
+		$NaCl$ structure common for $MH$ and $PbI_{2}$ for $MH_{2}$ 
+	- formed by all alkali metals and alkaline earth metals except $Be$ $$\require{mhchem}
+	\ce{2M(s) + H_{2}(g) ->[\Delta] 2MH(s)}\ \ \ \ (M=Li,Na,K,Rb)$$ $$\require{mhchem}
+	\ce{ M(s) + H_{2}(g) ->[\Delta] 2MH_{2} } \ \ \ \ (M=Mg,Ca,Sr,Ba)$$
+	- Act as *reducing agents* towards metal oxides $$\require{mhchem}
+	\ce{ 2CaH_{2}(s) + TiO_{2}(l) -> 2Cao(s) + Ti(s) + 2H_{2}}$$
+	- Act as *strong bases* towards protic $E -H$ bonds(exothermic reaction with water, liberating $H_{2}$)$$\require{mhchem} \ce{ MH +H_{2}O -> M+ (aq) + H_{2}(g) + OH- }$$Therefore, $CaH_{2}$ can be used as drying agent for organic solvents
+	- To *deprotonate reactive $C - H$ bonds*$$\require{mhchem} \ce{ NaH(s) + CH_{3}C#C-H(g) -> CH_{3}C#C- Na+ + H_{2}(g) }$$
+
+### Covalent and Intermediate Hydrides 
+These are formed by non-metals, metalloids and many post-transition metals 
+Properties vary depending on whether the element hydride is electron deficient, rich or electron precise. 
+
+#### Electron-deficient Hydrides 
+- Formed by $Be$, group $13$ elements 
+	Neutral monomeric element hydrides do($BeH_{2},BH_{3}, AlH_{3},GaH_{3},etc.$) not have enough electrons to satisfy octet rule
+
+- Dimerise or polymerise using bridging $E -H-E$ bonds which are $3c-2e^{-}$ bonds. 
+
+#### Electron-precise Hydrides 
+- Formed by group-$14$ elements 
+	Alkanes, alkenes and alkynes of carbon and $SiH_{4},GeH_{4},SnH_{4},PbH_{4}$ 
+- Do not possess any lone pairs 
+
+#### Electron-rich Hydrides 
+- Fomed by $N,O,F$ 
+	$NH_{3},H_{2}O,HF$ and their heavier congeners form $PH_{3},H_{2}S,HCl$ 
+
+
+#### Note: 
+- In general, stability of element hydrides decreases down the group 
+- Ability of an element hydride to function as an acid or hydride donor may be modified by factors like *Solvation Energy*. 
+	For Example: $GeH_{4}$ is expected to be a hydride donor but it deprotonates in liquid ammonia due to high solvation energy of $H+$ ion
+
+
+### Interstitial/Metallic Hydrides
+- Hydrogen dissolves in metals to form non-stoichiometric compounds of the formula $MH_{n}$
+- $H$ occupies interstices in a $FCC, HCP$ or $BCC$ metal lattice 
+- Metal lattice expands by $10-20$% during the process 
 
 -----
 
@@ -220,52 +265,6 @@ Example: $Al_{6}O_{18}^{18-}$
 ----
 
 
-## Hydrides 
-
-![[Pasted image 20230108040605.png]]
-
-### Ionic Hydrides 
-Metal salts of hydride ions
-	- form *ionic lattices*
-		$NaCl$ structure common for $MH$ and $PbI_{2}$ for $MH_{2}$ 
-	- formed by all alkali metals and alkaline earth metals except $Be$ $$\require{mhchem}
-	\ce{2M(s) + H_{2}(g) ->[\Delta] 2MH(s)}\ \ \ \ (M=Li,Na,K,Rb)$$ $$\require{mhchem}
-	\ce{ M(s) + H_{2}(g) ->[\Delta] 2MH_{2} } \ \ \ \ (M=Mg,Ca,Sr,Ba)$$
-	- Act as *reducing agents* towards metal oxides $$\require{mhchem}
-	\ce{ 2CaH_{2}(s) + TiO_{2}(l) -> 2Cao(s) + Ti(s) + 2H_{2}}$$
-	- Act as *strong bases* towards protic $E -H$ bonds(exothermic reaction with water, liberating $H_{2}$)$$\require{mhchem} \ce{ MH +H_{2}O -> M+ (aq) + H_{2}(g) + OH- }$$Therefore, $CaH_{2}$ can be used as drying agent for organic solvents
-	- To *deprotonate reactive $C - H$ bonds*$$\require{mhchem} \ce{ NaH(s) + CH_{3}C#C-H(g) -> CH_{3}C#C- Na+ + H_{2}(g) }$$
-
-### Covalent and Intermediate Hydrides 
-These are formed by non-metals, metalloids and many post-transition metals 
-Properties vary depending on whether the element hydride is electron deficient, rich or electron precise. 
-
-#### Electron-deficient Hydrides 
-- Formed by $Be$, group $13$ elements 
-	Neutral monomeric element hydrides do($BeH_{2},BH_{3}, AlH_{3},GaH_{3},etc.$) not have enough electrons to satisfy octet rule
-
-- Dimerise or polymerise using bridging $E -H-E$ bonds which are $3c-2e^{-}$ bonds. 
-
-#### Electron-precise Hydrides 
-- Formed by group-$14$ elements 
-	Alkanes, alkenes and alkynes of carbon and $SiH_{4},GeH_{4},SnH_{4},PbH_{4}$ 
-- Do not possess any lone pairs 
-
-#### Electron-rich Hydrides 
-- Fomed by $N,O,F$ 
-	$NH_{3},H_{2}O,HF$ and their heavier congeners form $PH_{3},H_{2}S,HCl$ 
-
-
-#### Note: 
-- In general, stability of element hydrides decreases down the group 
-- Ability of an element hydride to function as an acid or hydride donor may be modified by factors like *Solvation Energy*. 
-	For Example: $GeH_{4}$ is expected to be a hydride donor but it deprotonates in liquid ammonia due to high solvation energy of $H+$ ion
-
-
-### Interstitial/Metallic Hydrides
-- Hydrogen dissolves in metals to form non-stoichiometric compounds of the formula $MH_{n}$
-- $H$ occupies interstices in a $FCC, HCP$ or $BCC$ metal lattice 
-- Metal lattice expands by $10-20$% during the process 
 
 
 
