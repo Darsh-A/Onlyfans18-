@@ -60,6 +60,9 @@ Some diagonally related elements have similar physical and chemical properties b
 - Form acidic halides($BCl_{3},SiCl_{4}$)
 	- Halides of higher cogeners of $Si$ are ionic 
 	- Binary halides of $C$ do not readily hydrolyze
+---
+
+
 
 -----
 
