@@ -79,7 +79,10 @@
 > [[2. Matrices#Matrix Operations#Elementary Matrices | Elementary Matrix]]
 
 [[3. Vector Spaces]]
-> [[3. Vector Spaces#Linear]]
+> [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Linear Transformation]]
+> [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Concept of Linearity]]
+> [[3. Vector Spaces#How does the formula work? | Important Formula]]
+
 
 
 
