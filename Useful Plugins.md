@@ -1,4 +1,4 @@
-List of cool plugins.
+List of cool plugins
 
 ## Necessary
 - Admonitions
