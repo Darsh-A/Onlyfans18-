@@ -16,3 +16,4 @@ List of cool plugins
 - Better PDF Plugin
 
 # How to get your plugin Dors????
+(also what do i put the push/pull intervals in obsi)
