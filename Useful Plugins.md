@@ -15,4 +15,4 @@ List of cool plugins
 - Omnisearch
 - Better PDF Plugin
 
-# How to get your plugin DORSHHHHHHH
+# How to get your plugin Dors????
