@@ -83,6 +83,14 @@
 > [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Concept of Linearity]]
 > [[3. Vector Spaces#How does the formula work? | Important Formula]]
 
+[[4. Determinants]]
+> [[4. Determinants#Properties of Determinants | Properties of Determinants]]
+> [[4. Determinants#Transpose of a Matrixi | Transpose]]
+> [[4. Determinants#Cramer's Rule | Cramer's Rule]]
+> 
+
+
+
 
 
 

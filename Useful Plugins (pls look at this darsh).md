@@ -14,3 +14,6 @@ List of cool plugins
 ## Good For Specific Tasks
 - Omnisearch
 - Better PDF Plugin
+
+# How to get your plugin Dors????
+(also what do i put the push/pull intervals in obsidian git?)
