@@ -14,3 +14,5 @@ List of cool plugins
 ## Good For Specific Tasks
 - Omnisearch
 - Better PDF Plugin
+
+# How to get your plugin DORSHHHHHHH
