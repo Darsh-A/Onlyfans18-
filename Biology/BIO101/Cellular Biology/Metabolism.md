@@ -41,4 +41,10 @@ Synthesis of an amino acid from simpler molecules and syn- thesis of a protein f
 ```
 - Energy released from downhill reactions of catabolic pathways can be stored and then used to drive uphill reactions of anabolic pathways.
 
-## 
+## Forms of Energy
+
+- Kinetic energy
+- Thermal energy
+- Potential energy
+(Guys you know the definitions or if you don't start from class 6)
+
