@@ -81,9 +81,10 @@ T=  Absolute temperature in kelvin(K)
 
 ## Free Energy, Stability, and Equilibrium
 
-∆G is difference between the free energy of the final state and the free energy of the initial state 
+- ∆G is difference between the free energy of the final state and the free energy of the initial state 
                            ∆G = G(final state) - G(initial state)
 
+- Unstable systems (higher G) tend to change in such a way that they become more stable (lower G).
 
 
 
