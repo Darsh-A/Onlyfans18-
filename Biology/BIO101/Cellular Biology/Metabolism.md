@@ -59,7 +59,12 @@ Synthesis of an amino acid from simpler molecules and syn- thesis of a protein f
 
 ## Biological order and Disorder 
 
+- Increase in order is balanced by an organism’s taking in organized forms of matter and energy from the surroundings and replacing them with less ordered forms.
+```
+An animal obtains starch, proteins, and other complex molecules from the food it eats. As catabolic pathways break these molecules down, the animal releases CO2 and H2O
+```
 
-
+- Depletion of chemical energy is accounted for by heat generated during metabolism.
+- 
 
 
