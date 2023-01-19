@@ -3,7 +3,8 @@
 
 # First law of Thermodynamics
 
-Energy can be transferred and transformed, but it cannot be created nor destroyed.
+- Energy can be transferred and transformed, but it cannot be created nor destroyed.
+- 
 
 ![[Screenshot 2023-01-19 at 3.57.48 PM.png]]
 
@@ -49,6 +50,10 @@ Synthesis of an amino acid from simpler molecules and syn- thesis of a protein f
 - Chemical energy
 (Guys you know the definitions or if you don't start from class 6 all over again)
 
-## Laws of Energy Transf
+## Laws of Energy Transformation
+
+- Study of the energy transformations that occur in a collection of matter is called thermodynamics.
+- Organisms are open systems.
+
 
 
