@@ -46,5 +46,9 @@ Synthesis of an amino acid from simpler molecules and syn- thesis of a protein f
 - Kinetic energy
 - Thermal energy
 - Potential energy
-(Guys you know the definitions or if you don't start from class 6)
+- Chemical energy
+(Guys you know the definitions or if you don't start from class 6 all over again)
+
+## Laws of Energy Transf
+
 
