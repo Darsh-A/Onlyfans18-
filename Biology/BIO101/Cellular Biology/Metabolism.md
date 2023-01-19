@@ -81,6 +81,9 @@ T=  Absolute temperature in kelvin(K)
 
 ## Free Energy, Stability, and Equilibrium
 
+∆G is difference between the free energy of the final state and the free energy of the initial state 
+                           ∆G = G(final state) - G(initial state)
+
 
 
 
