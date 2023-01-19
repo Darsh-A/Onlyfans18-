@@ -30,9 +30,9 @@ Every energy transformation increases the entropy of the universe.
 ![](https://i.imgur.com/GSFbO9B.png)
 
 - It manages the material and energy resources of the cell.
-- Some release energy by breaking down(catabolic pathways) complex molecules.
+- Some release energy by breaking down(**catabolic pathways**) complex molecules.
 ```
 One major catabolic pathway is cellular respiration, which breaks down glucose and other organic fuels in the presence of oxygen to carbon dioxide and water. 
 ```
 
-- Some consume energy to build complicated molecules from simplier ones 
+- Some consume energy to build complicated molecules from simplier ones called **anabolic pathways** or **Biosynthetic pathways** 
