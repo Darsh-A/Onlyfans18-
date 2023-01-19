@@ -4,7 +4,7 @@
 # First law of Thermodynamics
 
 - Energy can be transferred and transformed, but it cannot be created nor destroyed.
-- 
+- Also known as principle of conservation of energy.
 
 ![[Screenshot 2023-01-19 at 3.57.48 PM.png]]
 
