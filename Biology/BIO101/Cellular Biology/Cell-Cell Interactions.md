@@ -27,7 +27,7 @@ Binding of a mating factor by the yeast cell-surface receptor initiate a signal 
 - Some molecules travel short distances, influences cells that are nearby. This type of local signals is called $paracrine  signaling$
 - $Growth factors$ regulators consists of compounds that stimulate nearby target cells to grow and divide.
 - $Synaptic signaling$ is a highly specialized type of local signaling in the animal nervous system.
-*----An electrical signal along a nerve cell triggers the secretion of neurotransmitter molecules. These molecules act as chemical signals, diffusing across the synapse— the narrow space between the nerve cell and its target cell—triggering a response in the target cell.*
+*----An electrical signal along a nerve cell triggers the secretion of neurotransmitter molecules. These molecules act as chemical signals, diffusing across the synapse — the narrow space between the nerve cell and its target cell—triggering a response in the target cell.*
 - Both animals and plants use molecules called hormones for long-distance signaling.
 - $Endocrine signaling$  is hormonal signaling in animals.
 
@@ -116,10 +116,8 @@ can do this because they are either hydrophobic enough
 or small enough to cross the hydrophobic interior of the membrane.
 - Hydrophobic signaling molecules include ***steroid hormones****\ and ***thyroid hormones*** of animals.
 - Another chemical signaling molecule that possesses an intracellular receptor is ***nitric oxide (NO)***, a gas.
-- Once a hormone or other signaling molecule has entered a cell, its binding to an intracellular receptor changes the receptor into a hormone-receptor complex that is able to cause a response.
-
+- Once a hormone or other signaling molecule has entered a cell, its binding to an intracellular receptor changes the receptor x into a hormone-receptor complex that is able to cause a response.
 $$Aldosterone$$
-
 *This hormone is secreted by cells of the adrenal gland (a gland that lies above the kidney), then travels through the blood and enters cells all over the body. However, a response occurs only in kidney cells because they alone contain receptors for aldosterone. In these cells, the hormone binds to and activates the receptor protein. With aldosterone attached, the active form of the receptor protein then enters the nucleus and turns on specific genes that control water and sodium flow in kidney cells, ultimately affecting blood volume.*
 
 #### Q. How does the activated hormone-receptor complex turn on genes ?
