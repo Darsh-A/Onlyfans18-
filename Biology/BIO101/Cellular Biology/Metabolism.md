@@ -65,6 +65,10 @@ An animal obtains starch, proteins, and other complex molecules from the food it
 ```
 
 - Depletion of chemical energy is accounted for by heat generated during metabolism.
-- 
+
+## Free Energy Change
+
+
+
 
 
