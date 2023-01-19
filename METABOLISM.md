@@ -9,5 +9,5 @@ Every energy transformation increases the entropy of the universe.
 
 
 
- 
+ ![[Screenshot 2023-01-19 at 3.57.48 PM.png]]
 
