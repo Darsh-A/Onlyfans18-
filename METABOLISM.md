@@ -23,4 +23,7 @@ Every energy transformation increases the entropy of the universe.
 
 
 
-- In a metabolic pathway, a specific 
+- In a metabolic pathway, a specific molecule is altered in a series of defined steps, resulting in a certain product.
+- Each step is catalyzed by a specific enzyme which speeds up a chemical reaction.
+- 
+![](https://i.imgur.com/GSFbO9B.png)
