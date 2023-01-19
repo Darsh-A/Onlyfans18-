@@ -85,6 +85,8 @@ T=  Absolute temperature in kelvin(K)
                            ∆G = G(final state) - G(initial state)
 
 - Unstable systems (higher G) tend to change in such a way that they become more stable (lower G).
+- Free energy increases when a reaction is somehow pushed away from equilibrium.
+- Any change from the equilibrium position will have a positive ∆G and will not be spontaneous. For this reason, systems never spon- taneously move away from equilibrium.
 
 
 
