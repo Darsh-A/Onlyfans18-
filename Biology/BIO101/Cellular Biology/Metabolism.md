@@ -69,7 +69,9 @@ An animal obtains starch, proteins, and other complex molecules from the food it
 ## Free Energy Change
 
 - In 1878 Willard Gibbs, a professor at Yale defined the function called Gibbs free energy of a system.
-- 
+- Free energy is the portion of a system’s energy that can perform work when temperature and pressure are uniform throughout the system, as in a living cell.
+                                               ∆G = ∆H - T∆S
+
 
 
 
