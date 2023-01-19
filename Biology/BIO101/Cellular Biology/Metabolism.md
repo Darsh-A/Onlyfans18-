@@ -12,6 +12,7 @@
 
 - Every energy transformation increases the entropy of the universe.
 - The more randomly arranged a collection of matter is, the greater its entropy.
+- If a given process, by itself, leads to an increase in entropy, that process can proceed without requiring an input of energy. Such a process is called a spontaneous process.
 
 
 ![](https://i.imgur.com/KR2WnP9.png)
