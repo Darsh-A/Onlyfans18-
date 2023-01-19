@@ -1,4 +1,5 @@
-Totality of an organism's chemical reaction is called metabolism.
+- Totality of an organism's chemical reaction is called metabolism.
+- it is an emergent property of life that arises from orderly interactions between molecules.
 
 # First law of Thermodynamics
 
@@ -14,8 +15,12 @@ Every energy transformation increases the entropy of the universe.
 ![](https://i.imgur.com/KR2WnP9.png)
 
 
+## Metabolic pathways
 
 
 
  
 
+
+
+- In a metabolic pathway, a specific 
