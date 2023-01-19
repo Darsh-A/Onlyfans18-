@@ -72,6 +72,9 @@ An animal obtains starch, proteins, and other complex molecules from the food it
 - Free energy is the portion of a system’s energy that can perform work when temperature and pressure are uniform throughout the system, as in a living cell.
                                                ∆G = ∆H - T∆S
 
+∆H= Change in system's Enthalpy
+∆S= Change in the systems's Entropy
+
 
 
 
