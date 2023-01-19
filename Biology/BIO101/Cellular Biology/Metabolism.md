@@ -74,6 +74,7 @@ An animal obtains starch, proteins, and other complex molecules from the food it
 
 ∆H= Change in system's Enthalpy
 ∆S= Change in the systems's Entropy
+T=  Absolute temperature in kelvin(K)
 
 
 
