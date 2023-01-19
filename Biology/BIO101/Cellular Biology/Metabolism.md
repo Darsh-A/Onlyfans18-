@@ -68,7 +68,8 @@ An animal obtains starch, proteins, and other complex molecules from the food it
 
 ## Free Energy Change
 
-In 1878 willard Gibbs
+- In 1878 Willard Gibbs, a professor at Yale defined the function called Gibbs free energy of a system.
+- 
 
 
 
