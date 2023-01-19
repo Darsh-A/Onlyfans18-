@@ -76,6 +76,8 @@ An animal obtains starch, proteins, and other complex molecules from the food it
 ∆S= Change in the systems's Entropy
 T=  Absolute temperature in kelvin(K)
 
+- Every spontaneous process decreases the system’s free energy, and processes that have a positive or zero  ∆G  are never spontaneous.
+- For to be negative, DH must be negative (the system gives up enthalpy and H decreases) or TDS must be positive (the system gives up order and S increases)
 
 
 
