@@ -36,3 +36,9 @@ One major catabolic pathway is cellular respiration, which breaks down glucose a
 ```
 
 - Some consume energy to build complicated molecules from simplier ones called **anabolic pathways** or **Biosynthetic pathways** 
+```
+Synthesis of an amino acid from simpler molecules and syn- thesis of a protein from amino acids.
+```
+- Energy released from downhill reactions of catabolic pathways can be stored and then used to drive uphill reactions of anabolic pathways.
+
+## 
