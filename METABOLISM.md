@@ -1,4 +1,7 @@
+Totality of an organism's chemical reaction is called metabolism.
+
 # First law of Thermodynamics
+
 Energy can be transferred and transformed, but it cannot be created nor destroyed.
 
 ![[Screenshot 2023-01-19 at 3.57.48 PM.png]]
