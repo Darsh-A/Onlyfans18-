@@ -25,5 +25,9 @@ Every energy transformation increases the entropy of the universe.
 
 - In a metabolic pathway, a specific molecule is altered in a series of defined steps, resulting in a certain product.
 - Each step is catalyzed by a specific enzyme which speeds up a chemical reaction.
-- 
+- The mechanisms that regulate these enzymes balance metabolic supply and demand.
+
 ![](https://i.imgur.com/GSFbO9B.png)
+
+- It manages the material and energy resources of the cell.
+- Some release energy 
