@@ -30,4 +30,10 @@ Every energy transformation increases the entropy of the universe.
 ![](https://i.imgur.com/GSFbO9B.png)
 
 - It manages the material and energy resources of the cell.
-- Some release energy 
+- Some release energy by breaking down(catabolic pathways) complex molecules.
+```
+One major catabolic pathway is cellular respiration, which breaks down glucose and other organic fuels in the presence of oxygen to carbon dioxide and water. (Pathways can have more than one starting molecule and/or product.) Energy stored in the organic molecules becomes available to do cellular work, such as ciliary beating or membrane transport.
+
+```
+
+- 
