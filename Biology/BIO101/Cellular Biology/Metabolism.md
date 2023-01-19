@@ -68,6 +68,8 @@ An animal obtains starch, proteins, and other complex molecules from the food it
 
 ## Free Energy Change
 
+In 1878 willard Gibbs
+
 
 
 
