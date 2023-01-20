@@ -89,6 +89,9 @@ T=  Absolute temperature in kelvin(K)
 - Any change from the equilibrium position will have a positive ∆G and will not be spontaneous. For this reason, systems never spon- taneously move away from equilibrium.
 - A process is spontaneous and can perform work only when it is moving toward equilibrium.
 
+## Free Energy and Metabolism
+
+### Exergonic and Endergonic Reactions in Metabolism
 
 
 
