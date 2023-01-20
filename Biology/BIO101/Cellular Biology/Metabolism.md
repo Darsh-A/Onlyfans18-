@@ -93,6 +93,9 @@ T=  Absolute temperature in kelvin(K)
 
 ### Exergonic and Endergonic Reactions in Metabolism
 
-Based on free energy changes, chemical reactions can be classified as exergonic (Energy Outward) or endergonic (Energy Inward).
+- Based on free energy changes, chemical reactions can be classified as exergonic (Energy Outward) or endergonic (Energy Inward).
+- ∆G is negative for an exergonic reaction.
+- Exergonic reactions  occur spontaneously.
+- 
 
 
