@@ -99,5 +99,7 @@ T=  Absolute temperature in kelvin(K)
 - Magnitude of DG for an exergonic reaction represents the maximum amount of work the reaction can perform.
 - Greater the decrease in free energy, the greater the amount of work that can be done.
 - 
+![](https://i.imgur.com/YsMr0Ap.png)
+
 
 
