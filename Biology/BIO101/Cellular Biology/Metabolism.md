@@ -96,6 +96,8 @@ T=  Absolute temperature in kelvin(K)
 - Based on free energy changes, chemical reactions can be classified as exergonic (Energy Outward) or endergonic (Energy Inward).
 - ∆G is negative for an exergonic reaction.
 - Exergonic reactions  occur spontaneously.
+- Magnitude of DG for an exergonic reaction represents the maximum amount of work the reaction can perform.
+- Greater the decrease in free energy, the greater the amount of work that can be done.
 - 
 
 
