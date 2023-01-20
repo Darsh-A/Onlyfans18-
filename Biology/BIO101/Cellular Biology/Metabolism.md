@@ -104,5 +104,8 @@ T=  Absolute temperature in kelvin(K)
 ### Equilibrium and Metabolism
 
 - Chemical reactions of metabolism are reversible.
-- **Metabolism as a whole is never at equilibrium is one of the defining features of life.
+- **Metabolism as a whole is never at equilibrium is one of the defining features of life.**
+- Some of the reversible reactions of respiration are constantly “pulled” in one direction—that is, they are kept out of equilibrium.
+                       -key to maintaining this lack  
+of equilibrium is that the product of a reaction does not accumulate but instead becomes a reactant in the next step
 
