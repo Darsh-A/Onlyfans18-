@@ -101,5 +101,8 @@ T=  Absolute temperature in kelvin(K)
 
 ![](https://i.imgur.com/YsMr0Ap.png)
 
+### Equilibrium and Metabolism
 
+- Chemical reactions of metabolism are reversible.
+- **Metabolism as a whole is never at equilibrium is one of the defining features of life.
 
