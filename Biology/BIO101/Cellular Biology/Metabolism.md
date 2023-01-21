@@ -116,4 +116,6 @@ A cell does three kinds of work:
 - **Transport work:-** Pumping of substances across membranes against the direction of spontaneous movement.
 - **Mechanical work:-** Examples like contraction of muscle cells, Movement of chromosomes during cellular reproduction.
 - *A key feature in the way cells manage their energy resources to do this work is energy coupling, the use of an exergonic process to drive and endergonic one*
-- ATP is 
+- ATP is responsible for mediating most energy coupling in cells. It also acts as the immediate source of energy that powers cellular work.
+
+## Structure and hydrolysis of ATP
