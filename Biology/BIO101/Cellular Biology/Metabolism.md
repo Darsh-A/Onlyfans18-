@@ -119,3 +119,6 @@ A cell does three kinds of work:
 - ATP is responsible for mediating most energy coupling in cells. It also acts as the immediate source of energy that powers cellular work.
 
 ## Structure and hydrolysis of ATP
+
+- It contains the sugar ribose, with the nitrogenous base adenine and a chain of three phosphate groups( the triphosphate group) bonded to it.
+- 
