@@ -112,4 +112,5 @@ T=  Absolute temperature in kelvin(K)
 
 A cell does three kinds of work:
 
-- **Chemical work:-** 
+- **Chemical work:-** Pushing of endergonic reactions that would not occur spontaneously.
+- **Transport work:-** Pumping of substances across membranes against the direction of spontaneuos 
