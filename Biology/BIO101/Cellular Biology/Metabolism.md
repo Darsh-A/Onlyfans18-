@@ -110,4 +110,6 @@ T=  Absolute temperature in kelvin(K)
 
 # ATP powers cellular work by coupling exergonic reactions to endergonic reactions
 
+A cell does three kinds of work:
 
+- **Chemical work:-** 
