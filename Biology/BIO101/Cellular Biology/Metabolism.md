@@ -115,3 +115,5 @@ A cell does three kinds of work:
 - **Chemical work:-** Pushing of endergonic reactions that would not occur spontaneously.
 - **Transport work:-** Pumping of substances across membranes against the direction of spontaneous movement.
 - **Mechanical work:-** Examples like contraction of muscle cells, Movement of chromosomes during cellular reproduction.
+- *A key feature in the way cells manage their energy resources to do this work is energy coupling, the use of an exergonic process to drive and endergonic one*
+- ATP is 
