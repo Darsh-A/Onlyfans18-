@@ -121,4 +121,5 @@ A cell does three kinds of work:
 ## Structure and hydrolysis of ATP
 
 - It contains the sugar ribose, with the nitrogenous base adenine and a chain of three phosphate groups( the triphosphate group) bonded to it.
+- ATP is also one of the nucleoside triphosphates used to make RNA.
 - 
