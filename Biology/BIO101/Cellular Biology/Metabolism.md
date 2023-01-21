@@ -122,4 +122,5 @@ A cell does three kinds of work:
 
 - It contains the sugar ribose, with the nitrogenous base adenine and a chain of three phosphate groups( the triphosphate group) bonded to it.
 - ATP is also one of the nucleoside triphosphates used to make RNA.
-- 
+- When the terminal phosphate bond is broken by addition of a water molecule, a molecule of inorganic phosphate leaves the ATP, which becomes adenosine diphosphate, or ADP. The reaction is exergonic and releases 7.3 kcal of energy per mole of ATP hydrolyzed.
+                                   ATP + H2O ----> ADP + Pi
