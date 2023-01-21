@@ -128,4 +128,4 @@ A cell does three kinds of work:
 
 ![](https://i.imgur.com/cw4Gqa1.png)
 
-- Because their hydrolysis releases energy, the phosphate bonds of ATP are sometimes referred to as  high-energy phosphate bonds (This is false)
+- Because their hydrolysis releases energy, the phosphate bonds of ATP are sometimes referred to as  high-energy phosphate bonds (This is false).
