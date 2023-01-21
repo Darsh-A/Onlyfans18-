@@ -108,5 +108,6 @@ T=  Absolute temperature in kelvin(K)
 - Some of the reversible reactions of respiration are constantly “pulled” in one direction—that is, they are kept out of equilibrium.
                        -key to maintaining this lack of equilibrium is that the product of a reaction does not accumulate but instead becomes a reactant in the next step.
 
+# ATP powers cellular work by coupling exergonic reactions to endergonic reactions
 
 
