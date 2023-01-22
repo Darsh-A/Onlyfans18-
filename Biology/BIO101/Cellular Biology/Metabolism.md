@@ -139,4 +139,4 @@ For example, with the help of specific enzymes, the cell is able to use the high
 ```
 
 - The key to coupling exergonic and endergonic reactions is the formation of this phosphorylated intermediate, which is more reactive than the original unphosphorylated molecule.
-- 
+- tv
