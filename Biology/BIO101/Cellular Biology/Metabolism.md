@@ -147,3 +147,6 @@ For example, with the help of specific enzymes, the cell is able to use the high
 - Phosphorylation and dephosphorylation promote crucial protein shape changes during many other imortant cellular processes as well
 ![[Screenshot 2023-01-22 at 6.11.16 PM.png]]
 
+
+<!--⚠️Imgur upload failed, check dev console-->
+![[Screenshot 2023-01-22 at 6.16.20 PM.png]]
