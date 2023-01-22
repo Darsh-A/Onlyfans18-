@@ -145,6 +145,5 @@ For example, with the help of specific enzymes, the cell is able to use the high
 - Next, ATP is hydolysed, releasing ADP and Pi.
 - At each stage , the motor protein changes its shape and ability to bind the cytoskeleton, resulting in movement of the protein along the cytoskeletal track. 
 - Phosphorylation and dephosphorylation promote crucial protein shape changes during many other imortant cellular processes as well
-- 
-<!--⚠️Imgur upload failed, check dev console-->
 ![[Screenshot 2023-01-22 at 6.11.16 PM.png]]
+
