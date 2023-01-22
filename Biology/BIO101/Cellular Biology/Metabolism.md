@@ -144,4 +144,5 @@ For example, with the help of specific enzymes, the cell is able to use the high
 - In most instances of mechanical work involving motor proteins "walking" along cytoskeletal elements, a cycle occurs in which ATP is first bound non-covalently to the motor protein.
 - Next, ATP is hydolysed, releasing ADP and Pi.
 - At each stage , the motor protein changes its shape and ability to bind the cytoskeleton, resulting in movement of the protein along the cytoskeletal track. 
+- Phosphorylation and dephosphorylation promote crucial protein shape changes during many other imortant cellular processes as well
 - 
