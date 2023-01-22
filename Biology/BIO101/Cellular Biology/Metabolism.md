@@ -143,4 +143,4 @@ For example, with the help of specific enzymes, the cell is able to use the high
 - ATP hydrolysis leads to a change in a protein's shape and often its ability to bind another molecule.
 - In most instances of mechanical work involving motor proteins "walking" along cytoskeletal elements, a cycle occurs in which ATP is first bound non-covalently to the motor protein.
 - Next, ATP is hydolysed, releasing ADP and Pi.
-- 
+- At each stage , the motor protein changes its shape 
