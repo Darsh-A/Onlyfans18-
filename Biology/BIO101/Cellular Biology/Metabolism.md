@@ -133,3 +133,5 @@ A cell does three kinds of work:
 - The release of energy during the hydrolysis of ATP comes from the chemical change of the system to a state of lower free energy.
 
 ## How ATP provides Energy that performs work
+
+For example, with the help of specific enzymes, the cell is able to use the high free energy of ATP to drive chemical reactions that, by themselves, are endergonic. If the DG of an endergonic reaction is less than the amount of energy released by ATP hydrolysis, then the two reactions can be coupled so that, overall, the coupled reactions are exergonic. This usually involves phosphorylation, the transfer of a phosphate group from ATP to some other molecule, such as the reactant. The recipient molecule with the phosphate group covalently bonded to it is then called a **phosphorylated intermediate.**
