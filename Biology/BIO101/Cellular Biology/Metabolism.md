@@ -141,4 +141,6 @@ For example, with the help of specific enzymes, the cell is able to use the high
 - The key to coupling exergonic and endergonic reactions is the formation of this phosphorylated intermediate, which is more reactive than the original unphosphorylated molecule.
 - Transport and mechanical working the cell are also nearly always powered by the hydrolysis of ATP.
 - ATP hydrolysis leads to a change in a protein's shape and often its ability to bind another molecule.
-- In most instances of mechanical work involving motor proteins "walking "
+- In most instances of mechanical work involving motor proteins "walking" along cytoskeletal elements, a cycle occurs in which ATP is first bound non-covalently to the motor protein.
+- Next, ATP is hydolysed, releasing ADP and Pi.
+- 
