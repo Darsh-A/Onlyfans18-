@@ -17,3 +17,10 @@ Again, if $S \setminus\{v_{i}\}$ is not linearly independent, we can remove anot
 This can continue at most $n$ times.
 So, at some point, we must end up with a spanning set which is linearly independent.
 
+
+### Basis
+
+A ***Basis*** of $V$ is a spanning set which is linearly independent.
+ - And, any finite spanning set of a finite dimensional vector space has a subset which is a ***Basis***.
+Also,
+ - For any vector space 
