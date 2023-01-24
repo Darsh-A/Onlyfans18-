@@ -79,14 +79,19 @@
 > [[2. Matrices#Matrix Operations#Elementary Matrices | Elementary Matrix]]
 
 [[3. Vector Spaces]]
-> [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Proper]]
+> [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Properties]]
+> [[3. Vector Spaces#.#$ mathbb{R} {n}$ : Vector Space | Vector Subspace]]
+> [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Span]]
+> [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Linear Independence]]
 
 [[4. Determinants]]
 > [[4. Determinants#Properties of Determinants | Properties of Determinants]]
 > [[4. Determinants#Transpose of a Matrixi | Transpose]]
 > [[4. Determinants#Cramer's Rule | Cramer's Rule]]
 
-
+[[5. Linear Transformation]]
+> [[5. Linear Transformation#Linear Transformation | Definition]]
+> 
 
 
 
