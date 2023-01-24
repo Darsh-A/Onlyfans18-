@@ -91,7 +91,15 @@
 
 [[5. Linear Transformation]]
 > [[5. Linear Transformation#Linear Transformation | Definition]]
-> 
+> [[5. Linear Transformation#Concept of Linearity | Concept of Linearity]]
+> [[5. Linear Transformation#Higher Dimensions | Higher Dimensions]]
+> [[5. Linear Transformation#Unit of Measurement | Unit of Measurement]]
+
+[[6. Dimensions]]
+> [[6. Dimensions#Finite Dimensional Spaces | Finite Dimensional Spaces]]
+> [[6. Dimensions#Basis | Basis of Vector Spaces]]
+
+
 
 
 
