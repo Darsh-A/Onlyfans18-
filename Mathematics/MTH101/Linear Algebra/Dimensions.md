@@ -9,4 +9,11 @@ is a spanning set.
  
 If $S$ is not linearly independent, there is some $v_{i}$ such that
 	$v_{i} \in Span(S \setminus \{v_{i}\})$
-So, $Span(S \setminus \{v_{i}\}) = Span(S) = V$ 
+So, $Span(S \setminus \{v_{i}\}) = Span(S) = V$
+Thus,
+	$S \setminus \{v_{i}\}$ is a smaller spanning set.
+
+Again, if $S \setminus\{v_{i}\}$ is not linearly independent, we can remove another element to create an even smaller spanning set.
+This can continue at most $n$ times.
+So, at some point, we must end up with a spanning set which is linearly independent.
+
