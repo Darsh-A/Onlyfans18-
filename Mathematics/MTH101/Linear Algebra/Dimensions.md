@@ -23,4 +23,7 @@ So, at some point, we must end up with a spanning set which is linearly independ
 A ***Basis*** of $V$ is a spanning set which is linearly independent.
  - And, any finite spanning set of a finite dimensional vector space has a subset which is a ***Basis***.
 Also,
- - For any vector space 
+ - For any vector space $V$, any spanning set of $V$ contains a ***Basis.***
+In particular,
+ - ***Any Vector Space has a Basis.***
+
