@@ -87,7 +87,6 @@
 > [[4. Determinants#Properties of Determinants | Properties of Determinants]]
 > [[4. Determinants#Transpose of a Matrixi | Transpose]]
 > [[4. Determinants#Cramer's Rule | Cramer's Rule]]
-> 
 
 
 
