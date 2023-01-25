@@ -40,5 +40,11 @@ $$
 $$
 - By action of $H_{2}O$ on the nitrides of $Li$ or $Mg$ by heating $[NH_{4}]^{+}$ salts with base or by reducing a nitrate or nitrite in alkaline solution with $Zn$ or $Al$
 $$
-
+\require{mhchem}\ce{ Li_{3}N + 3H_{2}O -> NH_{3} + 3LiOH}
+$$
+$$
+\require{mhchem}\ce{ 2NH_{4}Cl + Ca(OH)2 -> 2NH_{3} + CaCL_{2} + 2H_{2}O}
+$$
+$$
+\require{mhchem} \ce{ [NO_{3}]- + 4Zn + 6H_{2}O + 7[OH]- }
 $$
