@@ -43,9 +43,13 @@ $$
 > - Tetrahedral $P_{4}$ molecules in which $P-P$ distances are used to define $r_{\text{cov}}=110\:\text{pm}$ for a single bond 
 > - Heating it in an inert atmosphere at $540K$ produces red phosphorus 
 >  - In moist air, it undergoes chemiluminescent oxidation, emitting a green glow and slowly forming $P_{4}O_{8}$ and some $O_{3}$  ; chain reaction in involved
-> On melting, all allotropes give a liquid containing $P_{4}$ molecules, these are also present in vapour 
+>  - Above $323K$, white $P$ inflames, yielding phosphorus($V$) oxide 
+> 	 ![Uploading file...s6klw]()
+
+,> On melting, all allotropes give a liquid containing $P_{4}$ molecules, these are also present in vapour 
 > $$\require{mhchem}\ce{ P_{4} <=>[above 1070K]P_{2} }
 $$
 >Note that $\require{mhchem}\ce{ P#P }$ bond lenght is $187\:\text{pm}$
 
 ![](https://i.imgur.com/1N0tRdX.png)
+
