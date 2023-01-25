@@ -79,4 +79,14 @@ $$
 
 ##### Synthesis 
 **Raschig reaction** 
-Involves 
+>Involves partial oxidation of $NH_{3}$ 
+>Glue of gelatine is added to inhibit side-reaction which otherwise consumes the $N_{2}H_{4}$ 
+>Additive removes traces of metal ions that catalyse reaction 
+
+$$
+\require{mhchem} \ce{ NH_{3} + NaOCl -> NH_{2}Cl + NaOH }
+$$
+$$
+\require{mhchem}\ce{ NH_{3}  }
+$$
+ 
