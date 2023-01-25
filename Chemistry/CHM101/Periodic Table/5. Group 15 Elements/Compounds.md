@@ -177,5 +177,5 @@ $$
 $$
 
 $$
-\require{mhchem}\ce{ 2N_{2}F_{4} + 2AlCl_{3} ->[203K] \underset{\text{}trans - N_{2}F_{4} + 3Cl_{2} + N_{2} + 2AlF_{3}}
+\require{mhchem}\ce{ 2N_{2}F_{4} + 2AlCl_{3} ->[203K] \underset{v 373K}{trans - N_{2}F_{4}} + 3Cl_{2} + N_{2} + 2AlF_{3}}
 $$
