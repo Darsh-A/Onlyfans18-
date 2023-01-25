@@ -180,8 +180,8 @@ $$
 \require{mhchem}
 \begin{align}
 \ce{ 2N_{2}F_{4} + 2AlCl_{3} ->[203K] & {trans - N_{2}F_{4}} + 3Cl_{2} + N_{2} + 2AlF_{3}} \\
-\downarrow
-& d
+& \quad\qquad\Bigg\downarrow 373k
+
 \end{align}
 $$
 
