@@ -84,9 +84,10 @@ $$
 >Additive removes traces of metal ions that catalyse reaction 
 
 $$
-\require{mhchem} \ce{ NH_{3} + NaOCl -> NH_{2}Cl + NaOH }
+\require{mhchem} \ce{ NH_{3} + NaOCl -> NH_{2}Cl + NaOH }  \:\:\color{#ADD8E6}{(fast)}
 $$
 $$
-\require{mhchem}\ce{ NH_{3}  }
+\require{mhchem}\ce{ NH_{3} + NH_{2}Cl + NaOH -> N_{2}H_{4} + NaCl + H_{2}O }
 $$
+
  
