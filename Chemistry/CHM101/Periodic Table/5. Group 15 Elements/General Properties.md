@@ -52,6 +52,8 @@ $$
 > - Combines violenty with all the halogens giving $PX_{3}$ ($X=\text{F, Cl, Br, I}$) or $PX_{5}$ ($X=\text{F, CL, Br}$) depending on relative amounts of $P_{4}$ and $X_{2}$ 
 > 
 > - Concentrated $HNO_{3}$ oxidizes $P_{4}$ to $H_{3}PO_{4}$ 
+> $$\require{mhchem}\ce{ P_{4} + 20HNO_{3} -> 4H_{3}PO_{4} + 20NO_{2} + 4H_{2}O}$$
+> 
 > On melting, all allotropes give a liquid containing $P_{4}$ molecules, these are also present in vapour 
 > $$\require{mhchem}\ce{ P_{4} <=>[above 1070K]P_{2} }
 $$
