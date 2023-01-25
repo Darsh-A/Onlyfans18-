@@ -36,6 +36,8 @@ $$
 - Exhibits Allotropy 
 >$12$ forms reported including both crystalline and amorphous 
 > **Crystalline White Phosphorus**
-> - Standard 
->- Tetrahedral $P_{4}$ molecules in which $P-P$ distances are used to define $r_{\text{cov}}=110\:\text{pm}$ for a single bond 
+> - Standard state of phosphorus but metastable 
+> 	lower stability probablt originates in strain associated with the $60^{\circ}$ bond angles 
+> 	$$\require{mhchem}\ce{ P }$$
+> - Tetrahedral $P_{4}$ molecules in which $P-P$ distances are used to define $r_{\text{cov}}=110\:\text{pm}$ for a single bond 
 >
