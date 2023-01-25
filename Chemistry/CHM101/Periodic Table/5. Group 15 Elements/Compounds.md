@@ -26,9 +26,9 @@ $$
 $$
 
 #### Sythesis of Ammonia
-**Frank-Caro Process**
-Adolph Frank and Nikodem Caro
-- Method developed between $1895$ and $1899$ 
+- **Frank-Caro Process**
+	- Adolph Frank and Nikodem Caro
+	- Method developed between $1895$ and $1899$ 
 $$
 \require{mhchem}\ce{ CaO + 3C <=> CaC_{2} + CO }
 $$
@@ -37,4 +37,8 @@ $$
 $$
 $$
 \require{mhchem}\ce{ CaCN_{2} + 3H_{2}O <=> CaCO_{3} + 2NH_{3} }
+$$
+- By action of $H_{2}O$ on the nitrides of $Li$ or $Mg$ by heating $[NH_{4}]^{+}$ salts with base or by reducing a nitrate or nitrite in alkaline solution with $Zn$ or $Al$
+$$
+
 $$
