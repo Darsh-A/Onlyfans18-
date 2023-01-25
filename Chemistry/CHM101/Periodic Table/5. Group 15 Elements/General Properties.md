@@ -36,4 +36,6 @@ $$
 - Exhibits Allotropy 
 >$12$ forms reported including both crystalline and amorphous 
 > **Crystalline White Phosphorus**
->- Tetrahedral $P_{4}$ molecules 
+> - Standard 
+>- Tetrahedral $P_{4}$ molecules in which $P-P$ distances are used to define $r_{\text{cov}}=110\:\text{pm}$ for a single bond 
+>
