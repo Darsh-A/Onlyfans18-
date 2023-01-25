@@ -51,4 +51,11 @@ $$
 $$
 
 
-### Phosphi
+### Phosphine 
+#### Synthesis 
+$$
+\require{mhchem}\ce{ Ca_{3}P_{2} + 6H_{2}O -> 2PH_{3} + 3Ca(OH)2 }
+$$
+$$
+\require{mhchem}\ce{ [PH_{4}]I + KOH -> PH_{3} + KI + H_{2}O}
+$$
