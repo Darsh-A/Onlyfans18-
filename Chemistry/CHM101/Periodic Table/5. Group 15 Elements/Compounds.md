@@ -136,4 +136,7 @@ $\color{#ADD8E6}K_{4}P_{3}$ :  $[P_{3}]^{4-}$ chains
 $\color{#ADD8E6}Rb_{4}P_{6}$ : planar $[P_{6}]^{4-}$ rings 
 $\color{#ADD8E6} Cs_{3}P_{7}$ : $[P_{7}]^{3-}$ cages 
 $\color{#ADD8E6} Na_{3}P_{11}$ : $[P_{11}]^{3-}$ cages 
-$\color{#ADD8E6}Ba_{3}P_{14} and $\color{#ADD8E6} Sr_{3}P_{14}$ : $[P_{7}]^{3-}$ cages 
+$\color{#ADD8E6}Ba_{3}P_{14}\: \text{and}$ $\color{#ADD8E6} Sr_{3}P_{14}$ : $[P_{7}]^{3-}$ cages 
+
+
+
