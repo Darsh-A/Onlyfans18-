@@ -13,4 +13,6 @@
 
 ### Uses 
 - Medicines, fertilizers, explosives and plastics 
-- 
+- Nitrogen gas used in formation of ammonia in Haber's process 
+
+
