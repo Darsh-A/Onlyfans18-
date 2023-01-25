@@ -99,8 +99,7 @@
 > [[6. Dimensions#Finite Dimensional Spaces | Finite Dimensional Spaces]]
 > [[6. Dimensions#Basis | Basis of Vector Spaces]]
 > [[6. Dimensions#$ phi_{B}$ is a 1-1 function | Linear Transformation Function]]
-> [[6. Dimensions#Theorem - 1 | Theorem 1,2,3]]
->  
+> [[6. Dimensions#Theorem - 1 | Theorem 1,2,3]]  
 
 
 
