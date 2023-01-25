@@ -41,4 +41,4 @@ $$
 > 	$$\require{mhchem} \underset{\text{Black}} {\ce{ P }} \ce{ <-[\Delta_{f}H^{\circ}=-39.3\: kj.mol^{-1}] } \underset{\text{White}}{\ce{ \frac{1}{4}P_{4} }} \ce{ ->[\Delta_{f}H^{\circ}=-17.6\:kJ.mol^{-1}] } \underset{\text{Red}} {\ce{ P }}$$
 > 	
 > - Tetrahedral $P_{4}$ molecules in which $P-P$ distances are used to define $r_{\text{cov}}=110\:\text{pm}$ for a single bond 
->
+> - 
