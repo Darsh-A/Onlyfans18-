@@ -33,3 +33,5 @@ $$
 
 
 ## Phosphorus 
+- Exhibits Allotropy 
+>$12$ forms reported including both crystalline and amorphous 
