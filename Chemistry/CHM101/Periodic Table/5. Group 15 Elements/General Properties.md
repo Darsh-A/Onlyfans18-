@@ -21,3 +21,4 @@
 $$
 \require{mhchem}\ce{ 2NaN_{3}(s) ->[\Delta] 2Na + 3N_{2}}
 $$
+- $NH_{4}NO_{2}$ is potentially explosive as is $NH_{4}NO_{3$ 
