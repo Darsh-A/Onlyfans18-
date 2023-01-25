@@ -9,4 +9,8 @@
 ### Chemical Properties 
 - Very electronegative and only element of group $15$ that can form hydrides capable of hydrogen bonding 
 - Expressed every whole number oxidation state from $-3$ to $+5$ and additonally some fractional oxidation states 
-- $\require{mhchem}\ce{ N#N }$ triple bond strenght is $944\: kJm$
+- $\require{mhchem}\ce{ N#N }$ triple bond strenght is $944\: kJ.mol^{-1}$ making it almost an inert gas 
+
+### Uses 
+- Medicines, fertilizers, explosives and plastics 
+- 
