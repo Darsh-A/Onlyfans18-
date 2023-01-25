@@ -176,4 +176,6 @@ $$
 \require{mhchem}\ce{ 2NF_{3} ->[Cu, 670K] N_{2}F_{4} + CuF_{2}}
 $$
 
-DMRQCE2N2F4 + 2AlCl3
+$$
+\require{mhchem}\ce{ 2N_{2}F_{4} + 2AlCl_{3} ->[203K] \underset{\text{}trans - N_{2}F_{4} + 3Cl_{2} + N_{2} + 2AlF_{3}}
+$$
