@@ -25,9 +25,16 @@ $$
 \require{mhchem}\ce{ 3H_{2} + N_{2} -> 2NH_{3} }
 $$
 
-#### Frank-Caro Process 
+#### Sythesis of Ammonia
+
 Adolph Frank and Nikodem Caro
 - Method developed between $1895$ and $1899$ 
 $$
-\require{mhchem}\ce{  }
+\require{mhchem}\ce{ CaO + 3C <=> CaC_{2} + CO }
+$$
+$$
+\require{mhchem}\ce{ CaC_{2} + N_{2} <=> CaCN_{2} + C }
+$$
+$$
+\require{mhchem}\ce{ CaCN_{2} + 3H_{2}O <=> CaCO_{3} + 2NH_{3} }
 $$
