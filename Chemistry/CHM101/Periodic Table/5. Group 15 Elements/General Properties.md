@@ -78,5 +78,5 @@ $$
 
 - None of the elements react with aqeous alkali but $As$ is attacked by $NaOH$ 
 $$
-\require{mhchem}\ce{ 2As + 6NaOH  -> 2Na_{2}AsO_{3} + 3H_{2}
+\require{mhchem}\ce{ 2As + 6NaOH  -> \underset{\text{Sodium Amenite}}{2Na_{2}AsO_{3}} + 3H_{2}}
 $$
