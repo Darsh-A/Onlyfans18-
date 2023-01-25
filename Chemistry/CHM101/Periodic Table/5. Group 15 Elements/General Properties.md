@@ -53,10 +53,11 @@ $$
 > 
 > - Concentrated $HNO_{3}$ oxidizes $P_{4}$ to $H_{3}PO_{4}$ 
 > $$\require{mhchem}\ce{ P_{4} + 20HNO_{3} -> 4H_{3}PO_{4} + 20NO_{2} + 4H_{2}O}$$
->  - Reaction with hot aq N$$
+>  - Reaction with hot aq $NaOH$ $$
 \require{mhchem}\ce{ P_{4} + 3NaOH + 3H_{2}O -> 3NaH_{2}PO_{2} + PH_{3}}
 $$
-
+>
+>
 > On melting, all allotropes give a liquid containing $P_{4}$ molecules, these are also present in vapour 
 > $$\require{mhchem}\ce{ P_{4} <=>[above 1070K]P_{2} }
 $$
