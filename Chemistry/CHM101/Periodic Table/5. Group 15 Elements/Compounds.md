@@ -147,6 +147,8 @@ contain more extended arrays of $P$ atoms
 
 
 ### Nitrogen 
+
+#### $NCl_{3}$ 
 - $NCl_{3}$--> oily, yellow liquid at $298K$ but highly endothermic and dangerously explosive 
 
 - **Preparation of** $NCl_{3}$ 
