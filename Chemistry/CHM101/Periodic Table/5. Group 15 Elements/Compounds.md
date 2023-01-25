@@ -92,4 +92,10 @@ $$$$
 \require{mhchem}\ce{ 2NH_{2}Cl + N_{2}H_{4} -> N_{2} + 2NH_{4}Cl}
 $$
 ##### Chemical Properties 
-- In aqueous solution, usually forms $[N_{2}H_{5}]^{+}$ (hydrazinium) salts, some salts of $[N_{2}H_{6}]^{2+}$ have been isolated $e.g.$ $[N2H6]$ 
+- In aqueous solution, usually forms $[N_{2}H_{5}]^{+}$ (hydrazinium) salts, some salts of $[N_{2}H_{6}]^{2+}$ have been isolated $e.g.$ $[N_{2}H_{6}][SO_{4}]$ 
+
+- $N_{2}H_{4}$ is a weaker base than $NH_{3}$ 
+
+$$
+\require{mhchem}\ce{ N_{2}H_{4}(aq) + H_{2}O(l) <=> [N_{2}H_{5}]+(aq) + [OH]-(aq) \:\:\: K_{b} }
+$$
