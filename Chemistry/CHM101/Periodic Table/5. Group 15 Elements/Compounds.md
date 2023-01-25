@@ -67,4 +67,8 @@ $$
 - Corrosive and toxic, its vapours form explosive mixtures with air 
 - MP: $275K$ and BP: $386K$
 
-- $\Delta_{f}H^{\circ}(N_{2}H_{4},298K)=+50.6\:kJ.mol^{-1}$ but $N_{2}H_{4}$ at ambient 
+- Although $\Delta_{f}H^{\circ}(N_{2}H_{4},298K)=+50.6\:kJ.mol^{-1}$, $N_{2}H_{4}$ at ambient temperatures is kinetically stable wrt $N_{2}$ and $H_{2}$ 
+
+##### Uses 
+- Alkyl derivatives of hydrazine have been used as rocket fuels, $e.g.$ combined with $N_{2}O_{4}$ in the Apollo missions 
+- 
