@@ -64,5 +64,7 @@ $$
 ### $E_{2}H_{4}\:\:\text{E=N, P, As}$
 #### Hydrazine($N_{2}H_{4}$)
 - Colourless liquid, miscible with water and with a range of organic solvents
-- Corrosive and toxic 
+- Corrosive and toxic, its vapours form explosive mixtures with air 
 - MP: $275K$ and BP: $386K$
+
+- $\Delta_{f}H^{\circ}(N_{2}H_{4},298K)=+50.6\:kJ.mol^{-1}$ but $N_{2}H_{4}$ at ambient 
