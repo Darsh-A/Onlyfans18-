@@ -35,3 +35,5 @@ $$
 ## Phosphorus 
 - Exhibits Allotropy 
 >$12$ forms reported including both crystalline and amorphous 
+> **Crystalline White Phosphorus**
+>- Tetrahedral $P_{4}$ molecules 
