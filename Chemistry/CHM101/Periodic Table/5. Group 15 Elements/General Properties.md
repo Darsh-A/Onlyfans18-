@@ -41,11 +41,17 @@ $$
 > 	$$\require{mhchem} \underset{\text{Black}} {\ce{ P }} \ce{ <-[\Delta_{f}H^{\circ}=-39.3\: kj.mol^{-1}] } \underset{\text{White}}{\ce{ \frac{1}{4}P_{4} }} \ce{ ->[\Delta_{f}H^{\circ}=-17.6\:kJ.mol^{-1}] } \underset{\text{Red}} {\ce{ P }}$$
 > 	
 > - Tetrahedral $P_{4}$ molecules in which $P-P$ distances are used to define $r_{\text{cov}}=110\:\text{pm}$ for a single bond 
+> 
 > - Heating it in an inert atmosphere at $540K$ produces red phosphorus 
+> 
 >  - In moist air, it undergoes chemiluminescent oxidation, emitting a green glow and slowly forming $P_{4}O_{8}$ and some $O_{3}$  ; chain reaction in involved
+>  
 >  - Above $323K$, white $P$ inflames, yielding phosphorus($V$) oxide 
 > 	 ![](https://i.imgur.com/M8raous.png)
-> - Combines violenty with all the halogens giving $PX_{3}$ ($X=\text{F, Cl, Br, I}$) or $PX_{5}$ ($X=\text{F, CL, Br}$) 
+> 
+> - Combines violenty with all the halogens giving $PX_{3}$ ($X=\text{F, Cl, Br, I}$) or $PX_{5}$ ($X=\text{F, CL, Br}$) depending on relative amounts of $P_{4}$ and $X_{2}$ 
+> 
+> - Concentrated $HNO_{3}$ oxidizes $P_{4}$ to $H_{3}PO_{4}$ 
 > On melting, all allotropes give a liquid containing $P_{4}$ molecules, these are also present in vapour 
 > $$\require{mhchem}\ce{ P_{4} <=>[above 1070K]P_{2} }
 $$
