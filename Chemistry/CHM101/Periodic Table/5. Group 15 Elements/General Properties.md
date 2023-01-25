@@ -2,4 +2,4 @@
 - Metallic character increases down the group
 
 
-## $\color$
+## Nitrogen
