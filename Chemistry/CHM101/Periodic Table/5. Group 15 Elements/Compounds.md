@@ -112,4 +112,7 @@ $$
 
 
 
-## Hydorgen
+## Hydrogen Azide and Azide Salts 
+
+### Sodium Azide 
+- 
