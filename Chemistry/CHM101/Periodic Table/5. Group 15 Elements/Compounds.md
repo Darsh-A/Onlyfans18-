@@ -148,10 +148,14 @@ contain more extended arrays of $P$ atoms
 
 ### Nitrogen 
 - $NCl_{3}$--> oily, yellow liquid at $298K$ but highly endothermic and dangerously explosive 
-- Difference in stanilities of $NF_{3}$ and $NCl_{3}$ lies in the relative bond strenghts of $N-F$ over $N-Cl$ and of $Cl_{2}$ over $F_{2}$ 
 
 - **Preparation of** $NCl_{3}$ 
 > $$\require{mhchem}\ce{ NH_{4}Cl + 3Cl_{2} <=> NCl_{3} + 4HCl }
 $$
 
-- 
+- DIluted with air, $NCl_{3}$ is used for bleaching flour since hydrolysis by moisture forms $HOCl$ 
+> $$
+\require{mhchem}\ce{ 2NCl_{3} + 6[OH]- -> N_{2} + 3Cl- + 3H_{2}O }
+$$
+
+- Difference in stanilities of $NF_{3}$ and $NCl_{3}$ lies in the relative bond strenghts of $N-F$ over $N-Cl$ and of $Cl_{2}$ over $F_{2}$ 
