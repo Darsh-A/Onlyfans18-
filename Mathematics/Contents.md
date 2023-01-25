@@ -79,14 +79,27 @@
 > [[2. Matrices#Matrix Operations#Elementary Matrices | Elementary Matrix]]
 
 [[3. Vector Spaces]]
-> [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Linear Transformation]]
-> [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Concept of Linearity]]
-> [[3. Vector Spaces#How does the formula work? | Important Formula]]
+> [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Properties]]
+> [[3. Vector Spaces#.#$ mathbb{R} {n}$ : Vector Space | Vector Subspace]]
+> [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Span]]
+> [[3. Vector Spaces#$ mathbb{R} {n}$ : Vector Space | Linear Independence]]
 
 [[4. Determinants]]
 > [[4. Determinants#Properties of Determinants | Properties of Determinants]]
 > [[4. Determinants#Transpose of a Matrixi | Transpose]]
 > [[4. Determinants#Cramer's Rule | Cramer's Rule]]
+
+[[5. Linear Transformation]]
+> [[5. Linear Transformation#Linear Transformation | Definition]]
+> [[5. Linear Transformation#Concept of Linearity | Concept of Linearity]]
+> [[5. Linear Transformation#Higher Dimensions | Higher Dimensions]]
+> [[5. Linear Transformation#Unit of Measurement | Unit of Measurement]]
+
+[[6. Dimensions]]
+> [[6. Dimensions#Finite Dimensional Spaces | Finite Dimensional Spaces]]
+> [[6. Dimensions#Basis | Basis of Vector Spaces]]
+> [[6. Dimensions#$ phi_{B}$ is a 1-1 function | Linear Transformation Function]]
+> [[6. Dimensions#Theorem - 1 | Theorem 1,2,3]]  
 
 
 
