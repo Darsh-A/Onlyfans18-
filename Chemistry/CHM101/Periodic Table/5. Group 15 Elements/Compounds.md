@@ -115,4 +115,8 @@ $$
 ## Hydrogen Azide and Azide Salts 
 
 ### Sodium Azide 
-- 
+- Obtained from molten sodium amide
+$$
+\require{mhchem}\ce{ 2NaNH_{2} + N_{2}O ->[460K] NaN_{3} + NaOH + NH_{3} } 
+$$
+- Treatment of $NaN_{3}$ with $H_{2}SO_{4}$ yields hydrogen azide, $HN_{3}$
