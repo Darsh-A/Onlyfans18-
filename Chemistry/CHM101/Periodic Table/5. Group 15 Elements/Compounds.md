@@ -125,4 +125,4 @@ $$
 
 ## Phosphides 
 
-- Most elements co
+- Most elements combine with phosphorus to give solid state binary phosphides, exceptions: $\text{Hg, Pb, Sb, Te}$ 
