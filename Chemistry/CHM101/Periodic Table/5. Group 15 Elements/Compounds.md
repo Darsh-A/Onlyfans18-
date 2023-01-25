@@ -128,4 +128,5 @@ $$
 - Most elements combine with phosphorus to give solid state binary phosphides, exceptions: $\text{Hg, Pb, Sb, Te}$ 
 
 - Group $1$ and $2$ metals form compounds $M_{3}P$ and $M_{3}P_{2}$  which are hydrolyzed by water and can be considered to be ionic. 
-	- Alkali metals also form phosphides which contain groups of $P$ atoms forming chains or cages, cages being either $[P_{7}]^{3-}$
+	- Alkali metals also form phosphides which contain groups of $P$ atoms forming chains or cages, cages being either $[P_{7}]^{3-}$ or $[P_{11}]^{3-}$ 
+		- Lithium Phosphide if stoichiometry $LiP$ consists of helical chains and is better formulated as $Li_{n}[P_{n}]$, the $[P_{n}]^{n-}$ chains being isoelec
