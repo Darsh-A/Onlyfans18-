@@ -167,3 +167,13 @@ $$
 - **Preparation:**
 > $$\require{mhchem} \ce{ (Me_{3}Si)_{2}NBr + 2BrCl ->[in pentane 186K] NBr_{3} + 2Me_{3}SiCl}
 $$
+
+
+#### Nitrogen Fluorides 
+$N_{2}F_{4}$ and $N_{2}F_{2}$ preparation 
+
+$$
+\require{mhchem}\ce{ 2NF_{3} ->[Cu, 670K] N_{2}F_{4} + CuF_{2}}
+$$
+
+DMRQCE2N2F4 + 2AlCl3
