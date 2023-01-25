@@ -62,6 +62,7 @@ $$
 
 
 ### $E_{2}H_{4}\:\:\text{E=N, P, As}$
+
 #### Hydrazine($N_{2}H_{4}$)
 - Colourless liquid, miscible with water and with a range of organic solvents
 - Corrosive and toxic, its vapours form explosive mixtures with air 
@@ -71,4 +72,11 @@ $$
 
 ##### Uses 
 - Alkyl derivatives of hydrazine have been used as rocket fuels, $e.g.$ combined with $N_{2}O_{4}$ in the Apollo missions 
-- 
+- Has uses in agricultural and plastic industries and in the removal of $O_{2}$ from industrial water boilers to minimize corrosion 
+$$
+\require{mhchem}\ce{ N_{2}H_{4} + O_{2} -> 2H_{2}O}
+$$
+
+##### Synthesis 
+**Raschig reaction** 
+Involves 
