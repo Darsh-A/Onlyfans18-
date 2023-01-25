@@ -59,3 +59,10 @@ $$
 $$
 \require{mhchem}\ce{ [PH_{4}]I + KOH -> PH_{3} + KI + H_{2}O}
 $$
+
+
+### $E_{2}H_{4}\:\:\text{E=N, P, As}$
+#### Hydrazine($N_{2}H_{4}$)
+- Colourless liquid, miscible with water and with a range of organic solvents
+- Corrosive and toxic 
+- MP: $275K$ and BP: $386K$
