@@ -131,3 +131,5 @@ $$
 	- Alkali metals also form phosphides which contain groups of $P$ atoms forming chains or cages, cages being either $[P_{7}]^{3-}$ or $[P_{11}]^{3-}$ 
 		- Lithium Phosphide if stoichiometry $LiP$ consists of helical chains and is better formulated as $Li_{n}[P_{n}]$, the $[P_{n}]^{n-}$ chains being isoelectronic with $S_{n}$ 
 		- The $P-P$ distances in chains are $221\:\text{pm}$ consistent with single bonds $(r_{\text{cov}}=110\:\text{pm})$ 
+
+$\color{}K_{4}P_{3}$ : 
