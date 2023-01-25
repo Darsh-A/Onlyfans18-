@@ -19,4 +19,10 @@
 
 
 ### Ammonia 
-Hydrogen is catalytically reacted with nitrogen(derived from proe)
+Hydrogen is catalytically reacted with nitrogen(derived from process air) to form anhydrous liquid ammonia 
+This is known as ammonia sythesis loop (Haber-Bosch Process)
+$$
+\require{mhchem}\ce{ 3H_{2} + N_{2} -> 2NH_{3} }
+$$
+
+#### Frank-Caro Process 
