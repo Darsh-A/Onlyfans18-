@@ -46,5 +46,5 @@ $$
 > On melting, all allotropes give a liquid containing $P_{4}$ molecules, these are also present in vapour 
 > $$\require{mhchem}\ce{ P_{4} <=>[above 1070K]P_{2} }
 $$
->Note that $$\require{mhchem}\ce{ P#P }
+>Note that $$\require{mhchem}\ce{ P\bond{-~-} P }
 $$
