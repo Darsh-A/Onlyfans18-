@@ -161,3 +161,9 @@ $$
 $$
 
 - Difference in stanilities of $NF_{3}$ and $NCl_{3}$ lies in the relative bond strenghts of $N-F$ over $N-Cl$ and of $Cl_{2}$ over $F_{2}$ 
+
+#### $NBr_{3}$ 
+- More reactive than $NCl_{3}$ and explodes at temperatures as low as $175K$. 
+- **Preparation:**
+> $$\require{mhchem} \ce{ Me_{3}Si) }
+$$
