@@ -90,4 +90,6 @@ $$
 \require{mhchem}\ce{ NH_{3} + NH_{2}Cl + NaOH -> N_{2}H_{4} + NaCl + H_{2}O }\:\:\:\: \color{#ADD8E6}{(slow)}
 $$
 
- 
+ $$
+\require{mhchem}\ce{ 2NH_{2}Cl + N_{2}H_{4} -> N_{2} + 2NH_{4}Cl}
+$$
