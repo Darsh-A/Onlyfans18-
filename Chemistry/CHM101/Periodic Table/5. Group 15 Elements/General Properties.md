@@ -65,3 +65,12 @@ $$
 
 ![](https://i.imgur.com/1N0tRdX.png)
 
+
+## As, Sb, Bi 
+
+- Burn in air and combine with halogens 
+
+$$
+\require{mhchem} \ce{ 4M + 3O_{2} ->[\Delta] 2M_{2}O_{3} \:\:\;()}
+$$
+
