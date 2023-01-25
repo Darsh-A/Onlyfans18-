@@ -16,3 +16,7 @@
 
 
 ## Hydrides 
+
+
+### Ammonia 
+Hydrogen is catalytically reacted with nitrogen(derived from proe)
