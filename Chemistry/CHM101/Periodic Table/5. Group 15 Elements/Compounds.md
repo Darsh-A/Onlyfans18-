@@ -25,6 +25,7 @@ $$
 \require{mhchem}\ce{ 3H_{2} + N_{2} -> 2NH_{3} }
 $$
 
+- Aqeous ammonia is called ammonium hydroxide 
 #### Sythesis of Ammonia
 - **Frank-Caro Process**
 	- Adolph Frank and Nikodem Caro
@@ -46,5 +47,8 @@ $$
 \require{mhchem}\ce{ 2NH_{4}Cl + Ca(OH)2 -> 2NH_{3} + CaCL_{2} + 2H_{2}O}
 $$
 $$
-\require{mhchem} \ce{ [NO_{3}]- + 4Zn + 6H_{2}O + 7[OH]- }
+\require{mhchem} \ce{ [NO_{3}]- + 4Zn + 6H_{2}O + 7[OH]- -> NH_{3} + 4[Zn(OH)4]2- }
 $$
+
+
+### Phosphi
