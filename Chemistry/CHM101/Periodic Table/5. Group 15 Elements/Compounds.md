@@ -107,5 +107,9 @@ Both $N_{2}H_{4}$ and $[N_{2}H_{5}]^{+}$ are reducing agents
 
 - Determination of Hydrazine
 $$
-\require{mhchem} \ce{ N_{2}H_{4}  }
+\require{mhchem} \ce{ N_{2}H_{4} + KIO_{3} + 2HCl -> N_{2} + KCl + ICl + 3H_{2}O }
 $$
+
+
+
+## Hydorgen
