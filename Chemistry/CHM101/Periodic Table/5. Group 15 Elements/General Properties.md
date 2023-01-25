@@ -71,6 +71,7 @@ $$
 - Burn in air and combine with halogens 
 
 $$
-\require{mhchem} \ce{ 4M + 3O_{2} ->[\Delta] 2M_{2}O_{3} \:\:\;()}
+\require{mhchem} \ce{ 4M + 3O_{2} ->[\Delta] 2M_{2}O_{3} \:\:\;(\text{M= As, Sb or Bi})}
 $$
-
+- Not attacked by non-oxidizing acids but react with conc $HNO_{3}$ to give $H_{3}AsO_{4}$(hydrated $As_{2}O_{5}$), hydrated $Sb_{2}O_{5}$ and $Bi(NO_{3})_{3}$ 
+- React with conc $H_{2}SO_{4}$ to produce $As_{4}O_{6}$
