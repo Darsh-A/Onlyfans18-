@@ -38,6 +38,6 @@ $$
 > **Crystalline White Phosphorus**
 > - Standard state of phosphorus but metastable 
 > 	lower stability probablt originates in strain associated with the $60^{\circ}$ bond angles 
-> 	$$\require{mhchem}\ce{ \underset{\text{}}$$
+> 	$$\require{mhchem} $\underset{\text{Black}} \ce{ P }$ $$$$
 > - Tetrahedral $P_{4}$ molecules in which $P-P$ distances are used to define $r_{\text{cov}}=110\:\text{pm}$ for a single bond 
 >
