@@ -148,6 +148,5 @@ contain more extended arrays of $P$ atoms
 
 ### Nitrogen 
 - $NCl_{3}$--> oily, yellow liquid at $298K$ but highly endothermic and dangerously explosive 
-- Difference in stanilities of 
-
+- Difference in stanilities of $NF_{3}$ and $NCl_{3}$ lies in the relative bond strenghts of $N-F$ over $N-Cl$ and of $Cl_{2}$ over $F_{2}$ 
 
