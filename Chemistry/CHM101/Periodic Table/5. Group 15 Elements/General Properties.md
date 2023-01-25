@@ -16,3 +16,8 @@
 - Nitrogen gas used in formation of ammonia in Haber's process 
 
 
+### Formation of $N_{2}$ gas 
+- Small amounts can be prepared by thermal decomposition of sodium azide
+$$
+\require{mhchem}\ce{ 2NaN_{3}(s) ->[\Delta] 2Na + 3N_{2}}
+$$
