@@ -44,5 +44,5 @@ $$
 > - Heating it in an inert atmosphere at $540K$ produces red phosphorus 
 > 
 > On melting, all allotropes give a liquid containing $P_{4}$ molecules, these are also present in vapour 
-> $$\require{mhchem}\ce{ P_{4} }
+> $$\require{mhchem}\ce{ P_{4} <=>[above 1070K]P_{2} }
 $$
