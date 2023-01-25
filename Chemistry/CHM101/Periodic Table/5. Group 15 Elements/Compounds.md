@@ -100,5 +100,6 @@ $$
 \require{mhchem}\ce{ N_{2}H_{4}(aq) + H_{2}O(l) <=> [N_{2}H_{5}]+(aq) + [OH]-(aq) \:\:\: K_{b}(1)=8.9X{10}^{-7} }
 $$
 $$
-\require{mhchem}\ce{ [N_{2}H_6]+(aq) + H_{2}O(l) <=> [N_{2}H_{6}]^{} }
+\require{mhchem}\ce{ [N_{2}H_6]+(aq) + H_{2}O(l) <=> [N_{2}H_{6}]^{2+}(aq) + [OH]-(aq)\:\:\: K_{b}(2)\approx 10^{-14}  }
 $$
+Both $N_{2}H_{4}$ and $[N_{2}H_{5}]^{+}$ are reducing agents 
