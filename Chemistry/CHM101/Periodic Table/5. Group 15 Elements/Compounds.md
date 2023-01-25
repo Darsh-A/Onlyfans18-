@@ -165,5 +165,5 @@ $$
 #### $NBr_{3}$ 
 - More reactive than $NCl_{3}$ and explodes at temperatures as low as $175K$. 
 - **Preparation:**
-> $$\require{mhchem} \ce{ Me_{3}Si) }
+> $$\require{mhchem} \ce{ (Me_{3}Si)_{2}NBr + 2BrCl ->[in pentane 186K] NBr_{3} + 2Me_{3}SiCl}
 $$
