@@ -132,4 +132,5 @@ $$
 		- Lithium Phosphide if stoichiometry $LiP$ consists of helical chains and is better formulated as $Li_{n}[P_{n}]$, the $[P_{n}]^{n-}$ chains being isoelectronic with $S_{n}$ 
 		- The $P-P$ distances in chains are $221\:\text{pm}$ consistent with single bonds $(r_{\text{cov}}=110\:\text{pm})$ 
 
-$\color{}K_{4}P_{3}$ : 
+$\color{#ADD8E6}K_{4}P_{3}$ :  $[P_{3}]^{4-}$ chains 
+$\color{#ADD8E6}Rb_{4}P_{6}$ : planar $[P_{6}]^$ 
