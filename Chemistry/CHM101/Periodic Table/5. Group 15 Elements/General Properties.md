@@ -42,9 +42,9 @@ $$
 > 	
 > - Tetrahedral $P_{4}$ molecules in which $P-P$ distances are used to define $r_{\text{cov}}=110\:\text{pm}$ for a single bond 
 > - Heating it in an inert atmosphere at $540K$ produces red phosphorus 
-> 
+>  - In moist ao
 > On melting, all allotropes give a liquid containing $P_{4}$ molecules, these are also present in vapour 
 > $$\require{mhchem}\ce{ P_{4} <=>[above 1070K]P_{2} }
 $$
->Note that $$\require{mhchem}\ce{ P\bond{-~-} P }
-$$
+>Note that $\require{mhchem}\ce{ P#P }$ bond lenght is $187\:\text{pm}$
+
