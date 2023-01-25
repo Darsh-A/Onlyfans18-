@@ -44,9 +44,9 @@ $$
 > - Heating it in an inert atmosphere at $540K$ produces red phosphorus 
 >  - In moist air, it undergoes chemiluminescent oxidation, emitting a green glow and slowly forming $P_{4}O_{8}$ and some $O_{3}$  ; chain reaction in involved
 >  - Above $323K$, white $P$ inflames, yielding phosphorus($V$) oxide 
-> 	 ![Uploading file...s6klw]()
-
-,> On melting, all allotropes give a liquid containing $P_{4}$ molecules, these are also present in vapour 
+> 	 ![](https://i.imgur.com/M8raous.png)
+> - Combines violenty with all the halogens giving $PX_{3}$ ($X=\text{F, Cl, Br, I}$) or $PX_{5}$ ($X=\text{F, CL, Br}$) 
+> On melting, all allotropes give a liquid containing $P_{4}$ molecules, these are also present in vapour 
 > $$\require{mhchem}\ce{ P_{4} <=>[above 1070K]P_{2} }
 $$
 >Note that $\require{mhchem}\ce{ P#P }$ bond lenght is $187\:\text{pm}$
