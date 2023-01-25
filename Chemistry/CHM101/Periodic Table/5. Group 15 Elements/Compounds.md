@@ -138,5 +138,6 @@ $\color{#ADD8E6} Cs_{3}P_{7}$ : $[P_{7}]^{3-}$ cages
 $\color{#ADD8E6} Na_{3}P_{11}$ : $[P_{11}]^{3-}$ cages 
 $\color{#ADD8E6}Ba_{3}P_{14}\: \text{and}$ $\color{#ADD8E6} Sr_{3}P_{14}$ : $[P_{7}]^{3-}$ cages 
 
+The phosphides $BaP_{10},\:CuP_{7},\: Ag_{3}P_{11},\: MP_{4} \:\:\:\text{M= Mn, Tc, Re, Fe, Ru, Os},\: $
 
 
