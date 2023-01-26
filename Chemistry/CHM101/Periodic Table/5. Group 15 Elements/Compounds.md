@@ -188,4 +188,10 @@ $$
 ##### $N_{2}F_{4}$
 - Structure similar to hydrazine 
 - Both gauche and trans conformers are present in liquid and gas phases 
-- At temperatures above $298K$, $N_{2}F_{4}$ reversibly dissociates into blue m
+- At temperatures above $298K$, $N_{2}F_{4}$ reversibly dissociates into blue $NF_{2}^{^{.}}$ radicals which undergo:
+$$
+\require{mhchem}\ce{ 2NF_{2} + S_{2}F_{10} -> 2F_{2}NSF_{5}}
+$$
+$$
+\require{mhchem}\ce{ 2NF_{2} + Cl_{2} -> 2NC }
+$$
