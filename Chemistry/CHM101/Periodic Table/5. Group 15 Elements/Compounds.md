@@ -30,7 +30,7 @@ $$\require{mhchem}\ce{ 3NO_{2}(g) + H_{2}O(l) -> 2HNO_{3}(aq) + NO(g)} \:\:\:\:\
 Hydrogen is catalytically reacted with nitrogen(derived from process air) to form anhydrous liquid ammonia 
 This is known as ammonia sythesis loop (Haber-Bosch Process)
 $$
-\require{mhchem}\ce{ 3H_{2} + N_{2} -> 2NH_{3} }
+\require{mhchem}\ce{ 3H_{2} + N_{2} -> 2NH_{3} } \:\:\:\:\:\:\:\:\: \text{(15.10)}
 $$
 
 - Aqeous ammonia is called ammonium hydroxide 
@@ -39,13 +39,13 @@ $$
 	- Adolph Frank and Nikodem Caro
 	- Method developed between $1895$ and $1899$ 
 $$
-\require{mhchem}\ce{ CaO + 3C <=> CaC_{2} + CO }
+\require{mhchem}\ce{ CaO + 3C <=> CaC_{2} + CO } \:\:\:\:\:\:\:\:\:\text{(15.11)}
 $$
 $$
-\require{mhchem}\ce{ CaC_{2} + N_{2} <=> CaCN_{2} + C }
+\require{mhchem}\ce{ CaC_{2} + N_{2} <=> CaCN_{2} + C } \:\:\:\:\:\:\:\:\:\text{(15.12)}
 $$
 $$
-\require{mhchem}\ce{ CaCN_{2} + 3H_{2}O <=> CaCO_{3} + 2NH_{3} }
+\require{mhchem}\ce{ CaCN_{2} + 3H_{2}O <=> CaCO_{3} + 2NH_{3} } \:\:\:\:\:\:\:\:\:(15.13)
 $$
 - By action of $H_{2}O$ on the nitrides of $Li$ or $Mg$ by heating $[NH_{4}]^{+}$ salts with base or by reducing a nitrate or nitrite in alkaline solution with $Zn$ or $Al$
 $$
