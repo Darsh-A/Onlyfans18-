@@ -258,6 +258,9 @@ $$
 $$
 \require{mhchem}\ce{ PCl_{3} + 3H_{2}O -> H_{3}PO_{3} + 3HCl }
 $$
+**Some inportant reactions:**
+![](https://i.imgur.com/2tpT0iT.png)
+
 
 
 
