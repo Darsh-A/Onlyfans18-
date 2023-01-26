@@ -49,23 +49,23 @@ $$
 $$
 - By action of $H_{2}O$ on the nitrides of $Li$ or $Mg$ by heating $[NH_{4}]^{+}$ salts with base or by reducing a nitrate or nitrite in alkaline solution with $Zn$ or $Al$
 $$
-\require{mhchem}\ce{ Li_{3}N + 3H_{2}O -> NH_{3} + 3LiOH}
+\require{mhchem}\ce{ Li_{3}N + 3H_{2}O -> NH_{3} + 3LiOH} \:\:\:\:\:\:\:\:\:(15.14)
 $$
 $$
-\require{mhchem}\ce{ 2NH_{4}Cl + Ca(OH)2 -> 2NH_{3} + CaCL_{2} + 2H_{2}O}
+\require{mhchem}\ce{ 2NH_{4}Cl + Ca(OH)2 -> 2NH_{3} + CaCL_{2} + 2H_{2}O} \:\:\:\:\:\:\:\:\:(15.15)
 $$
 $$
-\require{mhchem} \ce{ [NO_{3}]- + 4Zn + 6H_{2}O + 7[OH]- -> NH_{3} + 4[Zn(OH)4]2- }
+\require{mhchem} \ce{ [NO_{3}]- + 4Zn + 6H_{2}O + 7[OH]- -> NH_{3} + 4[Zn(OH)4]2- } \:\:\:\:\:\:\:\:\:(15.16)
 $$
 
 
 ### Phosphine 
 #### Synthesis 
 $$
-\require{mhchem}\ce{ Ca_{3}P_{2} + 6H_{2}O -> 2PH_{3} + 3Ca(OH)2 }
+\require{mhchem}\ce{ Ca_{3}P_{2} + 6H_{2}O -> 2PH_{3} + 3Ca(OH)2 } \:\:\:\:\:\:\:\:\:(15.17)
 $$
 $$
-\require{mhchem}\ce{ [PH_{4}]I + KOH -> PH_{3} + KI + H_{2}O}
+\require{mhchem}\ce{ [PH_{4}]I + KOH -> PH_{3} + KI + H_{2}O} \:\:\:\:\:\:\:\:\:(15.18)
 $$
 
 
@@ -82,7 +82,7 @@ $$
 - Alkyl derivatives of hydrazine have been used as rocket fuels, $e.g.$ combined with $N_{2}O_{4}$ in the Apollo missions 
 - Has uses in agricultural and plastic industries and in the removal of $O_{2}$ from industrial water boilers to minimize corrosion 
 $$
-\require{mhchem}\ce{ N_{2}H_{4} + O_{2} -> 2H_{2}O}
+\require{mhchem}\ce{ N_{2}H_{4} + O_{2} -> 2H_{2}O} \:\:\:\:\:\:\:\:\:(15.19)
 $$
 
 ##### Synthesis 
@@ -92,7 +92,7 @@ $$
 >Additive removes traces of metal ions that catalyse reaction 
 
 $$
-\require{mhchem} \ce{ NH_{3} + NaOCl -> NH_{2}Cl + NaOH }  \:\:\:\color{#ADD8E6}{(fast)}
+\require{mhchem} \ce{ NH_{3} + NaOCl -> NH_{2}Cl + NaOH }  \:\:\:\color{#ADD8E6}{(fast)} \:\:\:\:\:\:\:\:\: \color{white}(15.20)
 $$
 $$
 \require{mhchem}\ce{ NH_{3} + NH_{2}Cl + NaOH -> N_{2}H_{4} + NaCl + H_{2}O }\:\:\:\: \color{#ADD8E6}{(slow)}
