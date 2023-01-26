@@ -271,7 +271,7 @@ $$
 > $AsF_{3}$ formation:$$
 \require{mhchem}\ce{ As_{2}O_{3} + 3H_{2}SO_{4} + 3CaF_{2} -> 2AsF_{3} + 2CaSO_{4} + 3H_{2}O }
 $$
->	**Note that** $AsF_{3}$ like other trihalides is hydrolysed by water, the $H_{2}O$ form
+>	**Note that** $AsF_{3}$ like other trihalides is hydrolysed by water, the $H_{2}O$ formed in reaction is removed with excess $H_{2}SO_{4}$ 
 
 
 
