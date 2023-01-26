@@ -97,4 +97,4 @@ color: 245, 148, 120
 ### Transduction
 
 - Signal transduction usually involves multiple steps.
-- Multistep 
+- Multistep pathways can 
