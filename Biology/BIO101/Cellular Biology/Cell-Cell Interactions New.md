@@ -140,4 +140,6 @@ color: 255, 255, 255
 
 #### Calcium Ions and Inositol Trisphosphate ($\text{IP}_{3}$)
 - Calcium ions act as a second messenger in many pathways.
-- Calcium is an important second messenger in ma
+- Calcium is an important second messenger because cells can regulate its concentration.
+- A signal relayed by a signal transduction pathway may trigger an increase in calcium in the cytosol.
+- Pathways leading to the release of calcium involve **inositol 
