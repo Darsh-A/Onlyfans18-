@@ -32,10 +32,13 @@ $$
 
 - Many reactions invloving nitrogen gas are endothermic and compunds containing nitrogen decompose exothermically: 
 $$
-\require{mhchem}\ce{ N_{2}(g) + O_{2}(g) -> 2NO(g) } \:\:\:\:\:\:\:\:\:(15.13)
+\require{mhchem}\ce{ N_{2}(g) + O_{2}(g) -> 2NO(g) } \:\:\:\: \Delta H^{\circ}=180\:\text{kJ}\:\:\:\:\:\:\:\:\:(15.13)
 $$
 $$
-\require{mhchem}\ce{ 2NO_{2}(g) -> N_{2}(g) +O_{2}(g) }\:\:\:\:\:\:\:\:\:(15.14)
+\require{mhchem}\ce{ 2NO_{2}(g) -> N_{2}(g) +O_{2}(g) }\:\:\:\:\: \Delta H^{\circ}=-68\text{\:kJ}\:\:\:\:\:\:\:\:\:(15.14)
+$$
+$$
+\require{mhchem}\ce{ N_{2}H_{4}(g) -> N_{2}(g) + 2H_{2} }
 $$
 ## Hydrides 
 
