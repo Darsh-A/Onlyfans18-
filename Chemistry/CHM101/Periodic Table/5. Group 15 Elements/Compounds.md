@@ -382,3 +382,8 @@ $$
 - ${\purp\text{Hypo}}\text{phospho}{\purp\text{rous}} \text{acid}$ $H_{3}PO_{2}$ : $\blue\text{monoprotic}$
 
 ![](https://i.imgur.com/xN6Oh2H.png)
+
+
+| $H_{3}PO_{2}$ | $\text{Phosphonic acid(hypophosphorous acid)}$ |
+| ------------- | ------------------------ |
+|               |                          |
