@@ -209,13 +209,13 @@ $$
 
 - Can donate $F^{-}$ to strong acceptors like $AsF_{6}$ and $SbF_{6}$
 $$
-\require{mhchem}\ce{ N_{2}F_{4} + AsF_{5} -> [N_{2}F_{3}]+[AsF_{6}]-}
+\require{mhchem}\ce{ N_{2}F_{4} + AsF_{5} -> [N_{2}F_{3}]+[AsF_{6}]-} \:\:\:\:\:\:\:\:\:(15.35)
 $$
 $$
-\require{mhchem}\ce{ N_{2}F_{4} + 2SbF_{5} -> [N_{2}F_{3}]+[Sb_{2}F_{11}]- }
+\require{mhchem}\ce{ N_{2}F_{4} + 2SbF_{5} -> [N_{2}F_{3}]+[Sb_{2}F_{11}]- }\:\:\:\:\:\:\:\:\:(15.36)
 $$
 $$
-\require{mhchem}\ce{ NF_{3} + F_{2} + SbF_{6} -> [NF_{4}]+[SbF_{6}]- }
+\require{mhchem}\ce{ NF_{3} + F_{2} + SbF_{6} -> [NF_{4}]+[SbF_{6}]- } \:\:\:\:\:\:\:\:\:(15.37)
 $$
 
 
@@ -226,10 +226,10 @@ $$
 - Isomerization by heating gives a mixture of isomers from which cis isomer can be isolated as follows:
 
 $$
-\require{mhchem}\ce{ cis-N_{2}F_{2} ->[AsF_{5}] [N_{2}F]+[AsF_{6}]- ->[NaF/HF] cis-N_{2}F_{2} } \:\:\:\:\:\:\:\:\:(15.3)
+\require{mhchem}\ce{ cis-N_{2}F_{2} ->[AsF_{5}] [N_{2}F]+[AsF_{6}]- ->[NaF/HF] cis-N_{2}F_{2} } \:\:\:\:\:\:\:\:\:(15.38)
 $$
 $$
-\require{mhchem}\ce{ trans-N_{2}F_{2} ->[AsF_{5}] No Reaction }
+\require{mhchem}\ce{ trans-N_{2}F_{2} ->[AsF_{5}] No Reaction } \:\:\:\:\:\:\:\:\:(15.39)
 $$
 
 >This also shows the ability of $N_{2}F_{2}$ to donate $F^{-}$ to strong acceptors such as $AsF_{5}$ and $SbF_{5}$ 
@@ -254,17 +254,17 @@ $$PCl_{3}
 \ce{ ->[X_{2}\text{(X=halogen)}] PCl_{3}X_{2} } \\ \\
 
 \ce{ ->[NH_{3}] P(NH_{2})2 }
-\end{cases}}
+\end{cases}} \:\:\:\:\:\:\:\:\: (15.40)
 $$
 
 
 $$
-\require{mhchem}\ce{ PCl_{3} + AsF_{3} -> PF_{3} + AsCl_{3} }
+\require{mhchem}\ce{ PCl_{3} + AsF_{3} -> PF_{3} + AsCl_{3} } \:\:\:\:\:\:\:\:\:(15.41)
 $$
 
 
 $$
-\require{mhchem}\ce{ PCl_{3} + 3H_{2}O -> H_{3}PO_{3} + 3HCl }
+\require{mhchem}\ce{ PCl_{3} + 3H_{2}O -> H_{3}PO_{3} + 3HCl } \:\:\:\:\:\:\:\:\:(15.42)
 $$
 **Some inportant reactions:**
 ![](https://i.imgur.com/2tpT0iT.png)
@@ -274,10 +274,10 @@ $$
 - $As$ forms halides $AsX_{3} \:\: \text{X= F, Cl, Br, I}$ and $AsX_{5}\:\:\text{X= F, Cl}$ 
 > $AsCl_{3},\:AsBr_{3},\:AsI_{3}$ can be made by direct combination of elements 
 > For $AsCl_{3}$, we also have :$$
-\require{mhchem}\ce{ As_{2}O_{3} + 6HCl -> 2AsCl_{3} + 3H_{2}O }
+\require{mhchem}\ce{ As_{2}O_{3} + 6HCl -> 2AsCl_{3} + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.43)
 $$
 > $AsF_{3}$ formation:$$
-\require{mhchem}\ce{ As_{2}O_{3} + 3H_{2}SO_{4} + 3CaF_{2} -> 2AsF_{3} + 2CaSO_{4} + 3H_{2}O }
+\require{mhchem}\ce{ As_{2}O_{3} + 3H_{2}SO_{4} + 3CaF_{2} -> 2AsF_{3} + 2CaSO_{4} + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.44)
 $$
 >	**Note that** $AsF_{3}$ like other trihalides is hydrolysed by water, the $H_{2}O$ formed in reaction is removed with excess $H_{2}SO_{4}$ 
 
