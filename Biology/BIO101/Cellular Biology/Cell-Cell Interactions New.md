@@ -79,4 +79,5 @@ color: 182, 181, 214
 title: Ligand-Gated Ion Channel
 color: 245, 148, 120
 - A *ligand-gated ion channel* receptor acts as a gate when the receptor changes shape.
-- When a signal molecule binds as a ligand to the receptor, the gate allows specific ions, such as $\text{Na}^{+}$ or $\text{Ca}^{2+}$, t
+- When a signal molecule binds as a ligand to the receptor, the gate allows specific ions, such as $\text{Na}^{+}$ or $\text{Ca}^{2+}$, through a channel in the receptor.
+![](https://i.imgur.com/JArVbgO.png)
