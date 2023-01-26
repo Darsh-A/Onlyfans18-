@@ -100,15 +100,18 @@ color: 245, 148, 120
 - Multistep pathways can amplify a signal: A few molecules can produce a large cellular response.
 - Multistep pathways provide more opportunities for coordination and regulation of the cellular response.
 
+```ad-note
 title: Signal Transduction Pathways
 color: 240,180,68
 - The molecules that relay a signal from receptor to responses are mostly proteins.
 - Like falling sequential dominoes, the receptor activates another protein, which activates another, and so on, until the protein producing the response is activated.
 - At each step, the signal is transduced into a different form, usually a shape change in a protein.
 
+```
+
 ```ad-note
 title: Protein Phosphorylation and Dephosphorylation
-color: 90, 42, 56
+color: 255, 255, 255
 - In many pathways, the signal is transmitted by a cascade of protein phosphorylation.
 - **Protein kinases** transfer phosphates from ATP to protein, a process called phosphorylation.
 - **Protein phosphatases** remove the phosphates from proteins, a process called dephosphorylation.
@@ -119,4 +122,5 @@ color: 90, 42, 56
 ### Small Molecules and Ions as Second Messengers
 - The extracellular signal molecule (ligand) that binds to the receptor is a pathway's *first messenger*.
 - **Second messengers** are small, non-protein, water-soluble molecules or ions that spread throughout a cell by diffusion.
-- Second messengers participate in 
+- Second messengers participate in pathways initiated by GPCRs and RTKs
+- Cyclic AMP and calcium ions are common second messengers.
