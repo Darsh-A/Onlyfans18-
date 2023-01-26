@@ -148,4 +148,6 @@ color: 255, 255, 255
 ![](https://i.imgur.com/GMCtARr.png)
 
 ### Response
-- The cell
+The cell's response to an extracellular signal is sometimes called the "output response".
+#### Nuclear and Cytoplasmic Responses
+- Ultimately, 
