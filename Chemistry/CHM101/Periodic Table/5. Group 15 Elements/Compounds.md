@@ -264,6 +264,12 @@ $$
 
 ### Arsenic and Antimony 
 - $As$ forms halides $AsX_{3} \:\: \text{X= F, Cl, Br, I}$ and $AsX_{5}\:\:\text{X= F, Cl}$ 
+> $AsCl_{3},\:AsBr_{3},\:AsI_{3}$ can be made by direct combination of elements 
+> For $AsCl_{3}$, we also have 
+> $$
+\require{mhchem}\ce{ As_{2}O_{3} + 6HCl -> 2AsCl_{3} + 3H_{2}O }
+$$
+
 
 
 
