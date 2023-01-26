@@ -362,5 +362,6 @@ $$
 
 #### Preparation 
 $$
-\require{mhchem}\ce{ Ba(NO_{2})_{2} + H_{2}SO_{4} ->[aq] BaSO_{4} + 2HNO_{2} } 
+\require{mhchem}\ce{ Ba(NO_{2})_{2} + H_{2}SO_{4} ->[aq] BaSO_{4} + 2HNO_{2} } \:\:\:\:\:\:\:(15.63)
 $$
+>Water-soluble reagants being chosen so as to give an insoluble metal salt($BaSO_{4}$) as 
