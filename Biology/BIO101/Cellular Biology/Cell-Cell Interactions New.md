@@ -109,4 +109,6 @@ color: 240,180,68
 title: Protein Phosphorylation and Dephosphorylation
 color: 
 - In many pathways, the signal is transmitted by a cascade of protein phosphorylation.
-- **Protein Kinases** 
+- **Protein kinases** transfer phosphates from ATP to protein, a process called phosphorylation.
+- **Protein phosphatases** remove the phosphates from proteins, a process called dephosphorylation.
+- This phosphorylation and dephosphorylation system acts 
