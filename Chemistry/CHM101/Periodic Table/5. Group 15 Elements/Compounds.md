@@ -377,5 +377,5 @@ $$
 
 ### Phosphorus 
 
-- $\purp\text{Phosphoric acid}$ $H_{3}PO_{4}$ : $\blue\text{triprotic}$ 
-- $\purp \text{Phosphorous acid}$
+- $\text{Phospho\purp{ric}}\:\text{acid}$ $H_{3}PO_{4}$ : $\blue\text{triprotic}$ 
+- $\text{Phospho\purp{rous}}\:\text{acid}$ $H_{3}PO_{3}$ : $$
