@@ -6,18 +6,10 @@
 
 
 ```button
-name Add Em Up
+name 10 + 9
 type calculate
-action 2+2
+action 21
 ```
 ^button-add
-
-Result: 4
-
-Result: 4
-
-Result: 4
-Result: 4
-`
 
 
