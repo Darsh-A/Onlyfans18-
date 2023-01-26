@@ -229,14 +229,17 @@ $$
 
 
 ### Phosphorus 
-![Uploading file...z7qr3]()
+
+![](https://i.imgur.com/O0cLZNs.png)
 
 #### $PCl_{3}$
 
+- Colourless liquid ($\text{mp}= 179.5K,\: \text{bp=}349K$)
+- Toxic, fumes in moist air 
 $$
 \require{mhchem}\ce{ PCl_{3} + AsF_{3} -> PF_{3} + AsCl_{3} }
 $$
 $$
 \require{mhchem}\ce{ PCl_{3} + 3H_{2}O -> H_{3}PO_{3} + 3HCl }
 $$
-![](https://i.imgur.com/mKE8izN.png)
+!
