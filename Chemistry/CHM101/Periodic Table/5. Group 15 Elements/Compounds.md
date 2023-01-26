@@ -186,4 +186,6 @@ $$
 $$
 
 ##### $N_{2}F_{4}$
-- Structure similar to hyd
+- Structure similar to hydrazine 
+- Both gauche and trans conformers are present in liquid and gas phases 
+- At temperatures above $298K$, $N_{2}F_{4}$ reversibly dissociates into blue m
