@@ -24,8 +24,12 @@ $$
 \require{mhchem}\ce{ N_{2}O_{5}(g) + H_{2}O(l) -> 2HNO_{3}(aq) + NO(g)} \:\:\:\:\:\:\:\:\:(15.10)
 $$
 $$
-\require{mhchem}\ce{ P_{4}O_{10}(s) + H_{2}O }
+\require{mhchem}\ce{ P_{4}O_{10}(s) + 6H_{2}O(l) -> 4H_{3}PO_{4}(aq) } \:\:\:\:\:\:\:\:\:(15.11)
 $$
+$$
+\require{mhchem}\ce{ As_{2}O_{5}(s) + 3H_{2}O -> 1H_{3}AsO_{4}(aq) } \:\:\:\:\:\:\:\:\:(15.12)
+$$
+
 
 ## Hydrides 
 
