@@ -100,4 +100,6 @@ color: 245, 148, 120
 - Multistep pathways can amplify a signal: A few molecules can produce a large cellular response.
 - Multistep pathways provide more opportunities for coordination and regulation of the cellular response.
 
-
+title: Signal Transduction Pathways
+color: 240,180,68
+- The molecules that relay a signal from receptor to responses 
