@@ -19,16 +19,16 @@
 ### Formation of $N_{2}$ gas 
 - Small amounts can be prepared by thermal decomposition of sodium azide
 $$
-\require{mhchem}\ce{ 2NaN_{3}(s) ->[\Delta] 2Na + 3N_{2}}
+\require{mhchem}\ce{ 2NaN_{3}(s) ->[\Delta] 2Na + 3N_{2}} \:\:\:\:\:\:\:\:\:\:\:\text{(15.1)}
 $$
 >In car airbags, decomposition of $NaN_{3}$ is initiated by an electrical arc 
 
 - $NH_{4}NO_{2}$ is potentially explosive as is $NH_{4}NO_{3}$ which is also a powerful oxidant and a component of dynamite 
 $$
-\require{mhchem}\ce{ NH_{4}NO_{2}(aq) ->[\Delta] N_{2} + 2H_{2}O }
+\require{mhchem}\ce{ NH_{4}NO_{2}(aq) ->[\Delta] N_{2} + 2H_{2}O } \:\:\:\:\:\:\:\:\:\:\: \text{(15.2)}
 $$
 $$
-\require{mhchem}\ce{ 2NH_{4}NO_{3}(s) ->[>570K] 2N_{2} + O_{2} + 4H_{2}O}
+\require{mhchem}\ce{ 2NH_{4}NO_{3}(s) ->[>570K] 2N_{2} + O_{2} + 4H_{2}O} \:\:\:\:\:\:\:\:\:\:\: \text{}
 $$
 
 
