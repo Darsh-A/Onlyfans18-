@@ -63,11 +63,12 @@ color: 30, 215, 96
 - A GPCR is a *plasma membrane* receptor that works with the help of a *G protein*
 - The G protein acts like an on/off switch. If GDP is bound to the G protein, the G protein is inactive.
 
+![](https://i.imgur.com/zkhyPyS.png)
+![](https://i.imgur.com/pNc1Z34.png)
 ```
 
-![](https://i.imgur.com/zkhyPyS.png)
-
-
+title: Receptor Tyrosine Kinases
+color: 
 - Receptor tyrosine kinases are membrane receptors that attach phosphates to tyrosines.
 - A receptor tyrosine kinase can trigger multiple signal transduction pathways at once.
 - Abnormal functioning of RTKs is associated with many types of cancers.
