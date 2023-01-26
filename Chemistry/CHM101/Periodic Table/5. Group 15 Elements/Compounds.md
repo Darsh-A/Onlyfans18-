@@ -346,3 +346,6 @@ $$
 \require{mhchem}\ce{ 4Zn(s) + 10HNO_{3}(aq. 3M)-> 4Zn(NO_{3})_{{2}}(aq) + N_{2}O(g) + 2H_{2}O }\:\:\:\:\:\:(15.59)
 $$
 
+- $$
+\require{mhchem}\ce{ 4HNO_{3} }
+$$
