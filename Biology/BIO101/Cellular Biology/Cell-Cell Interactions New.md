@@ -77,3 +77,4 @@ color: 182, 181, 214
 ```
 
 title: Ligand-Gated Ion Channel
+color: 
