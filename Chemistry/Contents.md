@@ -5,15 +5,19 @@
 
 
 
-
 ```button
-name Toggle spellcheck
-type command
-action Toggle spellcheck
-color blue
+name Add Em Up
+type calculate
+action 2+2
 ```
-^button-spellcheck
-asd asd 
+^button-add
 
+Result: 4
+
+Result: 4
+
+Result: 4
+Result: 4
+`
 
 
