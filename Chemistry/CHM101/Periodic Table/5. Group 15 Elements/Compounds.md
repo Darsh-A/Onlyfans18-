@@ -181,7 +181,7 @@ $$
 $N_{2}F_{4}$ and $N_{2}F_{2}$ preparation 
 
 $$
-\require{mhchem}\ce{ 2NF_{3} ->[Cu, 670K] N_{2}F_{4} + CuF_{2}} \:\:\:\:\:\:\:\:\:(1)
+\require{mhchem}\ce{ 2NF_{3} ->[Cu, 670K] N_{2}F_{4} + CuF_{2}} \:\:\:\:\:\:\:\:\:(15.30)
 $$
 
 $$
@@ -190,7 +190,7 @@ $$
 \ce{ 2N_{2}F_{4} + 2AlCl_{3} ->[203K] & {trans - N_{2}F_{4}} + 3Cl_{2} + N_{2} + 2AlF_{3}} \\
 & \quad\qquad\Bigg\downarrow \raise{0.2ex}{373K} \\
 & \quad cis-N_{2}F_{2}
-\end{align}
+\end{align} \:\:\:\:\:\:\:\:\:(15.31)
 $$
 
 ##### $N_{2}F_{4}$
@@ -198,13 +198,13 @@ $$
 - Both gauche and trans conformers are present in liquid and gas phases 
 - At temperatures above $298K$, $N_{2}F_{4}$ reversibly dissociates into blue $NF_{2}^{^{.}}$ radicals which undergo:
 $$
-\require{mhchem}\ce{ 2NF_{2} + S_{2}F_{10} -> 2F_{2}NSF_{5}}
+\require{mhchem}\ce{ 2NF_{2} + S_{2}F_{10} -> 2F_{2}NSF_{5}} \:\:\:\:\:\:\:\:\:(15.32)
 $$
 $$
-\require{mhchem}\ce{ 2NF_{2} + Cl_{2} -> 2NClF_{2} }
+\require{mhchem}\ce{ 2NF_{2} + Cl_{2} -> 2NClF_{2} }\:\:\:\:\:\:\:\:\:(15.33)
 $$
 $$
-\require{mhchem}\ce{ NF_{2} + NO -> F_{2}NNO }
+\require{mhchem}\ce{ NF_{2} + NO -> F_{2}NNO } \:\:\:\:\:\:\:\:\:(15.34)
 $$
 
 - Can donate $F^{-}$ to strong acceptors like $AsF_{6}$ and $SbF_{6}$
@@ -226,7 +226,7 @@ $$
 - Isomerization by heating gives a mixture of isomers from which cis isomer can be isolated as follows:
 
 $$
-\require{mhchem}\ce{ cis-N_{2}F_{2} ->[AsF_{5}] [N_{2}F]+[AsF_{6}]- ->[NaF/HF] cis-N_{2}F_{2} }
+\require{mhchem}\ce{ cis-N_{2}F_{2} ->[AsF_{5}] [N_{2}F]+[AsF_{6}]- ->[NaF/HF] cis-N_{2}F_{2} } \:\:\:\:\:\:\:\:\:(15.3)
 $$
 $$
 \require{mhchem}\ce{ trans-N_{2}F_{2} ->[AsF_{5}] No Reaction }
