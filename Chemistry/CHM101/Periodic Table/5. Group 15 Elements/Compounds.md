@@ -356,3 +356,6 @@ $$
 ### $HNO_{2}$
 
 - Weak acid $(pK_{a}=3.37)$ but unstable wrt disproportionation in solution 
+$$
+\require{mhchem}\ce{ 3HNO_{2} -> 2NO + NO_{3} + H_{2}O } \:\:\:\:\:\:\:
+$$
