@@ -4,11 +4,16 @@
 	- [[Periodic Trends of Atomic Size]]
 
 
+
+
 ```button
-name Make an Hourly Note
-type note(<% tp.date.now("HH:MM") %>) template
-action Log Template Note
-templater true
+name Toggle spellcheck
+type command
+action Toggle spellcheck
+color blue
 ```
+^button-spellcheck
+asd asd 
+
 
 
