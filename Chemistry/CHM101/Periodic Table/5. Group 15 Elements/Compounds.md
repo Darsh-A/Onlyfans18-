@@ -356,4 +356,6 @@ $$
 $$
 
 
-###
+### $HNO_{2}$
+
+- Weak acid $(pK_{a}=3.37)$ but unstable wrt disproportionation in solution 
