@@ -24,9 +24,19 @@ $$
 \require{mhchem}\ce{ N_{2}O_{5}(g) + H_{2}O(l) -> 2HNO_{3}(aq) + NO(g)} \:\:\:\:\:\:\:\:\:(15.10)
 $$
 $$
-\require{mhchem}\ce{ P_{4}O_{10}(s) + H_{2}O }
+\require{mhchem}\ce{ P_{4}O_{10}(s) + 6H_{2}O(l) -> 4H_{3}PO_{4}(aq) } \:\:\:\:\:\:\:\:\:(15.11)
+$$
+$$
+\require{mhchem}\ce{ As_{2}O_{5}(s) + 3H_{2}O -> 1H_{3}AsO_{4}(aq) } \:\:\:\:\:\:\:\:\:(15.12)
 $$
 
+- Many reactions invloving nitrogen gas are endothermic and compunds containing nitrogen decompose exothermically: 
+$$
+\require{mhchem}\ce{ N_{2}(g) + O_{2}(g) -> 2NO(g) } \:\:\:\:\:\:\:\:\:(15.13)
+$$
+$$
+\require{mhchem}\ce{ 2NO_{2}(g) -> N_{2}(g) +O_{2}(g) }\:\:\:\:\:\:\:\:\:(15.14)
+$$
 ## Hydrides 
 
 
