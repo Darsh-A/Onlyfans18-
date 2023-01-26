@@ -274,6 +274,12 @@ $$
 >	**Note that** $AsF_{3}$ like other trihalides is hydrolysed by water, the $H_{2}O$ formed in reaction is removed with excess $H_{2}SO_{4}$ 
 
 
+- $SbCl_{5}$
+>Axial bonds are longer
+![](https://i.imgur.com/keSYxKo.png)
+
+
+
 
 
 
