@@ -45,4 +45,6 @@ The **ability of a cell to respond** to a signal depends on whether or not it ha
 	3. Response
 
 ### Reception
-- The binding between a signal molecule and recepti
+- The binding between a signal molecule and receptor is highly specific.
+- A **shape change** in a receptor is often the *initial transduction* of the signal.
+- Most signal receptors 
