@@ -8,6 +8,9 @@
 **Antimony:** $Sb_{2}O_{3},\:Sb_{2}O_{5}$
 **Bismuth:** $Bi_{2}O_{3},\:Bi_{2}O_{5}$ 
 
+
+##
+
 ![](https://i.imgur.com/JcjEHC4.png)
 
 
@@ -275,7 +278,8 @@ $$
 
 
 - $SbCl_{5}$
->Axial bonds are longer
+>Axial bonds are longer than equitorial bonds 
+>Below $219K$, the solid undergoes a reversible change involving dimerization of the $SbCl_{5}$ molecules 
 ![](https://i.imgur.com/keSYxKo.png)
 
 
