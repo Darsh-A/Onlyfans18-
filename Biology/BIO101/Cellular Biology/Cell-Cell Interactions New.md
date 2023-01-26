@@ -127,7 +127,6 @@ color: 255, 255, 255
 - Cyclic AMP and calcium ions are common second messengers.
 
 #### Cyclic-AMP
-
 - Cyclic AMP is one of the most widely used second messengers.
 - **Adenylyl cyclase**, an enzyme in the plasma membrane, converts ATP to cAMP in response to an extracellular signal.
 ![](https://i.imgur.com/UGdWnvZ.png)
@@ -136,4 +135,6 @@ color: 255, 255, 255
 
 - Many signal molecules trigger formation of cAMP
 - Other components of cAMP pathways are G proteins, G protein-coupled receptors, and protein kinases.
-- cAMP usually activates *protein kinase A*, which phosphorylates 
+- cAMP usually activates *protein kinase A*, which phosphorylates various other proteins.
+- Other type of regulation of cell metabolism is provided by G-protein systems that inhibit adenylyl cyclase.
+
