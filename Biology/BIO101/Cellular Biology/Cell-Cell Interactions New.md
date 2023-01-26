@@ -67,9 +67,13 @@ color: 30, 215, 96
 ![](https://i.imgur.com/pNc1Z34.png)
 ```
 
+```ad-note
 title: Receptor Tyrosine Kinases
-color: 
+color: 182, 181, 214
 - Receptor tyrosine kinases are membrane receptors that attach phosphates to tyrosines.
 - A receptor tyrosine kinase can trigger multiple signal transduction pathways at once.
 - Abnormal functioning of RTKs is associated with many types of cancers.
-- 
+![](https://i.imgur.com/wwDrEmp.png)
+```
+
+title: Ligand-Gated Ion Channel
