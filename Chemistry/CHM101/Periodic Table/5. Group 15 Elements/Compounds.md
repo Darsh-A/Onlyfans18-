@@ -95,9 +95,9 @@ $$
 \require{mhchem} \ce{ NH_{3} + NaOCl -> NH_{2}Cl + NaOH }  \:\:\:\color{#ADD8E6}{(fast)} \:\:\:\:\:\:\:\:\: \color{white}(15.20)
 $$
 $$
-\require{mhchem}\ce{ NH_{3} + NH_{2}Cl + NaOH -> N_{2}H_{4} + NaCl + H_{2}O }\:\:\:\: \color{#ADD8E6}{(slow)}
+\require{mhchem}\ce{ NH_{3} + NH_{2}Cl + NaOH -> N_{2}H_{4} + NaCl + H_{2}O }\:\:\:\: \color{#ADD8E6}{(slow)} \:\:\:\:\:\:\:\:\:\color{white}{(15.21)}
 $$$$
-\require{mhchem}\ce{ 2NH_{2}Cl + N_{2}H_{4} -> N_{2} + 2NH_{4}Cl}
+\require{mhchem}\ce{ 2NH_{2}Cl + N_{2}H_{4} -> N_{2} + 2NH_{4}Cl} \:\:\:\:\:\:\:\:\:(15.22)
 $$
 ##### Chemical Properties 
 - In aqueous solution, usually forms $[N_{2}H_{5}]^{+}$ (hydrazinium) salts, some salts of $[N_{2}H_{6}]^{2+}$ have been isolated $e.g.$ $[N_{2}H_{6}][SO_{4}]$ 
@@ -105,17 +105,17 @@ $$
 - $N_{2}H_{4}$ is a weaker base than $NH_{3}$ 
 
 $$
-\require{mhchem}\ce{ N_{2}H_{4}(aq) + H_{2}O(l) <=> [N_{2}H_{5}]+(aq) + [OH]-(aq) \:\:\: K_{b}(1)=8.9X{10}^{-7} }
+\require{mhchem}\ce{ N_{2}H_{4}(aq) + H_{2}O(l) <=> [N_{2}H_{5}]+(aq) + [OH]-(aq) \:\:\: K_{b}(1)=8.9X{10}^{-7} } \:\:\:\:\:\:\:\:\:(15.23)
 $$
 $$
-\require{mhchem}\ce{ [N_{2}H_6]+(aq) + H_{2}O(l) <=> [N_{2}H_{6}]^{2+}(aq) + [OH]-(aq)\:\:\: K_{b}(2)\approx 10^{-14}  }
+\require{mhchem}\ce{ [N_{2}H_6]+(aq) + H_{2}O(l) <=> [N_{2}H_{6}]^{2+}(aq) + [OH]-(aq)\:\:\: K_{b}(2)\approx 10^{-14} }\:\:\:\:\:\:\:\:\:(15.24)
 $$
 Both $N_{2}H_{4}$ and $[N_{2}H_{5}]^{+}$ are reducing agents 
 
 
 - Determination of Hydrazine
 $$
-\require{mhchem} \ce{ N_{2}H_{4} + KIO_{3} + 2HCl -> N_{2} + KCl + ICl + 3H_{2}O }
+\require{mhchem} \ce{ N_{2}H_{4} + KIO_{3} + 2HCl -> N_{2} + KCl + ICl + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.25)
 $$
 
 
@@ -125,7 +125,7 @@ $$
 ### Sodium Azide 
 - Obtained from molten sodium amide
 $$
-\require{mhchem}\ce{ 2NaNH_{2} + N_{2}O ->[460K] NaN_{3} + NaOH + NH_{3} } 
+\require{mhchem}\ce{ 2NaNH_{2} + N_{2}O ->[460K] NaN_{3} + NaOH + NH_{3} } \:\:\:\:\:\:\:\:\:(15.26)
 $$
 - Treatment of $NaN_{3}$ with $H_{2}SO_{4}$ yields hydrogen azide, $HN_{3}$
 ![](https://i.imgur.com/v86sTtJ.png)
@@ -160,12 +160,12 @@ contain more extended arrays of $P$ atoms
 - $NCl_{3}$--> oily, yellow liquid at $298K$ but highly endothermic and dangerously explosive 
 
 - **Preparation of** $NCl_{3}$ 
-> $$\require{mhchem}\ce{ NH_{4}Cl + 3Cl_{2} <=> NCl_{3} + 4HCl }
+> $$\require{mhchem}\ce{ NH_{4}Cl + 3Cl_{2} <=> NCl_{3} + 4HCl } \:\:\:\:\:\:\:\:\:(15.27)
 $$
 
 - DIluted with air, $NCl_{3}$ is used for bleaching flour since hydrolysis by moisture forms $HOCl$ 
 > $$
-\require{mhchem}\ce{ 2NCl_{3} + 6[OH]- -> N_{2} + 3Cl- + 3H_{2}O }
+\require{mhchem}\ce{ 2NCl_{3} + 6[OH]- -> N_{2} + 3Cl- + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.28)
 $$
 
 - Difference in stanilities of $NF_{3}$ and $NCl_{3}$ lies in the relative bond strenghts of $N-F$ over $N-Cl$ and of $Cl_{2}$ over $F_{2}$ 
@@ -173,7 +173,7 @@ $$
 #### $NBr_{3}$ 
 - More reactive than $NCl_{3}$ and explodes at temperatures as low as $175K$. 
 - **Preparation:**
-> $$\require{mhchem} \ce{ (Me_{3}Si)_{2}NBr + 2BrCl ->[in pentane 186K] NBr_{3} + 2Me_{3}SiCl}
+> $$\require{mhchem} \ce{ (Me_{3}Si)_{2}NBr + 2BrCl ->[in pentane 186K] NBr_{3} + 2Me_{3}SiCl} \:\:\:\:\:\:\:\:\:(15.29)
 $$
 
 
@@ -181,7 +181,7 @@ $$
 $N_{2}F_{4}$ and $N_{2}F_{2}$ preparation 
 
 $$
-\require{mhchem}\ce{ 2NF_{3} ->[Cu, 670K] N_{2}F_{4} + CuF_{2}}
+\require{mhchem}\ce{ 2NF_{3} ->[Cu, 670K] N_{2}F_{4} + CuF_{2}} \:\:\:\:\:\:\:\:\:(1)
 $$
 
 $$
