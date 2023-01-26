@@ -94,4 +94,7 @@ color: 245, 148, 120
 ![](https://i.imgur.com/7g5Ewvf.png)
 ![](https://i.imgur.com/QYZUMon.png)
 
+### Transduction
 
+- Signal transduction usually involves multiple steps.
+- Multistep 
