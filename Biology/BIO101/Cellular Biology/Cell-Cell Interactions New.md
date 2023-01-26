@@ -49,17 +49,25 @@ The **ability of a cell to respond** to a signal depends on whether or not it ha
 - A **shape change** in a receptor is often the *initial transduction* of the signal.
 - Most signal receptors are plasma membrane proteins.
 
-title: Receptors in the Plasma Membrane
-color: 30, 215, 96
-
+#### Receptors in the Plasma Membrane
 - Most water-soluble signal molecules bind to specific sites on receptor proteins that span the plasma membrane.
 - There are three main types of membrane receptors:
 	- *G protein-coupled receptors*
 	- *Receptor tyrosine kinases*
 	- *Ion channel receptors*
+
+```ad-note
+title: G protein-coupled receptors
+color: 30, 215, 96
 - **G protein-coupled receptors (GPCRs)** are the largest family of cell-surface receptors.
 - A GPCR is a *plasma membrane* receptor that works with the help of a *G protein*
 - The G protein acts like an on/off switch. If GDP is bound to the G protein, the G protein is inactive.
+
+```
+
+![](https://i.imgur.com/zkhyPyS.png)
+
+
 - Receptor tyrosine kinases are membrane receptors that attach phosphates to tyrosines.
 - A receptor tyrosine kinase can trigger multiple signal transduction pathways at once.
 - Abnormal functioning of RTKs is associated with many types of cancers.
