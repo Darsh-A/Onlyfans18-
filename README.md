@@ -2,10 +2,9 @@
 ## Custom Latex Commands:
 
 $\Zbar$ : `\Zbar`
-
-
-
-
+$\red {red}$ : `\red {}`
+$\blue {blue}$ : `\blue {}`
+$\purp {purp}$ : `\purp {}`
 
 
 ## List of cool plugins:
