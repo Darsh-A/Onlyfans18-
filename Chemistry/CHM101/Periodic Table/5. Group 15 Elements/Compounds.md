@@ -384,7 +384,8 @@ $$
 ![](https://i.imgur.com/xN6Oh2H.png)
 
 
-| Acid | Name | ![](https://i.imgur.com/DJYmS1L.png) |
+| Acid          | Name                                           | Structure                            |
 | ------------- | ---------------------------------------------- | ------------------------------------ |
-|       $H_{3}PO_{2}$     |                                                |                                      |
+| $H_{3}PO_{2}$ | $\text{Phosphonic acid(hypophosphorous acid)}$ | ![](https://i.imgur.com/DJYmS1L.png) |
+| $H_{3}PO_{3}$ | $\text{Phosphonic Acid(phosphorous acid)}$     | ![](https://i.imgur.com/nepQJTt.
 
