@@ -298,7 +298,15 @@ $$
 $$
 >	**Note that** $AsF_{3}$ like other trihalides is hydrolysed by water, the $H_{2}O$ formed in reaction is removed with excess $H_{2}SO_{4}$ 
 
-
+$$
+\require{mhchem}\ce{ PCl_{5}(s) + 4H_{2}O(l) -> H_{3}PO_{4}(aq) + 5HCl(aq) } \:\:\:\:\:\:\:\:\:(15.51)
+$$
+$$
+\require{mhchem}\ce{ AsCl_{5}(s) + 4H_{2}O(l) -> H_{3}AsO_{4}(aq) + 5HCl(aq) }\:\:\:\:\:\:\:\:\:(15.52)
+$$
+$$
+\require{mhchem}\ce{ 2SbCl_{5}(s) + }
+$$
 - $SbCl_{5}$
 >Axial bonds are longer than equitorial bonds 
 >Below $219K$, the solid undergoes a reversible change involving dimerization of the $SbCl_{5}$ molecules 
