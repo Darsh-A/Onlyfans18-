@@ -242,4 +242,11 @@ $$
 $$
 \require{mhchem}\ce{ PCl_{3} + 3H_{2}O -> H_{3}PO_{3} + 3HCl }
 $$
-!
+
+
+$$PCl_{3}
+{\begin{cases}
+\to[O_{2}]
+\end{cases}}
+
+$$
