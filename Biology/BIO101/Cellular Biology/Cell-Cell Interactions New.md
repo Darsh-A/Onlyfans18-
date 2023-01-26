@@ -60,4 +60,7 @@ color: 30, 215, 96
 - **G protein-coupled receptors (GPCRs)** are the largest family of cell-surface receptors.
 - A GPCR is a *plasma membrane* receptor that works with the help of a *G protein*
 - The G protein acts like an on/off switch. If GDP is bound to the G protein, the G protein is inactive.
-- Receptor 
+- Receptor tyrosine kinases are membrane receptors that attach phosphates to tyrosines.
+- A receptor tyrosine kinase can trigger multiple signal transduction pathways at once.
+- Abnormal functioning of RTKs is associated with many types of cancers.
+- 
