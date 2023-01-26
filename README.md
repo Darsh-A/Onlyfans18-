@@ -13,6 +13,7 @@ $\dgoes {a}$   : `\dgoes {}`
 - Admonitions
 - Imgur Plugin
 - Obsidian Git
+- Extra 
 
 ## Great Ones
 - Latex Suite
