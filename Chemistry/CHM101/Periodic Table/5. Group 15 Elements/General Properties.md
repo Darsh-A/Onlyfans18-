@@ -28,7 +28,7 @@ $$
 \require{mhchem}\ce{ NH_{4}NO_{2}(aq) ->[\Delta] N_{2} + 2H_{2}O } \:\:\:\:\:\:\:\:\:\:\: \text{(15.2)}
 $$
 $$
-\require{mhchem}\ce{ 2NH_{4}NO_{3}(s) ->[>570K] 2N_{2} + O_{2} + 4H_{2}O} \:\:\:\:\:\:\:\:\:\:\: \text{}
+\require{mhchem}\ce{ 2NH_{4}NO_{3}(s) ->[>570K] 2N_{2} + O_{2} + 4H_{2}O} \:\:\:\:\:\:\:\:\:\:\: \text{(15.3)}
 $$
 
 
@@ -38,7 +38,7 @@ $$
 > **Crystalline White Phosphorus**
 > - Standard state of phosphorus but metastable 
 > 	lower stability probablt originates in strain associated with the $60^{\circ}$ bond angles 
-> 	$$\require{mhchem} \underset{\text{Black}} {\ce{ P }} \ce{ <-[\Delta_{f}H^{\circ}=-39.3\: kj.mol^{-1}] } \underset{\text{White}}{\ce{ \frac{1}{4}P_{4} }} \ce{ ->[\Delta_{f}H^{\circ}=-17.6\:kJ.mol^{-1}] } \underset{\text{Red}} {\ce{ P }}$$
+> 	$$\require{mhchem} \underset{\text{Black}} {\ce{ P }} \ce{ <-[\Delta_{f}H^{\circ}=-39.3\: kj.mol^{-1}] } \underset{\text{White}}{\ce{ \frac{1}{4}P_{4} }} \ce{ ->[\Delta_{f}H^{\circ}=-17.6\:kJ.mol^{-1}] } \underset{\text{Red}} {\ce{ P }} \:\:\:\:\:\:\:\:\:\:\: \text{(15.4)}$$
 > 	
 > - Tetrahedral $P_{4}$ molecules in which $P-P$ distances are used to define $r_{\text{cov}}=110\:\text{pm}$ for a single bond 
 > 
@@ -52,9 +52,9 @@ $$
 > - Combines violenty with all the halogens giving $PX_{3}$ ($X=\text{F, Cl, Br, I}$) or $PX_{5}$ ($X=\text{F, CL, Br}$) depending on relative amounts of $P_{4}$ and $X_{2}$ 
 > 
 > - Concentrated $HNO_{3}$ oxidizes $P_{4}$ to $H_{3}PO_{4}$ 
-> $$\require{mhchem}\ce{ P_{4} + 20HNO_{3} -> 4H_{3}PO_{4} + 20NO_{2} + 4H_{2}O}$$
+> $$\require{mhchem}\ce{ P_{4} + 20HNO_{3} -> 4H_{3}PO_{4} + 20NO_{2} + 4H_{2}O} \:\:\:\:\:\:\:\:\:\:\: \text{(15.5)}$$
 >  - Reaction with hot aq $NaOH$ $$
-\require{mhchem}\ce{ P_{4} + 3NaOH + 3H_{2}O -> 3NaH_{2}PO_{2} + PH_{3}}
+\require{mhchem}\ce{ P_{4} + 3NaOH + 3H_{2}O -> 3NaH_{2}PO_{2} + PH_{3}} \:\:\:\:\:\:\:\:\:\:\:\text{(15.6)}
 $$
 >
 >
