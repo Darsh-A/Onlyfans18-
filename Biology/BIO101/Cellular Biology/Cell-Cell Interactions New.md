@@ -89,3 +89,7 @@ color: 245, 148, 120
 - Small or hydrophobic chemical messengers can readily cross the membrane and activate receptors.
 - Examples of hydrophobic messengers are the steroid and thyroid hormones of animals.
 - An activated hormone-receptor complex can act as a transcription factor, turning on specific genes.
+![](https://i.imgur.com/MefpbOA.png)
+![](https://i.imgur.com/woyF5X1.png)
+![](https://i.imgur.com/7g5Ewvf.png)
+![](https://i.imgur.com/QYZUMon.png)
