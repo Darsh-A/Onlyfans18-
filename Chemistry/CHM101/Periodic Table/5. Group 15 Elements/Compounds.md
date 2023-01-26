@@ -37,6 +37,8 @@ $$
 $$
 \require{mhchem}\ce{ N_{2}H_{4}(g) -> N_{2}(g) + 2H_{2}(g) }\:\:\:\: \Delta H^{\circ}=\text{-95 kJ} \:\:\:\:\:\:\:\:\:(15.15)
 $$
+---
+
 ## Hydrides 
 
 
@@ -71,7 +73,7 @@ $$
 $$
 \require{mhchem} \ce{ [NO_{3}]- + 4Zn + 6H_{2}O + 7[OH]- -> NH_{3} + 4[Zn(OH)4]2- } \:\:\:\:\:\:\:\:\:(15.22)
 $$
-
+---
 
 ### Phosphine 
 #### Synthesis 
@@ -81,7 +83,7 @@ $$
 $$
 \require{mhchem}\ce{ [PH_{4}]I + KOH -> PH_{3} + KI + H_{2}O} \:\:\:\:\:\:\:\:\:(15.24)
 $$
-
+---
 
 ### $E_{2}H_{4}\:\:\text{E=N, P, As}$
 
@@ -132,7 +134,7 @@ $$
 \require{mhchem} \ce{ N_{2}H_{4} + KIO_{3} + 2HCl -> N_{2} + KCl + ICl + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.31)
 $$
 
-
+---
 
 ## Hydrogen Azide and Azide Salts 
 
@@ -144,7 +146,7 @@ $$
 - Treatment of $NaN_{3}$ with $H_{2}SO_{4}$ yields hydrogen azide, $HN_{3}$
 ![](https://i.imgur.com/v86sTtJ.png)
 
-
+---
 ## Phosphides 
 
 - Most elements combine with phosphorus to give solid state binary phosphides, exceptions: $\text{Hg, Pb, Sb, Te}$ 
@@ -248,7 +250,7 @@ $$
 
 >This also shows the ability of $N_{2}F_{2}$ to donate $F^{-}$ to strong acceptors such as $AsF_{5}$ and $SbF_{5}$ 
 
-
+---
 
 ### Phosphorus 
 
@@ -283,6 +285,7 @@ $$
 **Some inportant reactions:**
 ![](https://i.imgur.com/2tpT0iT.png)
 
+---
 
 ### Arsenic and Antimony 
 - $As$ forms halides $AsX_{3} \:\: \text{X= F, Cl, Br, I}$ and $AsX_{5}\:\:\text{X= F, Cl}$ 
@@ -310,10 +313,12 @@ $$
 ![](https://i.imgur.com/keSYxKo.png)
 
 
+----
 
 
 ## Oxyacids 
 
+### Nitrogen 
 
 #### $HNO_{3}$
 
@@ -368,3 +373,6 @@ $$
 >Water-soluble reagants being chosen so as to give an insoluble metal salt($BaSO_{4}$) as a product 
 >**Random info:** $AgNO_{2}$ is insoluble in water unlike other metal nitrides 
 
+---
+
+### Phosphorus 
