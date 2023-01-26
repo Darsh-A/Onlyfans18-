@@ -185,3 +185,5 @@ $$
 \end{align}
 $$
 
+##### $N_{2}F_{4}$
+- Structure similar to hyd
