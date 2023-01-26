@@ -204,8 +204,11 @@ $$
 - Exists in both trans and cis forms 
 >Cis being thermodynamically more stable but also more reactive 
 
-- Isomerization by heating gives a mixture of isomers: 
+- Isomerization by heating gives a mixture of isomers from which cis isomer can be isolated as follows
 
 $$
-\require{mhchem}\ce{ cis-N_{2}F_{2} ->[AsF_{5}] [] }
+\require{mhchem}\ce{ cis-N_{2}F_{2} ->[AsF_{5}] [N_{2}F]+[AsF_{6}]- ->[NaF/HF] cis-N_{2}F_{2} }
+$$
+$$
+\require{mhchem}\ce{ trans-N_{2}F_{2} ->[AsF_{5}] No Reaction }
 $$
