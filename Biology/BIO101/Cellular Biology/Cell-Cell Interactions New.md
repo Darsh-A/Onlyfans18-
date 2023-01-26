@@ -47,4 +47,9 @@ The **ability of a cell to respond** to a signal depends on whether or not it ha
 ### Reception
 - The binding between a signal molecule and receptor is highly specific.
 - A **shape change** in a receptor is often the *initial transduction* of the signal.
-- Most signal receptors 
+- Most signal receptors are plasma membrane proteins.
+
+title: Receptors in the Plasma Membrane
+color: 30, 215, 96
+
+- Most water-soluble signal molecules bind to specific sites on receptor proteins that span 
