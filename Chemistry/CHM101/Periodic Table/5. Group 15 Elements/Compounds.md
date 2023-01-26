@@ -9,9 +9,6 @@
 **Bismuth:** $Bi_{2}O_{3},\:Bi_{2}O_{5}$ 
 
 
-
-
-
 ![](https://i.imgur.com/JcjEHC4.png)
 
 
