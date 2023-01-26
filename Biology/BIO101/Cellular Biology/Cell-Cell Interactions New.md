@@ -106,9 +106,14 @@ color: 240,180,68
 - Like falling sequential dominoes, the receptor activates another protein, which activates another, and so on, until the protein producing the response is activated.
 - At each step, the signal is transduced into a different form, usually a shape change in a protein.
 
+```ad-note
 title: Protein Phosphorylation and Dephosphorylation
-color: 
+color: 90, 42, 56
 - In many pathways, the signal is transmitted by a cascade of protein phosphorylation.
 - **Protein kinases** transfer phosphates from ATP to protein, a process called phosphorylation.
 - **Protein phosphatases** remove the phosphates from proteins, a process called dephosphorylation.
-- This phosphorylation and dephosphorylation system acts as a molecular switch, turning activities on and off or up or down, as required. 
+- This phosphorylation and dephosphorylation system acts as a molecular switch, turning activities on and off or up or down, as required.
+![](https://i.imgur.com/UgcHG4S.png)
+![](https://i.imgur.com/vAC59Vo.png)
+```
+###
