@@ -4,14 +4,11 @@
 	- [[Periodic Trends of Atomic Size]]
 
 
-````
 ```button
-name Add Current Time
-type line(1) text
-action <% tp.date.now("HH:mm:ss") %>
-replace [1,1]
+name Make an Hourly Note
+type note(<% tp.date.now("HH:MM") %>) template
+action Log Template Note
 templater true
 ```
-````
 
 
