@@ -229,5 +229,14 @@ $$
 
 
 ### Phosphorus 
+![Uploading file...z7qr3]()
 
-#### 
+#### $PCl_{3}$
+
+$$
+\require{mhchem}\ce{ PCl_{3} + AsF_{3} -> PF_{3} + AsCl_{3} }
+$$
+$$
+\require{mhchem}\ce{ PCl_{3} + 3H_{2}O -> H_{3}PO_{3} + 3HCl }
+$$
+![](https://i.imgur.com/mKE8izN.png)
