@@ -119,8 +119,12 @@ color: 255, 255, 255
 ![](https://i.imgur.com/UgcHG4S.png)
 ![](https://i.imgur.com/vAC59Vo.png)
 ```
+
 ### Small Molecules and Ions as Second Messengers
 - The extracellular signal molecule (ligand) that binds to the receptor is a pathway's *first messenger*.
 - **Second messengers** are small, non-protein, water-soluble molecules or ions that spread throughout a cell by diffusion.
 - Second messengers participate in pathways initiated by GPCRs and RTKs
 - Cyclic AMP and calcium ions are common second messengers.
+
+title: Cyclic-AMP
+color: 60, 180, 240
