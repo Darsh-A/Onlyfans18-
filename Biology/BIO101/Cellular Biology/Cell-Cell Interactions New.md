@@ -116,4 +116,5 @@ color: 90, 42, 56
 ![](https://i.imgur.com/UgcHG4S.png)
 ![](https://i.imgur.com/vAC59Vo.png)
 ```
-###
+### Small Molecules and Ions as Second Messengers
+- The extracellular signal molecule (ligan)
