@@ -14,4 +14,35 @@
 - These proteins create pores through which ions, sugars, amino acids, and other small molecules may pass.
 ![](https://i.imgur.com/wh8Aslg.png)
 
-## Cell-cell recognition
+## Classification of Cell Signaling based on Distance
+Cells in a multicellular organism communicate by chemical messengers.
+- **Local Signaling**:
+	- The animal cells may communicate by direct contact or cell-cell recognition.
+	-  Many animal and plant cells have cell junctions that directly connect the cytoplasm of adjacent cells.
+	- In these cases, signaling substances dissolved in cytosol can pass between neighboring cells.
+	- This type of cell signaling is important in *embryonic development*, the *immune response* and in *maintaining the adult stem cell populations*.
+- **Long Distance Signaling**:
+	- For long distance signaling both plants and animals use hormones.
+	- Specialized endocrine cells secrete hormones into body fluids.
+	- Through this media, the hormones are able to reach virtually every cell in the body.
+
+## Cell Communication
+There are *5* basic mechanisms for cellular communication:
+- Direct Contact
+- Paracrine and Autocrine Signaling
+- Synaptic Signaling
+- Endocrine Signaling
+In many cases, animal cells communicate using *local regulators* which are messenger molecules that travel only short distances.
+*Hormones* are the primary chemicals used for long distance signaling.
+The **ability of a cell to respond** to a signal depends on whether or not it has the **receptor specific** to the chemical.
+
+## Cell Signaling
+
+- *Earl W. Sutherland* discovered how the hormone **epinephrine** acts on the cells.
+- The three step process of cells receiving signals.
+	1. Reception
+	2. Transduction
+	3. Response
+
+### Reception
+- The binding between a signal molecule and recepti
