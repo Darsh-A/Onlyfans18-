@@ -199,6 +199,17 @@ $$
 \require{mhchem}\ce{ NF_{2} + NO -> F_{2}NNO }
 $$
 
+- Can donate $F^{-}$ to strong acceptors like $A$
+$$
+\require{mhchem}\ce{ N_{2}F_{4} + AsF_{5} -> [N_{2}F_{3}]+[AsF_{6}]-}
+$$
+$$
+\require{mhchem}\ce{ N_{2}F_{4} + 2SbF_{5} -> [N_{2}F_{3}]+[Sb_{2}F_{11}]- }
+$$
+$$
+\require{mhchem}\ce{ NF_{3} + F_{2} + SbF_{6} -> [NF_{4}]+[SbF_{6}]- }
+$$
+
 
 ##### $N_{2}F_{2}$
 - Exists in both trans and cis forms 
