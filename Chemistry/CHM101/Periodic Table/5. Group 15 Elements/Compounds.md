@@ -322,4 +322,12 @@ $$
 #### Production(Oswald Process)
 ![](https://i.imgur.com/mKtcC4F.png)
 
-1. $BH_{3}(g) + O_{2}(g)$
+$$
+1.\:\:\require{mhchem}\ce{ BH_{3}(g) + O_{2}(g) \to NO(g) + H_{2}O(g) }\:\:\:\:\:\:(15.54)
+$$
+$$
+2.\:\:\:\require{mhchem}\ce{ 2NO(g) + O_{2}(g) -> NO_{2}(g) }\:\:\:\:\:\:(15.55)
+$$
+$$
+\require{mhchem}\ce{  }
+$$
