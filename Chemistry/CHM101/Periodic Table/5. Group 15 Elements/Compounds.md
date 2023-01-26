@@ -315,5 +315,9 @@ $$
 
 
 
+## Oxyacids 
 
+### $HNO_{3}$
+
+#### Production(Oswald Process)
 
