@@ -117,4 +117,6 @@ color: 90, 42, 56
 ![](https://i.imgur.com/vAC59Vo.png)
 ```
 ### Small Molecules and Ions as Second Messengers
-- The extracellular signal molecule (ligan)
+- The extracellular signal molecule (ligand) that binds to the receptor is a pathway's *first messenger*.
+- **Second messengers** are small, non-protein, water-soluble molecules or ions that spread throughout a cell by diffusion.
+- Second messengers participate in 
