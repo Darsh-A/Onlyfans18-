@@ -340,5 +340,9 @@ $$
 \require{mhchem}\ce{ Cu(s) + 4HNO_{3}(16M) -> Cu(NO_{3})_{2}(aq) + 2NO_{2}(g) + 2H_{2}O(l)}\:\:\:\:\:\:(15.57) 
 $$
 $$
-\require{mhchem}\ce{ 3Cu(s) + 8HNO_{3}(aq. 6M) -> 3Cu(NO_{3})_{2}(aq) + 2NO }
+\require{mhchem}\ce{ 3Cu(s) + 8HNO_{3}(aq. 6M) -> 3Cu(NO_{3})_{2}(aq) + 2NO(g) + 4H_{2}O(l) }\:\:\:\:\:\:(15.58)
 $$
+$$
+\require{mhchem}\ce{ 4Zn(s) + 10HNO_{3}(aq. 3M)-> 4Zn(NO_{3})_{{2}}(aq) + N_{2}O(g) + 2H_{2}O }\:\:\:\:\:\:(15.59)
+$$
+
