@@ -52,4 +52,9 @@ The **ability of a cell to respond** to a signal depends on whether or not it ha
 title: Receptors in the Plasma Membrane
 color: 30, 215, 96
 
-- Most water-soluble signal molecules bind to specific sites on receptor proteins that span 
+- Most water-soluble signal molecules bind to specific sites on receptor proteins that span the plasma membrane.
+- There are three main types of membrane receptors:
+	- *G protein-coupled receptors*
+	- *Receptor tyrosine kinases*
+	- *Ion channel receptors*
+- **G protein-coupled receptors (GPCRs)** are the largest 
