@@ -262,7 +262,8 @@ $$
 ![](https://i.imgur.com/2tpT0iT.png)
 
 
-
+### Arsenic and Antimony 
+- $As$ forms halides $AsX_{3} \:\: \text{X= F, Cl, Br, I}$ and $AsX_{5}\:\:\text{X= F, Cl}$ 
 
 
 
