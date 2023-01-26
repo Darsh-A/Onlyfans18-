@@ -112,9 +112,9 @@ $$
 \require{mhchem} \ce{ NH_{3} + NaOCl -> NH_{2}Cl + NaOH }  \:\:\:\color{#ADD8E6}{(fast)} \:\:\:\:\:\:\:\:\: \color{white}(15.26)
 $$
 $$
-\require{mhchem}\ce{ NH_{3} + NH_{2}Cl + NaOH -> N_{2}H_{4} + NaCl + H_{2}O }\:\:\:\: \color{#ADD8E6}{(slow)} \:\:\:\:\:\:\:\:\:\color{white}{(15.21)}
+\require{mhchem}\ce{ NH_{3} + NH_{2}Cl + NaOH -> N_{2}H_{4} + NaCl + H_{2}O }\:\:\:\: \color{#ADD8E6}{(slow)} \:\:\:\:\:\:\:\:\:\color{white}{(15.27)}
 $$$$
-\require{mhchem}\ce{ 2NH_{2}Cl + N_{2}H_{4} -> N_{2} + 2NH_{4}Cl} \:\:\:\:\:\:\:\:\:(15.22)
+\require{mhchem}\ce{ 2NH_{2}Cl + N_{2}H_{4} -> N_{2} + 2NH_{4}Cl} \:\:\:\:\:\:\:\:\:(15.28)
 $$
 ##### Chemical Properties 
 - In aqueous solution, usually forms $[N_{2}H_{5}]^{+}$ (hydrazinium) salts, some salts of $[N_{2}H_{6}]^{2+}$ have been isolated $e.g.$ $[N_{2}H_{6}][SO_{4}]$ 
@@ -122,17 +122,17 @@ $$
 - $N_{2}H_{4}$ is a weaker base than $NH_{3}$ 
 
 $$
-\require{mhchem}\ce{ N_{2}H_{4}(aq) + H_{2}O(l) <=> [N_{2}H_{5}]+(aq) + [OH]-(aq) \:\:\: K_{b}(1)=8.9X{10}^{-7} } \:\:\:\:\:\:\:\:\:(15.23)
+\require{mhchem}\ce{ N_{2}H_{4}(aq) + H_{2}O(l) <=> [N_{2}H_{5}]+(aq) + [OH]-(aq) \:\:\: K_{b}(1)=8.9X{10}^{-7} } \:\:\:\:\:\:\:\:\:(15.29)
 $$
 $$
-\require{mhchem}\ce{ [N_{2}H_6]+(aq) + H_{2}O(l) <=> [N_{2}H_{6}]^{2+}(aq) + [OH]-(aq)\:\:\: K_{b}(2)\approx 10^{-14} }\:\:\:\:\:\:\:\:\:(15.24)
+\require{mhchem}\ce{ [N_{2}H_6]+(aq) + H_{2}O(l) <=> [N_{2}H_{6}]^{2+}(aq) + [OH]-(aq)\:\:\: K_{b}(2)\approx 10^{-14} }\:\:\:\:\:\:\:\:\:(15.30)
 $$
 Both $N_{2}H_{4}$ and $[N_{2}H_{5}]^{+}$ are reducing agents 
 
 
 - Determination of Hydrazine
 $$
-\require{mhchem} \ce{ N_{2}H_{4} + KIO_{3} + 2HCl -> N_{2} + KCl + ICl + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.25)
+\require{mhchem} \ce{ N_{2}H_{4} + KIO_{3} + 2HCl -> N_{2} + KCl + ICl + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.31)
 $$
 
 
@@ -142,7 +142,7 @@ $$
 ### Sodium Azide 
 - Obtained from molten sodium amide
 $$
-\require{mhchem}\ce{ 2NaNH_{2} + N_{2}O ->[460K] NaN_{3} + NaOH + NH_{3} } \:\:\:\:\:\:\:\:\:(15.26)
+\require{mhchem}\ce{ 2NaNH_{2} + N_{2}O ->[460K] NaN_{3} + NaOH + NH_{3} } \:\:\:\:\:\:\:\:\:(15.32)
 $$
 - Treatment of $NaN_{3}$ with $H_{2}SO_{4}$ yields hydrogen azide, $HN_{3}$
 ![](https://i.imgur.com/v86sTtJ.png)
@@ -177,12 +177,12 @@ contain more extended arrays of $P$ atoms
 - $NCl_{3}$--> oily, yellow liquid at $298K$ but highly endothermic and dangerously explosive 
 
 - **Preparation of** $NCl_{3}$ 
-> $$\require{mhchem}\ce{ NH_{4}Cl + 3Cl_{2} <=> NCl_{3} + 4HCl } \:\:\:\:\:\:\:\:\:(15.27)
+> $$\require{mhchem}\ce{ NH_{4}Cl + 3Cl_{2} <=> NCl_{3} + 4HCl } \:\:\:\:\:\:\:\:\:(15.33)
 $$
 
 - DIluted with air, $NCl_{3}$ is used for bleaching flour since hydrolysis by moisture forms $HOCl$ 
 > $$
-\require{mhchem}\ce{ 2NCl_{3} + 6[OH]- -> N_{2} + 3Cl- + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.28)
+\require{mhchem}\ce{ 2NCl_{3} + 6[OH]- -> N_{2} + 3Cl- + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.34)
 $$
 
 - Difference in stanilities of $NF_{3}$ and $NCl_{3}$ lies in the relative bond strenghts of $N-F$ over $N-Cl$ and of $Cl_{2}$ over $F_{2}$ 
@@ -190,7 +190,7 @@ $$
 #### $NBr_{3}$ 
 - More reactive than $NCl_{3}$ and explodes at temperatures as low as $175K$. 
 - **Preparation:**
-> $$\require{mhchem} \ce{ (Me_{3}Si)_{2}NBr + 2BrCl ->[in pentane 186K] NBr_{3} + 2Me_{3}SiCl} \:\:\:\:\:\:\:\:\:(15.29)
+> $$\require{mhchem} \ce{ (Me_{3}Si)_{2}NBr + 2BrCl ->[in pentane 186K] NBr_{3} + 2Me_{3}SiCl} \:\:\:\:\:\:\:\:\:(15.35)
 $$
 
 
@@ -198,7 +198,7 @@ $$
 $N_{2}F_{4}$ and $N_{2}F_{2}$ preparation 
 
 $$
-\require{mhchem}\ce{ 2NF_{3} ->[Cu, 670K] N_{2}F_{4} + CuF_{2}} \:\:\:\:\:\:\:\:\:(15.30)
+\require{mhchem}\ce{ 2NF_{3} ->[Cu, 670K] N_{2}F_{4} + CuF_{2}} \:\:\:\:\:\:\:\:\:(15.36)
 $$
 
 $$
@@ -207,7 +207,7 @@ $$
 \ce{ 2N_{2}F_{4} + 2AlCl_{3} ->[203K] & {trans - N_{2}F_{4}} + 3Cl_{2} + N_{2} + 2AlF_{3}} \\
 & \quad\qquad\Bigg\downarrow \raise{0.2ex}{373K} \\
 & \quad cis-N_{2}F_{2}
-\end{align} \:\:\:\:\:\:\:\:\:(15.31)
+\end{align} \:\:\:\:\:\:\:\:\:(15.37)
 $$
 
 ##### $N_{2}F_{4}$
@@ -215,24 +215,24 @@ $$
 - Both gauche and trans conformers are present in liquid and gas phases 
 - At temperatures above $298K$, $N_{2}F_{4}$ reversibly dissociates into blue $NF_{2}^{^{.}}$ radicals which undergo:
 $$
-\require{mhchem}\ce{ 2NF_{2} + S_{2}F_{10} -> 2F_{2}NSF_{5}} \:\:\:\:\:\:\:\:\:(15.32)
+\require{mhchem}\ce{ 2NF_{2} + S_{2}F_{10} -> 2F_{2}NSF_{5}} \:\:\:\:\:\:\:\:\:(15.38)
 $$
 $$
-\require{mhchem}\ce{ 2NF_{2} + Cl_{2} -> 2NClF_{2} }\:\:\:\:\:\:\:\:\:(15.33)
+\require{mhchem}\ce{ 2NF_{2} + Cl_{2} -> 2NClF_{2} }\:\:\:\:\:\:\:\:\:(15.39)
 $$
 $$
-\require{mhchem}\ce{ NF_{2} + NO -> F_{2}NNO } \:\:\:\:\:\:\:\:\:(15.34)
+\require{mhchem}\ce{ NF_{2} + NO -> F_{2}NNO } \:\:\:\:\:\:\:\:\:(15.40)
 $$
 
 - Can donate $F^{-}$ to strong acceptors like $AsF_{6}$ and $SbF_{6}$
 $$
-\require{mhchem}\ce{ N_{2}F_{4} + AsF_{5} -> [N_{2}F_{3}]+[AsF_{6}]-} \:\:\:\:\:\:\:\:\:(15.35)
+\require{mhchem}\ce{ N_{2}F_{4} + AsF_{5} -> [N_{2}F_{3}]+[AsF_{6}]-} \:\:\:\:\:\:\:\:\:(15.41)
 $$
 $$
-\require{mhchem}\ce{ N_{2}F_{4} + 2SbF_{5} -> [N_{2}F_{3}]+[Sb_{2}F_{11}]- }\:\:\:\:\:\:\:\:\:(15.36)
+\require{mhchem}\ce{ N_{2}F_{4} + 2SbF_{5} -> [N_{2}F_{3}]+[Sb_{2}F_{11}]- }\:\:\:\:\:\:\:\:\:(15.42)
 $$
 $$
-\require{mhchem}\ce{ NF_{3} + F_{2} + SbF_{6} -> [NF_{4}]+[SbF_{6}]- } \:\:\:\:\:\:\:\:\:(15.37)
+\require{mhchem}\ce{ NF_{3} + F_{2} + SbF_{6} -> [NF_{4}]+[SbF_{6}]- } \:\:\:\:\:\:\:\:\:(15.43)
 $$
 
 
@@ -243,10 +243,10 @@ $$
 - Isomerization by heating gives a mixture of isomers from which cis isomer can be isolated as follows:
 
 $$
-\require{mhchem}\ce{ cis-N_{2}F_{2} ->[AsF_{5}] [N_{2}F]+[AsF_{6}]- ->[NaF/HF] cis-N_{2}F_{2} } \:\:\:\:\:\:\:\:\:(15.38)
+\require{mhchem}\ce{ cis-N_{2}F_{2} ->[AsF_{5}] [N_{2}F]+[AsF_{6}]- ->[NaF/HF] cis-N_{2}F_{2} } \:\:\:\:\:\:\:\:\:(15.44)
 $$
 $$
-\require{mhchem}\ce{ trans-N_{2}F_{2} ->[AsF_{5}] No Reaction } \:\:\:\:\:\:\:\:\:(15.39)
+\require{mhchem}\ce{ trans-N_{2}F_{2} ->[AsF_{5}] No Reaction } \:\:\:\:\:\:\:\:\:(15.45)
 $$
 
 >This also shows the ability of $N_{2}F_{2}$ to donate $F^{-}$ to strong acceptors such as $AsF_{5}$ and $SbF_{5}$ 
@@ -271,17 +271,17 @@ $$PCl_{3}
 \ce{ ->[X_{2}\text{(X=halogen)}] PCl_{3}X_{2} } \\ \\
 
 \ce{ ->[NH_{3}] P(NH_{2})2 }
-\end{cases}} \:\:\:\:\:\:\:\:\: (15.40)
+\end{cases}} \:\:\:\:\:\:\:\:\: (15.46)
 $$
 
 
 $$
-\require{mhchem}\ce{ PCl_{3} + AsF_{3} -> PF_{3} + AsCl_{3} } \:\:\:\:\:\:\:\:\:(15.41)
+\require{mhchem}\ce{ PCl_{3} + AsF_{3} -> PF_{3} + AsCl_{3} } \:\:\:\:\:\:\:\:\:(15.47)
 $$
 
 
 $$
-\require{mhchem}\ce{ PCl_{3} + 3H_{2}O -> H_{3}PO_{3} + 3HCl } \:\:\:\:\:\:\:\:\:(15.42)
+\require{mhchem}\ce{ PCl_{3} + 3H_{2}O -> H_{3}PO_{3} + 3HCl } \:\:\:\:\:\:\:\:\:(15.48)
 $$
 **Some inportant reactions:**
 ![](https://i.imgur.com/2tpT0iT.png)
@@ -291,10 +291,10 @@ $$
 - $As$ forms halides $AsX_{3} \:\: \text{X= F, Cl, Br, I}$ and $AsX_{5}\:\:\text{X= F, Cl}$ 
 > $AsCl_{3},\:AsBr_{3},\:AsI_{3}$ can be made by direct combination of elements 
 > For $AsCl_{3}$, we also have :$$
-\require{mhchem}\ce{ As_{2}O_{3} + 6HCl -> 2AsCl_{3} + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.43)
+\require{mhchem}\ce{ As_{2}O_{3} + 6HCl -> 2AsCl_{3} + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.49)
 $$
 > $AsF_{3}$ formation:$$
-\require{mhchem}\ce{ As_{2}O_{3} + 3H_{2}SO_{4} + 3CaF_{2} -> 2AsF_{3} + 2CaSO_{4} + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.44)
+\require{mhchem}\ce{ As_{2}O_{3} + 3H_{2}SO_{4} + 3CaF_{2} -> 2AsF_{3} + 2CaSO_{4} + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.50)
 $$
 >	**Note that** $AsF_{3}$ like other trihalides is hydrolysed by water, the $H_{2}O$ formed in reaction is removed with excess $H_{2}SO_{4}$ 
 
