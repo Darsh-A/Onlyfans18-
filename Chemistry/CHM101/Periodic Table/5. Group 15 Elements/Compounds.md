@@ -202,4 +202,10 @@ $$
 
 ##### $N_{2}F_{2}$
 - Exists in both trans and cis forms 
->Cis being thermodynam
+>Cis being thermodynamically more stable but also more reactive 
+
+- Isomerization by heating gives a mixture of isomers: 
+
+$$
+\require{mhchem}\ce{ cis-N_{2}F_{2} ->[AsF_{5}] [] }
+$$
