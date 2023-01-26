@@ -150,4 +150,5 @@ color: 255, 255, 255
 ### Response
 The cell's response to an extracellular signal is sometimes called the "output response".
 #### Nuclear and Cytoplasmic Responses
-- Ultimately, 
+- Ultimately, a signal transduction pathway leads to regulation of one or more cellular activites.
+- The 
