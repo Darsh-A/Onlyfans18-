@@ -104,4 +104,9 @@ title: Signal Transduction Pathways
 color: 240,180,68
 - The molecules that relay a signal from receptor to responses are mostly proteins.
 - Like falling sequential dominoes, the receptor activates another protein, which activates another, and so on, until the protein producing the response is activated.
-- At each step
+- At each step, the signal is transduced into a different form, usually a shape change in a protein.
+
+title: Protein Phosphorylation and Dephosphorylation
+color: 
+- In many pathways, the signal is transmitted by a cascade of protein phosphorylation.
+- **Protein Kinases** 
