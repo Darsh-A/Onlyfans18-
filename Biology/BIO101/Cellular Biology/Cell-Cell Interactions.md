@@ -33,10 +33,9 @@ Binding of a mating factor by the yeast cell-surface receptor initiate a signal 
 
 ### THREE STAGES OF CELL SIGNALING:-
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earl_Wilbur_Sutherland_Jr.jpg/800px-Earl_Wilbur_Sutherland_Jr.jpg)
 ***Earl W. Sutherlan(Nobel Prize in 1971)
 
-*He and his colleagues investigated how the animal hormone epinephrine triggers the "fight-or-fight" response in animals like the impala.*
+*He and his colleagues investigated how the animal hormone epinephrine triggers the "fight-or-flight" response in animals like the impala.*
 
 - Effect of epinephrine is to mobilize fuel reserves, which can be used by the animals to either defend itself or try to escape.
 - Epinephrine stimulates the breakdown of the storage polysaccharide glycogen within liver cells and skeletal muscle cells.
@@ -146,4 +145,6 @@ RNA polymerase uses one of the DNA strands (the template strand) as a template t
 - If each molecule transmits the signal to numerous molecules at the next step in the series, the result is a ***geometric increase*** in the number of activated molecules by the end.
  ###### Another benefit of using a multistep pathway is that they provide more opportunities for coordination and control than do simpler systems. This allows regulation of the response.
 - Many of the relay molecules in a signal transduction pathway are protein kinases and often act on other protein kinases in the pathway. 
-- 
+
+
+
