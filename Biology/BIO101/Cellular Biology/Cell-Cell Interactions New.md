@@ -120,13 +120,13 @@ color: 255, 255, 255
 ![](https://i.imgur.com/vAC59Vo.png)
 ```
 
-### Small Molecules and Ions as Second Messengers
+#### Small Molecules and Ions as Second Messengers
 - The extracellular signal molecule (ligand) that binds to the receptor is a pathway's *first messenger*.
 - **Second messengers** are small, non-protein, water-soluble molecules or ions that spread throughout a cell by diffusion.
 - Second messengers participate in pathways initiated by GPCRs and RTKs
 - Cyclic AMP and calcium ions are common second messengers.
 
-#### Cyclic-AMP
+##### Cyclic-AMP
 - Cyclic AMP is one of the most widely used second messengers.
 - **Adenylyl cyclase**, an enzyme in the plasma membrane, converts ATP to cAMP in response to an extracellular signal.
 ![](https://i.imgur.com/UGdWnvZ.png)
@@ -138,8 +138,14 @@ color: 255, 255, 255
 - cAMP usually activates *protein kinase A*, which phosphorylates various other proteins.
 - Other type of regulation of cell metabolism is provided by G-protein systems that inhibit adenylyl cyclase.
 
-#### Calcium Ions and Inositol Trisphosphate ($\text{IP}_{3}$)
+##### Calcium Ions and Inositol Trisphosphate ($\text{IP}_{3}$)
 - Calcium ions act as a second messenger in many pathways.
 - Calcium is an important second messenger because cells can regulate its concentration.
 - A signal relayed by a signal transduction pathway may trigger an increase in calcium in the cytosol.
 - Pathways leading to the release of calcium involve **inositol triphosphate** ($\text{IP}_{3}$) and diacylglycerol (DAG) as additional second messengers.
+	![](https://i.imgur.com/W2xbN8O.png)
+![](https://i.imgur.com/eHqXJzW.png)
+![](https://i.imgur.com/GMCtARr.png)
+
+### Response
+- The cell
