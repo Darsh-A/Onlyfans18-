@@ -57,4 +57,7 @@ color: 30, 215, 96
 	- *G protein-coupled receptors*
 	- *Receptor tyrosine kinases*
 	- *Ion channel receptors*
-- **G protein-coupled receptors (GPCRs)** are the largest 
+- **G protein-coupled receptors (GPCRs)** are the largest family of cell-surface receptors.
+- A GPCR is a *plasma membrane* receptor that works with the help of a *G protein*
+- The G protein acts like an on/off switch. If GDP is bound to the G protein, the G protein is inactive.
+- Receptor 
