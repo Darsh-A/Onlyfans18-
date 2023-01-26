@@ -38,7 +38,7 @@ $$
 \require{mhchem}\ce{ 2NO_{2}(g) -> N_{2}(g) +O_{2}(g) }\:\:\:\:\: \Delta H^{\circ}=-68\text{\:kJ}\:\:\:\:\:\:\:\:\:(15.14)
 $$
 $$
-\require{mhchem}\ce{ N_{2}H_{4}(g) -> N_{2}(g) + 2H_{2} }
+\require{mhchem}\ce{ N_{2}H_{4}(g) -> N_{2}(g) + 2H_{2}(g) }\:\:\:\: \Delta H^{\circ}=\text{-95 kJ} \:\:\:\:\:\:\:\:\:(15.15)
 $$
 ## Hydrides 
 
@@ -47,7 +47,7 @@ $$
 Hydrogen is catalytically reacted with nitrogen(derived from process air) to form anhydrous liquid ammonia 
 This is known as ammonia sythesis loop (Haber-Bosch Process)
 $$
-\require{mhchem}\ce{ 3H_{2} + N_{2} -> 2NH_{3} } \:\:\:\:\:\:\:\:\: \text{(15.10)}
+\require{mhchem}\ce{ 3H_{2} + N_{2} -> 2NH_{3} } \:\:\:\:\:\:\:\:\: \text{(15.16)}
 $$
 
 - Aqeous ammonia is called ammonium hydroxide 
@@ -56,33 +56,33 @@ $$
 	- Adolph Frank and Nikodem Caro
 	- Method developed between $1895$ and $1899$ 
 $$
-\require{mhchem}\ce{ CaO + 3C <=> CaC_{2} + CO } \:\:\:\:\:\:\:\:\:\text{(15.11)}
+\require{mhchem}\ce{ CaO + 3C <=> CaC_{2} + CO } \:\:\:\:\:\:\:\:\:\text{(15.17)}
 $$
 $$
-\require{mhchem}\ce{ CaC_{2} + N_{2} <=> CaCN_{2} + C } \:\:\:\:\:\:\:\:\:\text{(15.12)}
+\require{mhchem}\ce{ CaC_{2} + N_{2} <=> CaCN_{2} + C } \:\:\:\:\:\:\:\:\:\text{(15.18)}
 $$
 $$
-\require{mhchem}\ce{ CaCN_{2} + 3H_{2}O <=> CaCO_{3} + 2NH_{3} } \:\:\:\:\:\:\:\:\:(15.13)
+\require{mhchem}\ce{ CaCN_{2} + 3H_{2}O <=> CaCO_{3} + 2NH_{3} } \:\:\:\:\:\:\:\:\:(15.19)
 $$
 - By action of $H_{2}O$ on the nitrides of $Li$ or $Mg$ by heating $[NH_{4}]^{+}$ salts with base or by reducing a nitrate or nitrite in alkaline solution with $Zn$ or $Al$
 $$
-\require{mhchem}\ce{ Li_{3}N + 3H_{2}O -> NH_{3} + 3LiOH} \:\:\:\:\:\:\:\:\:(15.14)
+\require{mhchem}\ce{ Li_{3}N + 3H_{2}O -> NH_{3} + 3LiOH} \:\:\:\:\:\:\:\:\:(15.20)
 $$
 $$
-\require{mhchem}\ce{ 2NH_{4}Cl + Ca(OH)2 -> 2NH_{3} + CaCL_{2} + 2H_{2}O} \:\:\:\:\:\:\:\:\:(15.15)
+\require{mhchem}\ce{ 2NH_{4}Cl + Ca(OH)2 -> 2NH_{3} + CaCL_{2} + 2H_{2}O} \:\:\:\:\:\:\:\:\:(15.21)
 $$
 $$
-\require{mhchem} \ce{ [NO_{3}]- + 4Zn + 6H_{2}O + 7[OH]- -> NH_{3} + 4[Zn(OH)4]2- } \:\:\:\:\:\:\:\:\:(15.16)
+\require{mhchem} \ce{ [NO_{3}]- + 4Zn + 6H_{2}O + 7[OH]- -> NH_{3} + 4[Zn(OH)4]2- } \:\:\:\:\:\:\:\:\:(15.22)
 $$
 
 
 ### Phosphine 
 #### Synthesis 
 $$
-\require{mhchem}\ce{ Ca_{3}P_{2} + 6H_{2}O -> 2PH_{3} + 3Ca(OH)2 } \:\:\:\:\:\:\:\:\:(15.17)
+\require{mhchem}\ce{ Ca_{3}P_{2} + 6H_{2}O -> 2PH_{3} + 3Ca(OH)2 } \:\:\:\:\:\:\:\:\:(15.23)
 $$
 $$
-\require{mhchem}\ce{ [PH_{4}]I + KOH -> PH_{3} + KI + H_{2}O} \:\:\:\:\:\:\:\:\:(15.18)
+\require{mhchem}\ce{ [PH_{4}]I + KOH -> PH_{3} + KI + H_{2}O} \:\:\:\:\:\:\:\:\:(15.24)
 $$
 
 
@@ -99,7 +99,7 @@ $$
 - Alkyl derivatives of hydrazine have been used as rocket fuels, $e.g.$ combined with $N_{2}O_{4}$ in the Apollo missions 
 - Has uses in agricultural and plastic industries and in the removal of $O_{2}$ from industrial water boilers to minimize corrosion 
 $$
-\require{mhchem}\ce{ N_{2}H_{4} + O_{2} -> 2H_{2}O} \:\:\:\:\:\:\:\:\:(15.19)
+\require{mhchem}\ce{ N_{2}H_{4} + O_{2} -> 2H_{2}O} \:\:\:\:\:\:\:\:\:(15.25)
 $$
 
 ##### Synthesis 
@@ -109,7 +109,7 @@ $$
 >Additive removes traces of metal ions that catalyse reaction 
 
 $$
-\require{mhchem} \ce{ NH_{3} + NaOCl -> NH_{2}Cl + NaOH }  \:\:\:\color{#ADD8E6}{(fast)} \:\:\:\:\:\:\:\:\: \color{white}(15.20)
+\require{mhchem} \ce{ NH_{3} + NaOCl -> NH_{2}Cl + NaOH }  \:\:\:\color{#ADD8E6}{(fast)} \:\:\:\:\:\:\:\:\: \color{white}(15.26)
 $$
 $$
 \require{mhchem}\ce{ NH_{3} + NH_{2}Cl + NaOH -> N_{2}H_{4} + NaCl + H_{2}O }\:\:\:\: \color{#ADD8E6}{(slow)} \:\:\:\:\:\:\:\:\:\color{white}{(15.21)}
