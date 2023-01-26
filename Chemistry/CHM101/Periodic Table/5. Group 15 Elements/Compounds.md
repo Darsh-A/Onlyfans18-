@@ -387,11 +387,11 @@ $$
 | Acid               | Name                                            | Structure                            | $pK_{a}$ values                                              |
 | ------------------ | ----------------------------------------------- | ------------------------------------ | ------------------------------------------------------------ |
 | $H_{3}PO_{2}$      | $\text{Phosphonic acid(hypophosphorous acid)}$  | ![](https://i.imgur.com/DJYmS1L.png) | $1.24$                                                       |
-| $H_{3}PO_{3}$      | $\text{Phosphonic Acid(phosphorous acid)}$      | ![](https://i.imgur.com/nepQJTt.png) | (1)$2.00$ ; (2)$5.59$                                     |
-| $H_{3}PO_{4}$      | $\text{Phosphoric Acid(Orthophosphoric Acid)}$  | ![](https://i.imgur.com/0uaKMdp.png) | (1) $2.21$  (2) $7.21$  (3) $12.67$                          |
-| $H_{4}P_{2}O_{6}$  | $\text{Hypoohosohoric Acid}$                    | ![](https://i.imgur.com/k1wtEcA.png) | (1) $2.2$  (2) $2.8$  (3) $7.3$  (4) $10.0$                  |
-| $H_{4}P_{2}O_{7}$  | $\text{Diphosphoric Acid(Pyrophosphoric Acid)}$ | ![](https://i.imgur.com/ovmXY9i.png) | (1) $0.85$  (2) $1.49$  (3) $5.77$  (4) $8.22$               |
-| $H_{3}P_{3}O_{10}$ | $\text{Triphosphoric Acid}$                     | ![](https://i.imgur.com/wxwB6Ry.png) | (1) $\leq 0$  (2) $0.89$  (3) $4.09$  (4) $6.98$  (5) $9.93$ |
+| $H_{3}PO_{3}$      | $\text{Phosphonic Acid(phosphorous acid)}$      | ![](https://i.imgur.com/nepQJTt.png) | (1)$2.00$; (2)$5.59$                                     |
+| $H_{3}PO_{4}$      | $\text{Phosphoric Acid(Orthophosphoric Acid)}$  | ![](https://i.imgur.com/0uaKMdp.png) | (1) $2.21$;  (2) $7.21$;  (3) $12.67$                          |
+| $H_{4}P_{2}O_{6}$  | $\text{Hypoohosohoric Acid}$                    | ![](https://i.imgur.com/k1wtEcA.png) | (1) $2.2$;  (2) $2.8$;  (3) $7.3$;  (4) $10.0$                  |
+| $H_{4}P_{2}O_{7}$  | $\text{Diphosphoric Acid(Pyrophosphoric Acid)}$ | ![](https://i.imgur.com/ovmXY9i.png) | (1) $0.85$;  (2) $1.49$;  (3) $5.77$;  (4) $8.22$;               |
+| $H_{3}P_{3}O_{10}$ | $\text{Triphosphoric Acid}$                     | ![](https://i.imgur.com/wxwB6Ry.png) | (1) $\leq 0$;  (2) $0.89$;  (3) $4.09$  (4) $6.98$  (5) $9.93$ |
 
 
 
