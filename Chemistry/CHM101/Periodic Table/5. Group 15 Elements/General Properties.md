@@ -71,12 +71,12 @@ $$
 - Burn in air and combine with halogens 
 
 $$
-\require{mhchem} \ce{ 4M + 3O_{2} ->[\Delta] 2M_{2}O_{3} \:\:\;(\text{M= As, Sb or Bi})}
+\require{mhchem} \ce{ 4M + 3O_{2} ->[\Delta] 2M_{2}O_{3} \:\:\;(\text{M= As, Sb or Bi})} \:\:\:\:\:\:\:\:\:\:\:\text{(15.7)}
 $$
 - Not attacked by non-oxidizing acids but react with conc $HNO_{3}$ to give $H_{3}AsO_{4}$(hydrated $As_{2}O_{5}$), hydrated $Sb_{2}O_{5}$ and $Bi(NO_{3})_{3}$ 
 - React with conc $H_{2}SO_{4}$ to produce $As_{4}O_{6}$, $Sb_{2}(SO_{4})_{3}$ and $Bi_{2}(SO_{4})_{3}$ 
 
 - None of the elements react with aqeous alkali but $As$ is attacked by $NaOH$ 
 $$
-\require{mhchem}\ce{ 2As + 6NaOH  -> \underset{\text{Sodium Amenite}}{2Na_{2}AsO_{3}} + 3H_{2}}
+\require{mhchem}\ce{ 2As + 6NaOH  -> \underset{\text{Sodium Amenite}}{2Na_{2}AsO_{3}} + 3H_{2}} \:\:\:\:\:\:\:\:\:\:\:\text{(15.8)}
 $$
