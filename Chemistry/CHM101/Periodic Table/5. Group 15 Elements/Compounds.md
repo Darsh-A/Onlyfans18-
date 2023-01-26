@@ -337,5 +337,8 @@ $$
 - Strong acid and an oxidising agent 
 - Reactions with metals does not produce $H_{2}$
 $$
-\require{mhchem}\ce{ Cu(s) +  }
+\require{mhchem}\ce{ Cu(s) + 4HNO_{3}(16M) -> Cu(NO_{3})_{2}(aq) + 2NO_{2}(g) + 2H_{2}O(l)}\:\:\:\:\:\:(15.57) 
+$$
+$$
+\require{mhchem}\ce{ 3Cu(s) + 8HNO_{3}(aq. 6M) -> 3Cu(NO_{3})_{2}(aq) + 2NO }
 $$
