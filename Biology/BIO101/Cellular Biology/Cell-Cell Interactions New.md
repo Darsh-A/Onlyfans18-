@@ -126,9 +126,15 @@ color: 255, 255, 255
 - Second messengers participate in pathways initiated by GPCRs and RTKs
 - Cyclic AMP and calcium ions are common second messengers.
 
+```ad-note
 title: Cyclic-AMP
 color: 60, 180, 240
 
 - Cyclic AMP is one of the most widely used second messengers.
 - **Adenylyl cyclase**, an enzyme in the plasma membrane, converts ATP to cAMP in response to an extracellular signal.
-- ![](https://i.imgur.com/UGdWnvZ.png)
+![](https://i.imgur.com/UGdWnvZ.png)
+![](https://i.imgur.com/T0a2PaC.png)
+![](https://i.imgur.com/yFHZPlT.png)
+
+```
+
