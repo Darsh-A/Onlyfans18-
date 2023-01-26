@@ -199,7 +199,7 @@ $$
 \require{mhchem}\ce{ NF_{2} + NO -> F_{2}NNO }
 $$
 
-- Can donate $F^{-}$ to strong acceptors like $A$
+- Can donate $F^{-}$ to strong acceptors like $AsF_{6}$ and $SbF_{6}$
 $$
 \require{mhchem}\ce{ N_{2}F_{4} + AsF_{5} -> [N_{2}F_{3}]+[AsF_{6}]-}
 $$
@@ -225,3 +225,9 @@ $$
 $$
 
 >This also shows the ability of $N_{2}F_{2}$ to donate $F^{-}$ to strong acceptors such as $AsF_{5}$ and $SbF_{5}$ 
+
+
+
+### Phosphorus 
+
+#### 
