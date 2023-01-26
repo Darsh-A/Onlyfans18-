@@ -247,11 +247,14 @@ $$PCl_{3}
 
 \ce{ ->[NH_{3}] P(NH_{2})2 }
 \end{cases}}
-
 $$
+
+
 $$
 \require{mhchem}\ce{ PCl_{3} + AsF_{3} -> PF_{3} + AsCl_{3} }
 $$
+
+
 $$
 \require{mhchem}\ce{ PCl_{3} + 3H_{2}O -> H_{3}PO_{3} + 3HCl }
 $$
