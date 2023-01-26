@@ -1,4 +1,14 @@
-List of cool plugins
+
+## Custom Latex Commands:
+
+$\Zbar$ : `\Zbar`
+
+
+
+
+
+
+## List of cool plugins:
 
 ## Necessary
 - Admonitions
