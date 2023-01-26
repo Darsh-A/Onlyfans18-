@@ -102,4 +102,6 @@ color: 245, 148, 120
 
 title: Signal Transduction Pathways
 color: 240,180,68
-- The molecules that relay a signal from receptor to responses 
+- The molecules that relay a signal from receptor to responses are mostly proteins.
+- Like falling sequential dominoes, the receptor activates another protein, which activates another, and so on, until the protein producing the response is activated.
+- At each step
