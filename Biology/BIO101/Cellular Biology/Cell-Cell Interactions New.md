@@ -87,4 +87,5 @@ color: 245, 148, 120
 #### Intracellular Receptors
 - Intracellular receptor proteins are found in the cytosol or nucleus of target cells.
 - Small or hydrophobic chemical messengers can readily cross the membrane and activate receptors.
-- Examples of hydrophobic messengers 
+- Examples of hydrophobic messengers are the steroid and thyroid hormones of animals.
+- An activated hormone-receptor complex can act as a transcription factor, turning on specific genes.
