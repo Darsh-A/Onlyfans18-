@@ -5,7 +5,7 @@ $\Zbar$ : `\Zbar`
 $\red {red}$ : `\red {}`
 $\blue {blue}$ : `\blue {}`
 $\purp {purp}$ : `\purp {}`
-
+$\dgoes {a}$   : `\dgoes {}`
 
 ## List of cool plugins:
 
@@ -23,3 +23,7 @@ $\purp {purp}$ : `\purp {}`
 ## Good For Specific Tasks
 - Omnisearch
 - Better PDF Plugin
+
+
+
+
