@@ -357,5 +357,10 @@ $$
 
 - Weak acid $(pK_{a}=3.37)$ but unstable wrt disproportionation in solution 
 $$
-\require{mhchem}\ce{ 3HNO_{2} -> 2NO + NO_{3} + H_{2}O } \:\:\:\:\:\:\:
+\require{mhchem}\ce{ 3HNO_{2} -> 2NO + NO_{3} + H_{2}O } \:\:\:\:\:\:\: (15.62)
+$$
+
+#### Preparation 
+$$
+\require{mhchem}\ce{ Ba(NO_{2})_{2} + H_{2}SO_{4} ->[aq] BaSO_{4} + 2HNO_{2} } 
 $$
