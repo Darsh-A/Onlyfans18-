@@ -111,4 +111,4 @@ color:
 - In many pathways, the signal is transmitted by a cascade of protein phosphorylation.
 - **Protein kinases** transfer phosphates from ATP to protein, a process called phosphorylation.
 - **Protein phosphatases** remove the phosphates from proteins, a process called dephosphorylation.
-- This phosphorylation and dephosphorylation system acts 
+- This phosphorylation and dephosphorylation system acts as a molecular switch, turning activities on and off or up or down, as required. 
