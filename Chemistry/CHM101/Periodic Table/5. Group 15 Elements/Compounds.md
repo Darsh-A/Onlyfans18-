@@ -246,7 +246,9 @@ $$
 
 $$PCl_{3}
 {\begin{cases}
-\to[O_{2}]
+\ce{ ->[O_{2}] POCl_{3} } \\
+\ce{ ->[X_{2}\text{(X=halogen)}] PCl_{3}X_{2} } \\
+\ce{ ->[NH_{3}] P(NH_{2})2 }
 \end{cases}}
 
 $$
