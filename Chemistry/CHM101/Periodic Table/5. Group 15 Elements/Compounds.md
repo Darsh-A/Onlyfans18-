@@ -9,13 +9,17 @@
 **Bismuth:** $Bi_{2}O_{3},\:Bi_{2}O_{5}$ 
 
 
-##
+
+
 
 ![](https://i.imgur.com/JcjEHC4.png)
 
 
 ![](https://i.imgur.com/bflmSmR.png)
 
+
+### Important Reactions 
+$$\require{mhchem}\ce{ 3NO_{2}(g) + H_{2}O(l) -> 2HNO_{3}(aq) + NO(g)}$$
 
 
 ## Hydrides 
