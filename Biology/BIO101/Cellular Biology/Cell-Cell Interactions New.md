@@ -97,4 +97,7 @@ color: 245, 148, 120
 ### Transduction
 
 - Signal transduction usually involves multiple steps.
-- Multistep pathways can 
+- Multistep pathways can amplify a signal: A few molecules can produce a large cellular response.
+- Multistep pathways provide more opportunities for coordination and regulation of the cellular response.
+
+
