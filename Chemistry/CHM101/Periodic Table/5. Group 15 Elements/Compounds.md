@@ -320,4 +320,6 @@ $$
 ### $HNO_{3}$
 
 #### Production(Oswald Process)
+![](https://i.imgur.com/mKtcC4F.png)
 
+1. $BH_{3}(g) + O_{2}(g)$
