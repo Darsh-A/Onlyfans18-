@@ -10,5 +10,3 @@ name 10 + 9
 type calculate
 action 21
 ```
-
-
