@@ -33,7 +33,7 @@ Binding of a mating factor by the yeast cell-surface receptor initiate a signal 
 
 ### THREE STAGES OF CELL SIGNALING:-
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earl_Wilbur_Sutherland_Jr.jpg/800px-Earl_Wilbur_Sutherland_Jr.jpg)
+
 ***Earl W. Sutherlan(Nobel Prize in 1971)
 
 *He and his colleagues investigated how the animal hormone epinephrine triggers the "fight-or-flight" response in animals like the impala.*
