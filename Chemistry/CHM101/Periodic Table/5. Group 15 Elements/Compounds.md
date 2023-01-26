@@ -350,3 +350,10 @@ $$
 \require{mhchem}\ce{ 4HNO_{3}(l) ->[hv] 4 NO_{2}(g) + 2H_{2}O(l) + O_{2}(g) }\:\:\:\:\:\:(15.60)
 $$
 - $N_{2}O_{5}$ is the acidic anhydride of $HNO_{3}$ 
+
+$$
+\require{mhchem}\ce{ 2HNO_{3} ->[P_{2}O_{5}][dehydrating agent] N_{2}O_{5} + H_{2}O}\:\:\:\:\:\:(15.61)
+$$
+
+
+###
