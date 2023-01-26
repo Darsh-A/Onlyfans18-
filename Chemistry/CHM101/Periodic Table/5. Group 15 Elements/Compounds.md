@@ -232,10 +232,23 @@ $$
 
 ![](https://i.imgur.com/O0cLZNs.png)
 
+![](https://i.imgur.com/n25U7wn.png)
+
 #### $PCl_{3}$
 
 - Colourless liquid ($\text{mp}= 179.5K,\: \text{bp=}349K$)
 - Toxic, fumes in moist air 
+
+$$PCl_{3}
+{\begin{cases}
+\ce{ ->[O_{2}] POCl_{3} } \\ \\
+
+\ce{ ->[X_{2}\text{(X=halogen)}] PCl_{3}X_{2} } \\ \\
+
+\ce{ ->[NH_{3}] P(NH_{2})2 }
+\end{cases}}
+
+$$
 $$
 \require{mhchem}\ce{ PCl_{3} + AsF_{3} -> PF_{3} + AsCl_{3} }
 $$
@@ -244,11 +257,4 @@ $$
 $$
 
 
-$$PCl_{3}
-{\begin{cases}
-\ce{ ->[O_{2}] POCl_{3} } \\
-\ce{ ->[X_{2}\text{(X=halogen)}] PCl_{3}X_{2} } \\
-\ce{ ->[NH_{3}] P(NH_{2})2 }
-\end{cases}}
 
-$$
