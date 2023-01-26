@@ -305,7 +305,7 @@ $$
 \require{mhchem}\ce{ AsCl_{5}(s) + 4H_{2}O(l) -> H_{3}AsO_{4}(aq) + 5HCl(aq) }\:\:\:\:\:\:\:\:\:(15.52)
 $$
 $$
-\require{mhchem}\ce{ 2SbCl_{5}(s) + }
+\require{mhchem}\ce{ 2SbCl_{5}(s) + 5H_{2}O(l) -> Sb_{2}O_{5}(s) + 10HCl(aq)} \:\:\:\:\:\:\:\:\:(15.53)
 $$
 - $SbCl_{5}$
 >Axial bonds are longer than equitorial bonds 
