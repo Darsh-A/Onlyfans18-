@@ -314,9 +314,10 @@ $$
 
 ## Oxyacids 
 
-### $HNO_{3}$
 
-#### Production(Oswald Process)
+#### $HNO_{3}$
+
+##### Production(Oswald Process)
 ![](https://i.imgur.com/mKtcC4F.png)
 
 $$
@@ -330,7 +331,7 @@ $$
 $$
 
 
-#### Chemical Properties 
+##### Chemical Properties 
 - Strong acid and an oxidising agent 
 - Reactions with metals does not produce $H_{2}$
 $$
@@ -353,15 +354,17 @@ $$
 $$
 
 
-### $HNO_{2}$
+#### $HNO_{2}$
 
 - Weak acid $(pK_{a}=3.37)$ but unstable wrt disproportionation in solution 
 $$
 \require{mhchem}\ce{ 3HNO_{2} -> 2NO + NO_{3} + H_{2}O } \:\:\:\:\:\:\: (15.62)
 $$
 
-#### Preparation 
+##### Preparation 
 $$
 \require{mhchem}\ce{ Ba(NO_{2})_{2} + H_{2}SO_{4} ->[aq] BaSO_{4} + 2HNO_{2} } \:\:\:\:\:\:\:(15.63)
 $$
->Water-soluble reagants being chosen so as to give an insoluble metal salt($BaSO_{4}$) as 
+>Water-soluble reagants being chosen so as to give an insoluble metal salt($BaSO_{4}$) as a product 
+>**Random info:** $AgNO_{2}$ is insoluble in water unlike other metal nitrides 
+
