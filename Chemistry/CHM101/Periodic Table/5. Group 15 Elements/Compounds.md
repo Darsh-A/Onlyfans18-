@@ -193,5 +193,13 @@ $$
 \require{mhchem}\ce{ 2NF_{2} + S_{2}F_{10} -> 2F_{2}NSF_{5}}
 $$
 $$
-\require{mhchem}\ce{ 2NF_{2} + Cl_{2} -> 2NC }
+\require{mhchem}\ce{ 2NF_{2} + Cl_{2} -> 2NClF_{2} }
 $$
+$$
+\require{mhchem}\ce{ NF_{2} + NO -> F_{2}NNO }
+$$
+
+
+##### $N_{2}F_{2}$
+- Exists in both trans and cis forms 
+>Cis being thermodynam
