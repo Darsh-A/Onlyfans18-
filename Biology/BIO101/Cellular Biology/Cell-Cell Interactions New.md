@@ -138,3 +138,6 @@ color: 255, 255, 255
 - cAMP usually activates *protein kinase A*, which phosphorylates various other proteins.
 - Other type of regulation of cell metabolism is provided by G-protein systems that inhibit adenylyl cyclase.
 
+#### Calcium Ions and Inositol Trisphosphate ($\text{IP}_{3}$)
+- Calcium ions act as a second messenger in many pathways.
+- Calcium is an important second messenger in ma
