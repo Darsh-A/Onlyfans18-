@@ -329,5 +329,13 @@ $$
 2.\:\:\:\require{mhchem}\ce{ 2NO(g) + O_{2}(g) -> NO_{2}(g) }\:\:\:\:\:\:(15.55)
 $$
 $$
-\require{mhchem}\ce{  }
+3.\:\:\:\require{mhchem}\ce{3NO_{2}(g) + H_{2}O(l)->2HNO_{3}(aq) + NO(g)  }\:\:\:\:\:\:(15.56)
+$$
+
+
+#### Chemical Properties 
+- Strong acid and an oxidising agent 
+- Reactions with metals does not produce $H_{2}$
+$$
+\require{mhchem}\ce{ Cu(s) +  }
 $$
