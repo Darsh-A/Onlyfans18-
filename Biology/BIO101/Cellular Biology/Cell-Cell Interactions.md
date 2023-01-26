@@ -36,7 +36,7 @@ Binding of a mating factor by the yeast cell-surface receptor initiate a signal 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earl_Wilbur_Sutherland_Jr.jpg/800px-Earl_Wilbur_Sutherland_Jr.jpg)
 ***Earl W. Sutherlan(Nobel Prize in 1971)
 
-*He and his colleagues investigated how the animal hormone epinephrine triggers the "fight-or-fight" response in animals like the impala.*
+*He and his colleagues investigated how the animal hormone epinephrine triggers the "fight-or-flight" response in animals like the impala.*
 
 - Effect of epinephrine is to mobilize fuel reserves, which can be used by the animals to either defend itself or try to escape.
 - Epinephrine stimulates the breakdown of the storage polysaccharide glycogen within liver cells and skeletal muscle cells.
