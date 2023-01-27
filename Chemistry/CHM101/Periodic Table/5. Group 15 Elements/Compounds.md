@@ -455,6 +455,8 @@ $$
 
 #### $P_{4}S_{10}$
 
+- Vapour of phosphorus($V$) sulphide contains some  $P_{2}S_{5}$ molecules  
+
 ##### Preparation 
 > Above $570K$, white $P$ combines with $S$ to give $P_{4}S_{10}$ 
 
@@ -484,3 +486,5 @@ $$
 $$
 \require{mhchem}\ce{ P_{4}S_{3} + H_{2}O -> No Reaction }
 $$
+
+#### $Pe$
