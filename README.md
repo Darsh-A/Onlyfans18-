@@ -6,7 +6,7 @@ $\red {red}$ : `\red {}`
 $\blue {blue}$ : `\blue {}`
 $\purp {purp}$ : `\purp {}`
 $\dgoes {a}$   : `\dgoes {}`
-$\upgoes {a}$
+$\rgoes {a}$
 
 ## List of cool plugins:
 
