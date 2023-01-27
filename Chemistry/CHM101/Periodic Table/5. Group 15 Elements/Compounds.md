@@ -402,4 +402,4 @@ $$
 
 ## Phosphazene 
 
-- Group of $P(V) / N(III)$ compounds featuring cahin or cyclic structures and are [[0. References|Oligomers]] of hyporthetical $NPR2$ 
+- Group of $P(V) / N(III)$ compounds featuring cahin or cyclic structures and are [[0. References#Oligomers|Oligomers]] of hyporthetical $NPR2$ 
