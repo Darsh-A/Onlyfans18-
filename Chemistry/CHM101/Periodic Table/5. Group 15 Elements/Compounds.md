@@ -463,7 +463,7 @@ $$
 >**Note:** $\color{#CF9FFF}\text{thio}$ means replacing oxygen by sulphur in a compounds 
 
 
-**Random Reaction:**
+###### **Random Reaction:**
 $$
 \require{mhchem}\ce{ P_{4}S_{10} + 16H_{2}O -> 4H_{3}PO_{4} + 10H_{2}S} \:\:\:\:\:\:\: (15.68)
 $$
@@ -480,4 +480,7 @@ $$
 >	Safety matches have $KCIO_{3}$ on the head of the match 
 
 
-
+##### **Note**
+$$
+\require{mhchem}\ce{ P_{4}S_{3} + H_{2}O -> No Reaction }
+$$
