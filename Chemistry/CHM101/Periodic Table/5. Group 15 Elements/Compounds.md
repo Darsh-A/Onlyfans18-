@@ -455,6 +455,7 @@ $$
 
 #### $P_{4}S_{10}$
 
+
 - Vapour of phosphorus($V$) sulphide contains some  $P_{2}S_{5}$ molecules  
 
 ##### Preparation 
@@ -465,9 +466,13 @@ $$
 >**Note:** $\color{#CF9FFF}\text{thio}$ means replacing oxygen by sulphur in a compounds 
 
 
-###### **Random Reaction:**
+###### **Random Reactions:**
 $$
 \require{mhchem}\ce{ P_{4}S_{10} + 16H_{2}O -> 4H_{3}PO_{4} + 10H_{2}S} \:\:\:\:\:\:\: (15.68)
+$$
+
+$$
+\require{mhchem}\ce{  }
 $$
 
 
@@ -492,3 +497,8 @@ $$
 ##### Preparation 
 Decomposition of $P_{3}Se_{4}I$ 
 >$P_{4}Se_{10}$ from reaction of $P_{4}Se_{3}$ and $Se$ at $620K$ 
+
+![](https://i.imgur.com/zcr2D3s.png)
+
+
+
