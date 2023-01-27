@@ -391,11 +391,52 @@ $$
 | $H_{3}PO_{4}$      | $\text{Phosphoric Acid(Orthophosphoric Acid)}$  | ![](https://i.imgur.com/0uaKMdp.png) | (1) $2.21$  (2) $7.21$  (3) $12.67$                          |
 | $H_{4}P_{2}O_{6}$  | $\text{Hypoohosohoric Acid}$                    | ![](https://i.imgur.com/k1wtEcA.png) | (1) $2.2$ (2) $2.8$ (3) $7.3$  (4) $10.0$                  |
 | $H_{4}P_{2}O_{7}$  | $\text{Diphosphoric Acid(Pyrophosphoric Acid)}$ | ![](https://i.imgur.com/ovmXY9i.png) | (1) $0.85$  (2) $1.49$  (3) $5.77$ (4) $8.22$             |
-| $H_{3}P_{3}O_{10}$ | $\text{Triphosphoric Acid}$                     | ![](https://i.imgur.com/wxwB6Ry.png) | (1) $\leq 0$  (2) $0.89$  (3) $4.09$  (4) $6.98$  (5) $9.93$ |
+| $H_{3}P_{3}O_{10}$ | $\text{Triphosphoric Acid}$                     | ![](https://i.imgur.com/wxwB6Ry.png) | (1) $\leq 0$  (2) $0.89$    (3) $4.09$     (4) $6.98$  (5) $9.93$ |
 
 
 
 ![](https://i.imgur.com/GgmeRxr.png)
 
 
+---
 
+## Phosphazene 
+
+- Group of $P(V) / N(III)$ compounds featuring cahin or cyclic structures and are [[0. References#Oligomers|Oligomers]] of hyporthetical $NPR2$ 
+
+- Reaction of $PCl_{5}$ with $NH_{4}Cl$ in a chlorinated solvant 
+ $$ \require{mhchem}\ce{ nPCl_{5} + nNH_{4}Cl  -> (NPCl_{2})_{n} + 4nHCl}\:\:\:\:\:\:\:\:(15.64)
+$$
+> $(NPCl_{2})_{3}$ and $(NPCl_{2})_{4}$ are readily separated by distillation under reduced pressure 
+
+**Mechanism**
+
+$$
+\require{mhchem}\ce{ 3PCl_{5} + NH_{4}Cl ->[-4HCl] [Cl_{3}P=N=PCl_{3}]+[PCl_{6}]-} \:\:\:\:\:\:\:\: (15.65)
+$$
+$$
+\require{mhchem}\ce{ [NH_{4}]+ + [PCl_{6}]- -> Cl_{3}P=NH +3HCl }\:\:\:\:\:\:\:\:(15.66)
+$$
+$$
+\begin{align}
+\require{mhchem}\ce{ [Cl_{3}P=N=PCl_{3}]+ + Cl_{3}P=NH ->[-HCl]  &{[Cl_{3}P=N-PCl_{2}=N=PCl_{3}]^{+}} } \\
+&\quad\qquad\qquad\quad\Bigg\downarrow \ce{  {Cl_{3}P=NH}\:;\:\: -HCl}  \\
+& \ce{  [Cl_{3}P=N-PCl_{2}=N-PCl_{2}=N=PCl_{3}]^{+}} \\
+&\qquad\qquad\qquad\dgoes {\ce{ -[PCl_{4}]+ }} \\ 
+
+\end{align}
+$$ ![](https://i.imgur.com/jCDjmYT.png)
+
+
+
+![](https://i.imgur.com/0T87OnX.png)
+
+**6-membered cyclophosphazene**
+>$6$-membered rings have involved $N(2p)-P(3d)$ overlap both in and perpendicular to the plane of the $P_{3}N_{3}$-ring 
+>![](https://i.imgur.com/4jnvy3u.png)
+>![](https://i.imgur.com/bCbfsLZ.png)
+>- Here, $P$ make little or no use of it $3d$ orbitals 
+>- Resonance can be observed 
+>- $N$ and $P$ atoms are subject to attack by electrophiles and nucleophiles 
+>- 
+>
