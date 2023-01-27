@@ -475,4 +475,5 @@ $$
 >Above $450K$, red phosphorus combines with $S$ to yield $P_{4}S_{3}$
 
 ##### Uses 
-- $\text{Strike anywhere}$ 
+- '$\text{Strike anywhere}$' matches 
+>
