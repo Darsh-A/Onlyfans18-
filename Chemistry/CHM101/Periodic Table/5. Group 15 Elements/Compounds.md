@@ -409,3 +409,8 @@ $$
 $$
 > $(NPCl_{2})_{3}$ and $(NPCl_{2})_{4}$ are readily separated by distillation under reduced pressure 
 
+**Mechanism**
+
+$$
+\require{mhchem}\ce{ 3PCl_{5} + NH_{4}Cl ->[-4HCl] [Cl_{3}P=N=PCl_{3}]+}
+$$
