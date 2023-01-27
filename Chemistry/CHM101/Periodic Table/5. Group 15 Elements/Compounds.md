@@ -425,5 +425,5 @@ $$
 &\qquad\qquad\qquad\dgoes {\ce{ -[PCl_{4}]+ }} \\ 
 
 \end{align}
-$$ ![](https://i.imgur.com/jCDjmYT.png|)
+$$ ![](https://i.imgur.com/jCDjmYT.png)
 
