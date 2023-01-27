@@ -439,5 +439,5 @@ $$
 >![](https://i.imgur.com/bCbfsLZ.png)
 >- In both the structures above, $P$ make little or no use of it $3d$ orbitals 
 >- $N$ and $P$ atoms are subject to attack by electrophiles and nucleophiles 
->- 
+>- Highly polarized $P^{\delta^{+}}-N^{\delta^{-}}$
 >
