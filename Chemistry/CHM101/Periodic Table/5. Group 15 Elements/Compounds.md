@@ -412,5 +412,11 @@ $$
 **Mechanism**
 
 $$
-\require{mhchem}\ce{ 3PCl_{5} + NH_{4}Cl ->[-4HCl] [Cl_{3}P=N=PCl_{3}]+}
+\require{mhchem}\ce{ 3PCl_{5} + NH_{4}Cl ->[-4HCl] [Cl_{3}P=N=PCl_{3}]+[PCl_{6}]-} \:\:\:\:\:\:\:\: (15.65)
+$$
+$$
+\require{mhchem}\ce{ [NH_{4}]+ + [PCl_{6}]- -> Cl_{3}P=NH +3HCl }\:\:\:\:\:\:\:\:(15.66)
+$$
+$$
+\require{mhchem}\ce{ [Cl_{3}P=N=PCl_{3}]+ + Cl_{3}P=NH ->[-HCl] [Cl_{3}P=N-PCl_{2}=N=PCl_{3}]+ }
 $$
