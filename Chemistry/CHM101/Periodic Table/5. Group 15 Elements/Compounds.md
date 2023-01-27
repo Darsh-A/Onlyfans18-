@@ -460,4 +460,4 @@ $$
 
 ##### Uses 
 - It is a thiating agent(introduces sulphur inro a system) in organic reactions and is a precursor to organothiophosphorus compounds 
->**Note:** $\color{#CBC3E3}\text{thio}$ means replacing oxygen by sulphur in a compounds 
+>**Note:** $\color{#CF9FFF}\text{thio}$ means replacing oxygen by sulphur in a compounds 
