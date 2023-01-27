@@ -452,4 +452,10 @@ $$
 
 >- Terminal $P-S$ bonds are shorter than those in the cage$(e.g. \text{191 versus 208 pm in}\: P_{4}S_{10})$
 >	This is because terminal bonds have a greater ionic contribution 
->
+
+#### $P_{4}S_{10}$
+
+##### Preparation 
+- Above $570K$, white $P$ combines with $S$ to give $P_{4}S_{10}$ 
+
+###
