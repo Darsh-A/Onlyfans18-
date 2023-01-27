@@ -436,5 +436,6 @@ $$ ![](https://i.imgur.com/jCDjmYT.png)
 >![](https://i.imgur.com/4jnvy3u.png)
 >![](https://i.imgur.com/bCbfsLZ.png)
 >- Here, $P$ make little or no use of it $3d$ orbitals 
->- 
+>- Resonance can be observed 
+>- $N$ and $P$ atoms are subject to attack by electrophiles and nucleophiles 
 >
