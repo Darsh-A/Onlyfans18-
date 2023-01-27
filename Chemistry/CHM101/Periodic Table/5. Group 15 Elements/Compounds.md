@@ -451,4 +451,4 @@ $$
 ![](https://i.imgur.com/9ZMxtCv.png)
 
 >- Terminal $P-S$ bonds are shorter than those in the cage$(e.g. \text{191 versus 208 pm in}\: P_{4}S_{10})$
->	T
+>	
