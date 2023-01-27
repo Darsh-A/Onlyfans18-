@@ -439,5 +439,6 @@ $$
 >![](https://i.imgur.com/bCbfsLZ.png)
 >- In both the structures above, $P$ make little or no use of it $3d$ orbitals 
 >- $N$ and $P$ atoms are subject to attack by electrophiles and nucleophiles 
->- Highly polarized $P^{\delta^{+}}-N^{\delta^{-}}$
+>- Highly polarized $P^{\delta^{+}}-N^{\delta^{-}}$ bonds and absence of aromatic character in the $P_{3}N_{3}$-ring
 >
+>For linearly polarized phosphazenes, 
