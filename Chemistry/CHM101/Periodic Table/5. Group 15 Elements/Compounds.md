@@ -459,5 +459,15 @@ $$
 - Above $570K$, white $P$ combines with $S$ to give $P_{4}S_{10}$ 
 
 ##### Uses 
-- It is a thiating agent(introduces sulphur inro a system) in organic reactions and is a precursor to organothiophosphorus compounds 
+- It is a thiating agent(introduces sulphur into a system) in organic reactions and is a precursor to organothiophosphorus compounds 
 >**Note:** $\color{#CF9FFF}\text{thio}$ means replacing oxygen by sulphur in a compounds 
+
+
+**Random Reaction:**
+$$
+\require{mhchem}\ce{ P_{4}S_{10} + 16H_{2}O -> 4H_{3}PO_{4} + 10H_{2}S} \:\:\:\:\:\:\: (15.68)
+$$
+
+
+#### $P_{4}S_{3}$
+
