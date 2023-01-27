@@ -422,6 +422,8 @@ $$
 \require{mhchem}\ce{ [Cl_{3}P=N=PCl_{3}]+ + Cl_{3}P=NH ->[-HCl]  &{[Cl_{3}P=N-PCl_{2}=N=PCl_{3}]^{+}} } \\
 &\quad\qquad\qquad\quad\Bigg\downarrow \ce{  {Cl_{3}P=NH}\:;\:\: -HCl}  \\
 & \ce{  [Cl_{3}P=N-PCl_{2}=N-PCl_{2}=N=PCl_{3}]^{+}} \\
-&\qquad\qquad\qquad\qquad\dgoes
+&\qquad\qquad\qquad\dgoes {\ce{ -[PCl_{4}]+ }} \\ 
+
 \end{align}
 $$
+![](https://i.imgur.com/jCDjmYT.png)
