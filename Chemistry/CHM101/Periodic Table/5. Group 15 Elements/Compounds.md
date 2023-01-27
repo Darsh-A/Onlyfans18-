@@ -407,3 +407,5 @@ $$
 - Reaction of $PCl_{5}$ with $NH_{4}Cl$ in a chlorinated solvant 
  $$ \require{mhchem}\ce{ nPCl_{5} + nNH_{4}Cl  -> (NPCl_{2})_{n} + 4nHCl}\:\:\:\:\:\:\:\:(15.64)
 $$
+> $(NPCl_{2})_{3}$ and $(NPCl_{2})_{4}$ are readily separated by distillation under reduced pressure 
+
