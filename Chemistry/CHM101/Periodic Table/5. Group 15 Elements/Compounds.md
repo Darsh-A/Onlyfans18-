@@ -476,4 +476,8 @@ $$
 
 ##### Uses 
 - '$\text{Strike anywhere}$' matches 
->
+>$P_{4}S_{3}$ is combined with $KCIO_{3}$ and the compounds inflame when subjected to friction 
+>	Safety matches have $KCIO_{3}$ on the head of the match 
+
+
+
