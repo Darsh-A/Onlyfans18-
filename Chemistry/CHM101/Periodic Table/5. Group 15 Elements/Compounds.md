@@ -474,6 +474,8 @@ $$
 $$
 \require{mhchem}\ce{ 5P_{2}S_{5} + 10Cs_{2}S + 35S -> 5Cs_{4}P_{2}S_{10}} \:\:\:\:\:\: (15.69)
 $$
+>$[P_{2}S_{10}]^{4-}$ ions 
+>![](https://i.imgur.com/qemGuk9.png)
 
 
 
