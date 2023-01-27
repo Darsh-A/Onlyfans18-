@@ -403,3 +403,7 @@ $$
 ## Phosphazene 
 
 - Group of $P(V) / N(III)$ compounds featuring cahin or cyclic structures and are [[0. References#Oligomers|Oligomers]] of hyporthetical $NPR2$ 
+
+- Reaction of $PCl_{5}$ with $NH_{4}Cl$ in a chlorinated solvant 
+ $$ \require{mhchem}\ce{ nPCl_{5} + nNH_{4}Cl  -> (NPCl_{2})_{n} + 4nHCl}\:\:\:\:\:\:\:\:(15.64)
+$$
