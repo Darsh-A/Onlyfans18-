@@ -418,5 +418,8 @@ $$
 \require{mhchem}\ce{ [NH_{4}]+ + [PCl_{6}]- -> Cl_{3}P=NH +3HCl }\:\:\:\:\:\:\:\:(15.66)
 $$
 $$
-\require{mhchem}\ce{ [Cl_{3}P=N=PCl_{3}]+ + Cl_{3}P=NH ->[-HCl]  {[Cl_{3}P=N-PCl_{2}=N=PCl_{3}]^{+}}\dgoes }
+\begin{align}
+\require{mhchem}\ce{ [Cl_{3}P=N=PCl_{3}]+ + Cl_{3}P=NH ->[-HCl]  {[Cl_{3}P=N-PCl_{2}=N=PCl_{3}]^{+}} } \\
+\quad\qquad\dgoes
+\end{align}
 $$
