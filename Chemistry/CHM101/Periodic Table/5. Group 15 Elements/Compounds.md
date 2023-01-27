@@ -458,4 +458,5 @@ $$
 ##### Preparation 
 - Above $570K$, white $P$ combines with $S$ to give $P_{4}S_{10}$ 
 
-###
+##### Uses 
+- It is a thiating agent in organic reactions and is a precursor to organothiophosphorus compounds 
