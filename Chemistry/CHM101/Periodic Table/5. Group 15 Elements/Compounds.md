@@ -9,9 +9,6 @@
 **Bismuth:** $Bi_{2}O_{3},\:Bi_{2}O_{5}$ 
 
 
-
-
-
 ![](https://i.imgur.com/JcjEHC4.png)
 
 
@@ -40,6 +37,8 @@ $$
 $$
 \require{mhchem}\ce{ N_{2}H_{4}(g) -> N_{2}(g) + 2H_{2}(g) }\:\:\:\: \Delta H^{\circ}=\text{-95 kJ} \:\:\:\:\:\:\:\:\:(15.15)
 $$
+---
+
 ## Hydrides 
 
 
@@ -74,7 +73,7 @@ $$
 $$
 \require{mhchem} \ce{ [NO_{3}]- + 4Zn + 6H_{2}O + 7[OH]- -> NH_{3} + 4[Zn(OH)4]2- } \:\:\:\:\:\:\:\:\:(15.22)
 $$
-
+---
 
 ### Phosphine 
 #### Synthesis 
@@ -84,7 +83,7 @@ $$
 $$
 \require{mhchem}\ce{ [PH_{4}]I + KOH -> PH_{3} + KI + H_{2}O} \:\:\:\:\:\:\:\:\:(15.24)
 $$
-
+---
 
 ### $E_{2}H_{4}\:\:\text{E=N, P, As}$
 
@@ -135,7 +134,7 @@ $$
 \require{mhchem} \ce{ N_{2}H_{4} + KIO_{3} + 2HCl -> N_{2} + KCl + ICl + 3H_{2}O } \:\:\:\:\:\:\:\:\:(15.31)
 $$
 
-
+---
 
 ## Hydrogen Azide and Azide Salts 
 
@@ -147,7 +146,7 @@ $$
 - Treatment of $NaN_{3}$ with $H_{2}SO_{4}$ yields hydrogen azide, $HN_{3}$
 ![](https://i.imgur.com/v86sTtJ.png)
 
-
+---
 ## Phosphides 
 
 - Most elements combine with phosphorus to give solid state binary phosphides, exceptions: $\text{Hg, Pb, Sb, Te}$ 
@@ -251,7 +250,7 @@ $$
 
 >This also shows the ability of $N_{2}F_{2}$ to donate $F^{-}$ to strong acceptors such as $AsF_{5}$ and $SbF_{5}$ 
 
-
+---
 
 ### Phosphorus 
 
@@ -286,6 +285,7 @@ $$
 **Some inportant reactions:**
 ![](https://i.imgur.com/2tpT0iT.png)
 
+---
 
 ### Arsenic and Antimony 
 - $As$ forms halides $AsX_{3} \:\: \text{X= F, Cl, Br, I}$ and $AsX_{5}\:\:\text{X= F, Cl}$ 
@@ -313,13 +313,16 @@ $$
 ![](https://i.imgur.com/keSYxKo.png)
 
 
+----
 
 
 ## Oxyacids 
 
-### $HNO_{3}$
+### Nitrogen 
 
-#### Production(Oswald Process)
+#### $HNO_{3}$
+
+##### Production(Oswald Process)
 ![](https://i.imgur.com/mKtcC4F.png)
 
 $$
@@ -333,7 +336,7 @@ $$
 $$
 
 
-#### Chemical Properties 
+##### Chemical Properties 
 - Strong acid and an oxidising agent 
 - Reactions with metals does not produce $H_{2}$
 $$
@@ -356,6 +359,84 @@ $$
 $$
 
 
-### $HNO_{2}$
+#### $HNO_{2}$
 
 - Weak acid $(pK_{a}=3.37)$ but unstable wrt disproportionation in solution 
+$$
+\require{mhchem}\ce{ 3HNO_{2} -> 2NO + NO_{3} + H_{2}O } \:\:\:\:\:\:\: (15.62)
+$$
+
+##### Preparation 
+$$
+\require{mhchem}\ce{ Ba(NO_{2})_{2} + H_{2}SO_{4} ->[aq] BaSO_{4} + 2HNO_{2} } \:\:\:\:\:\:\:(15.63)
+$$
+>Water-soluble reagants being chosen so as to give an insoluble metal salt($BaSO_{4}$) as a product 
+>**Random info:** $AgNO_{2}$ is insoluble in water unlike other metal nitrides 
+
+---
+
+### Phosphorus 
+
+- $\text{Phospho\purp{ric}}\:\text{acid}$ $H_{3}PO_{4}$ : $\blue\text{triprotic}$ 
+- $\text{Phospho\purp{rous}}\:\text{acid}$ $H_{3}PO_{3}$ : $\blue\text{diprotic}$
+- ${\purp\text{Hypo}}\text{phospho}{\purp\text{rous}} \text{acid}$ $H_{3}PO_{2}$ : $\blue\text{monoprotic}$
+
+![](https://i.imgur.com/xN6Oh2H.png)
+
+
+| Acid               | Name                                            | Structure                            | $pK_{a}$ values                                               |
+| ------------------ | ----------------------------------------------- | ------------------------------------ | ------------------------------------------------------------ |
+| $H_{3}PO_{2}$      | $\text{Phosphonic acid(hypophosphorous acid)}$  | ![](https://i.imgur.com/DJYmS1L.png) | $1.24$                                                       |
+| $H_{3}PO_{3}$      | $\text{Phosphonic Acid(phosphorous acid)}$      | ![](https://i.imgur.com/nepQJTt.png) | $(1)2.00\:(2)5.59$                                     |
+| $H_{3}PO_{4}$      | $\text{Phosphoric Acid(Orthophosphoric Acid)}$  | ![](https://i.imgur.com/0uaKMdp.png) | (1) $2.21$  (2) $7.21$  (3) $12.67$                          |
+| $H_{4}P_{2}O_{6}$  | $\text{Hypoohosohoric Acid}$                    | ![](https://i.imgur.com/k1wtEcA.png) | (1) $2.2$ (2) $2.8$ (3) $7.3$  (4) $10.0$                  |
+| $H_{4}P_{2}O_{7}$  | $\text{Diphosphoric Acid(Pyrophosphoric Acid)}$ | ![](https://i.imgur.com/ovmXY9i.png) | (1) $0.85$  (2) $1.49$  (3) $5.77$ (4) $8.22$             |
+| $H_{3}P_{3}O_{10}$ | $\text{Triphosphoric Acid}$                     | ![](https://i.imgur.com/wxwB6Ry.png) | (1) $\leq 0$  (2) $0.89$    (3) $4.09$     (4) $6.98$  (5) $9.93$ |
+
+
+
+![](https://i.imgur.com/GgmeRxr.png)
+
+
+---
+
+## Phosphazene 
+
+- Group of $P(V) / N(III)$ compounds featuring cahin or cyclic structures and are [[0. References#Oligomers|Oligomers]] of hyporthetical $NPR2$ 
+
+- Reaction of $PCl_{5}$ with $NH_{4}Cl$ in a chlorinated solvant 
+ $$ \require{mhchem}\ce{ nPCl_{5} + nNH_{4}Cl  -> (NPCl_{2})_{n} + 4nHCl}\:\:\:\:\:\:\:\:(15.64)
+$$
+> $(NPCl_{2})_{3}$ and $(NPCl_{2})_{4}$ are readily separated by distillation under reduced pressure 
+
+**Mechanism**
+
+$$
+\require{mhchem}\ce{ 3PCl_{5} + NH_{4}Cl ->[-4HCl] [Cl_{3}P=N=PCl_{3}]+[PCl_{6}]-} \:\:\:\:\:\:\:\: (15.65)
+$$
+$$
+\require{mhchem}\ce{ [NH_{4}]+ + [PCl_{6}]- -> Cl_{3}P=NH +3HCl }\:\:\:\:\:\:\:\:(15.66)
+$$
+$$
+\begin{align}
+\require{mhchem}\ce{ [Cl_{3}P=N=PCl_{3}]+ + Cl_{3}P=NH ->[-HCl]  &{[Cl_{3}P=N-PCl_{2}=N=PCl_{3}]^{+}} } \\
+&\quad\qquad\qquad\quad\Bigg\downarrow \ce{  {Cl_{3}P=NH}\:;\:\: -HCl}  \\
+& \ce{  [Cl_{3}P=N-PCl_{2}=N-PCl_{2}=N=PCl_{3}]^{+}} \\
+&\qquad\qquad\qquad\dgoes {\ce{ -[PCl_{4}]+ }} \\ 
+
+\end{align}
+$$ ![](https://i.imgur.com/jCDjmYT.png)
+
+
+
+![](https://i.imgur.com/0T87OnX.png)
+
+**6-membered cyclophosphazene**
+>$6$-membered rings have involved $N(2p)-P(3d)$ overlap both in and perpendicular to the plane of the $P_{3}N_{3}$-ring 
+>![](https://i.imgur.com/4jnvy3u.png)
+>![](https://i.imgur.com/bCbfsLZ.png)
+>- Here, $P$ make little or no use of it $3d$ orbitals 
+>- Resonance can be observed 
+>- $N$ and $P$ atoms are subject to attack by electrophiles and nucleophiles 
+>- 
+>
