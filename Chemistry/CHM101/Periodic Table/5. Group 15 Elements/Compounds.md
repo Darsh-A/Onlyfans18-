@@ -487,4 +487,8 @@ $$
 \require{mhchem}\ce{ P_{4}S_{3} + H_{2}O -> No Reaction }
 $$
 
-#### $Pe$
+#### $Pe_{2}Se_{5}$ 
+
+##### Preparation 
+Decomposition of $P_{3}Se_{4}I$ 
+>$P_{4}Se_{10}$ from reaction of $P_{4}Se_{3}$ and $Se$ at $620K$ 
