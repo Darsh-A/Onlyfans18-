@@ -456,7 +456,7 @@ $$
 #### $P_{4}S_{10}$
 
 ##### Preparation 
-- Above $570K$, white $P$ combines with $S$ to give $P_{4}S_{10}$ 
+> Above $570K$, white $P$ combines with $S$ to give $P_{4}S_{10}$ 
 
 ##### Uses 
 - It is a thiating agent(introduces sulphur into a system) in organic reactions and is a precursor to organothiophosphorus compounds 
@@ -471,3 +471,8 @@ $$
 
 #### $P_{4}S_{3}$
 
+##### Preparation 
+>Above $450K$, red phosphorus combines with $S$ to yield $P_{4}S_{3}$
+
+##### Uses 
+- $\text{Strike anywhere}$ 
