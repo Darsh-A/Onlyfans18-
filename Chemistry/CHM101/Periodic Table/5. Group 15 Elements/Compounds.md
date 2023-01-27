@@ -432,8 +432,9 @@ $$ ![](https://i.imgur.com/jCDjmYT.png)
 ![](https://i.imgur.com/0T87OnX.png)
 
 **6-membered cyclophosphazene**
->- $6$-membered rings have involved $N(2p)-P(3d)$ overlap both in and perpendicular to the palane of the $P_{3}N_{3}$-ring 
+>$6$-membered rings have involved $N(2p)-P(3d)$ overlap both in and perpendicular to the plane of the $P_{3}N_{3}$-ring 
 >![](https://i.imgur.com/4jnvy3u.png)
 >![](https://i.imgur.com/bCbfsLZ.png)
->However, here $P$ make little or no use of it $3d$ orbitals 
+>- Here, $P$ make little or no use of it $3d$ orbitals 
+>- 
 >
