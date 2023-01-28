@@ -1,5 +1,4 @@
 
-asd
 $$\require{mhchem}\ce{ 3NO_{2}(g) + H_{2}O(l) -> 2HNO_{3}(aq) + NO(g)} \:\:\:\:\:\:\:\:\: \text{(15.9)}$$
 $$
 \require{mhchem}\ce{ N_{2}O_{5}(g) + H_{2}O(l) -> 2HNO_{3}(aq) + NO(g)} \:\:\:\:\:\:\:\:\:(15.10)
