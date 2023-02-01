@@ -168,4 +168,8 @@ The cell's response to an extracellular signal is sometimes called the "output r
 ### Cell to cell interactions
 - Cells can identify each other by cell surface markers.
 - **Glycolipids** are commonly used as *tissue-specific* markers.
-- **Major Histocompatibil
+- **Major Histocompatibility Complex (MHC)** proteins are used by the cells to distinguish *self from non-self* cells.
+
+#### Cell Junctions
+Cells within a tissue are connected to each other by **cell junctions**.
+1. **Anchoring junctions**: Connect the cytoskeleton 
