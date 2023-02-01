@@ -172,4 +172,9 @@ The cell's response to an extracellular signal is sometimes called the "output r
 
 #### Cell Junctions
 Cells within a tissue are connected to each other by **cell junctions**.
-1. **Anchoring junctions**: Connect the cytoskeleton 
+1. **Anchoring junctions**: Connect the cytoskeletons of adjacent cells.
+2. **Tight junctions**: Create sheets of cells.
+3. **Signal-relaying junctions**
+4. **Communicating (channel forming) junctions**: Permit small molecules to pass between cells.
+
+/hi
