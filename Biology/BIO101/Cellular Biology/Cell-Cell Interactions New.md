@@ -177,4 +177,7 @@ Cells within a tissue are connected to each other by **cell junctions**.
 3. **Signal-relaying junctions**
 4. **Communicating (channel forming) junctions**: Permit small molecules to pass between cells.
 
-/hi
+<mark style="background: #ADCCFFA6;">Major Adhesive Interactions</mark>
+![](https://i.imgur.com/Ge8n3oj.png)
+
+
