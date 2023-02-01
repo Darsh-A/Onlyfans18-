@@ -161,5 +161,11 @@ The cell's response to an extracellular signal is sometimes called the "output r
 ## Cell Communication
 - A cell’s response to a signal often involves activating or inactivating proteins.
 - Phosphorylation is a common way to change the activity of a protein.
-- *Protein kinase* – an enzyme that adds a phosphate to a protein
+- *Protein kinase* – an enzyme that adds a phosphate to a protein.
 - *Phosphatase* – an enzyme that removes a phosphate from a protein.
+- Signaling pathways can also affect the overall behavior of a cell, for example, changes in the cell shape.
+
+### Cell to cell interactions
+- Cells can identify each other by cell surface markers.
+- **Glycolipids** are commonly used as *tissue-specific* markers.
+- **Major Histocompatibil
