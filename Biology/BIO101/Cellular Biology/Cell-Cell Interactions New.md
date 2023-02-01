@@ -155,4 +155,11 @@ The cell's response to an extracellular signal is sometimes called the "output r
 - Many signaling pathways regulate the synthesis of enzymes or other proteins, usually by turning genes on or off in the nucleus.
 - The final activated molecule in the signaling pathway may function as a transcription factor.
 - Other pathways regulate the activity of enzymes rather than their synthesis
-- ![Uploading file...wzyx2]()
+![](https://i.imgur.com/0f3N9Q4.png)
+![](https://i.imgur.com/HOOxVVq.png)
+
+## Cell Communication
+- A cell’s response to a signal often involves activating or inactivating proteins.
+- Phosphorylation is a common way to change the activity of a protein.
+- *Protein kinase* – an enzyme that adds a phosphate to a protein
+- *Phosphatase* – an enzyme that removes a phosphate from a protein.
