@@ -152,4 +152,7 @@ The cell's response to an extracellular signal is sometimes called the "output r
 #### Nuclear and Cytoplasmic Responses
 - Ultimately, a signal transduction pathway leads to regulation of one or more cellular activities.
 - The response may occur in the cytoplasm or in the nucleus.
-- 
+- Many signaling pathways regulate the synthesis of enzymes or other proteins, usually by turning genes on or off in the nucleus.
+- The final activated molecule in the signaling pathway may function as a transcription factor.
+- Other pathways regulate the activity of enzymes rather than their synthesis
+- ![Uploading file...wzyx2]()
