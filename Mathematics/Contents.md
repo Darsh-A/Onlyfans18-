@@ -110,7 +110,9 @@
 > [[7. Linear Independence#Nullity|Nullity]]
 > [[7. Linear Independence#$Rank-Nullity$ theorem|Rank-Nullity Theorem]]
 > [[7. Linear Independence#Image|Image]]
-> [[]]
+> [[7. Linear Independence#Kernel|Kernel]]
+
+
 
 
 
