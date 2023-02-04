@@ -42,4 +42,9 @@
 - [ ] Transmembrane Adhesion Proteins
 - [ ] Cadherins - Classical vs Non-Classical
       Cadherins and Cell-Cell Adhesion
-      
+
+- [ ] Compaction of an early mouse embryo ?ig
+
+- [ ] Cadherins mediate Ca2+ dependent
+- [ ] Hook and loops fasteners
+- [ ] 
