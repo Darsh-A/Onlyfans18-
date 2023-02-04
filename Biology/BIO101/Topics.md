@@ -7,7 +7,6 @@
 - [ ] Cell to Cell Communication
       Ligand, Receptor Protein, Mechanisms
       Stages - Reception, Transduction, Response
-      $\dgoes$
     - [ ] Receptors in Plasma Membrane
           G protein-coupled receptors (GPCR)
           Receptor Tyrosine Kinases (RTK)
@@ -47,4 +46,5 @@
 
 - [ ] Cadherins mediate Ca2+ dependent
 - [ ] Hook and loops fasteners
-- [ ] 
+
+
