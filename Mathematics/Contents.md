@@ -101,6 +101,9 @@
 > [[6. Dimensions#$ phi_{B}$ is a 1-1 function | Linear Transformation Function]]
 > [[6. Dimensions#Theorem - 1 | Theorem 1,2,3]]  
 
+[[7. Linear Independence]]
+> [[7. Linear Independence#Characterization of Linear Independence|Character]]
+
 
 
 
