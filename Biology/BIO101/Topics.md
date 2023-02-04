@@ -7,5 +7,10 @@
 - [ ] Cell to Cell Communication
       Ligand, Receptor Protein, Mechanisms
       Stages - Reception, Transduction, Response
-      
-      
+      $\dgoes$
+    - [ ] Receptors in Plasma Membrane
+          G protein-coupled receptors (GPCR)
+          Receptor Tyrosine Kinases (RTK)
+          Ion channel receptors
+    - [ ] Intracellular Receptors
+          
