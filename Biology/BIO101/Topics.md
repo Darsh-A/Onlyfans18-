@@ -33,4 +33,13 @@
       Phosphatase
 - [ ] Cell to Cell Interactions
       Anchoring junctions
-      Tight 
+      Tight junctions
+      Signal relaying
+      Communicating junctions - gap junctions
+- [ ] Major Adhesive Interactions
+- [ ] CAMs ECM
+      Cell Adhesion Molecules
+- [ ] Transmembrane Adhesion Proteins
+- [ ] Cadherins - Classical vs Non-Classical
+      Cadherins and Cell-Cell Adhesion
+      
