@@ -21,4 +21,16 @@
 - [ ] Cyclic AMP
       Cyclic AMP (cAMP)
       Adenylyl Cyclase
-- [ ] Calcium ions and Inositol Triphosph
+- [ ] Calcium ions and Inositol Triphosphate
+      Inositol Triphosphate (IP3)
+      Diacylglycerol (DAG)
+- [ ] Response 
+      Cell signaling leads to regulation of transcription or cytoplasmic activities
+- [ ] Nuclear and Cytoplasmic Responses
+
+- [ ] Cell Communication
+      Protein Kinase
+      Phosphatase
+- [ ] Cell to Cell Interactions
+      Anchoring junctions
+      Tight 
