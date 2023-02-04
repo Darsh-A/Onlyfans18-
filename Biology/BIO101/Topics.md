@@ -13,4 +13,12 @@
           Receptor Tyrosine Kinases (RTK)
           Ion channel receptors
     - [ ] Intracellular Receptors
-          
+    - [ ] Transduction
+          Signal pathways
+          Phosphorylation and Dephosphorylation
+    - [ ] Small molecules and ion as Second Messengers
+  
+- [ ] Cyclic AMP
+      Cyclic AMP (cAMP)
+      Adenylyl Cyclase
+- [ ] Calcium ions and Inositol Triphosph
