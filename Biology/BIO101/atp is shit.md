@@ -3,10 +3,10 @@
 - [x] Substrate level phosphorylation
 - [ ] Cellular Respiration
       
-    - [ ] Aerobic Harvesting of Energy 
+    - [x] Aerobic Harvesting of Energy 
         - [x] breathing
         - [x] cellular respiration banks energy in ATP molecules
-        - [ ] cellular capture energy from e- falling from organic fuels to oxygen
+        - [x] cellular capture energy from e- falling from organic fuels to oxygen
           
     - [ ] Stages of Cellular Respiration
           Overview
