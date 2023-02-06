@@ -8,5 +8,9 @@
           cellular capture energy from e- falling from organic fuels to oxygen
     - [ ] Stages of Cellular Respiration
           Overview
-          Gl;=
+          Glycolysis harvests chemical energy by oxidizing glucose to pyruvate
+        - [ ] Energy Investment Phase
+        - [ ] Energy payoff phase
+        - [ ] Pyruvate is oxidized in preparation for citric acid cycle
+              - [ ]
           
