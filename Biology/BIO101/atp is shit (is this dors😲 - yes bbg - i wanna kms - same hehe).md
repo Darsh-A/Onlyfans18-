@@ -9,7 +9,7 @@
         - [x] cellular respiration banks energy in ATP molecules
         - [x] cellular capture energy from e- falling from organic fuels to oxygen
           
-    - [ ] Stages of Cellular Respiration
+    - [x] Stages of Cellular Respiration
           Overview
           Glycolysis harvests chemical energy by oxidizing glucose to pyruvate
         - [x] Energy Investment Phase
@@ -17,7 +17,7 @@
         - [x] Pyruvate is oxidized in preparation for citric acid cycle
             - [x] Anatomy of Mitochondria
         - [x] Citric acid cycle completes oxidation of organic molecules
-        - [ ] Electron Transport Chain (most ATP production occurs by oxidative phosphorylation)
+        - [x] Electron Transport Chain (most ATP production occurs by oxidative phosphorylation)
 
   - [ ] Overview: Oxidative Phosphorylation
 
