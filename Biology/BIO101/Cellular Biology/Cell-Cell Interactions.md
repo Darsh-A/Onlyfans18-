@@ -10,7 +10,7 @@ $$Example$$
 - *Slimy coating on a fallen log or on leaves lying on a forest path*
 - *Cells of the yeast Saccharomyces cerevisiae—which are used to make bread, wine, and beer— identify their sexual mates by chemical signaling when they reproduce sexually.*
 ![550](https://i.imgur.com/0mUD0HC.png)
-![](https://i.imgur.com/Ngwvb2Q.png)
+![550](https://i.imgur.com/Ngwvb2Q.png)
 
 ### Signal Transduction Pathway
 Binding of a mating factor by the yeast cell-surface receptor initiate a signal that brings about the cellular response of mating takes place in a series of three major steps-
