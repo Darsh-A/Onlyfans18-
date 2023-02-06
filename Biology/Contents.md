@@ -1,9 +1,9 @@
 1. BIO101
 	- [[Carbon]]
 	- [[Cell-Cell Interactions]]
-	- [[DNA]]
-	- [[Feedback Mechanisms]]
+	- [[4.DNA]]
+	- [[5.Feedback Mechanisms]]
 	- [[2. Membrane Structure and Function]]
-	- [[Taxonomy]]
-	- [[Theory of Natural Selection]]
+	- [[3. Taxonomy]]
+	- [[2.Theory of Natural Selection]]
 	- [[Water]]
