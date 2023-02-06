@@ -13,11 +13,11 @@
           Glycolysis harvests chemical energy by oxidizing glucose to pyruvate
         - [x] Energy Investment Phase
         - [x] Energy payoff phase
-        - [ ] Pyruvate is oxidized in preparation for citric acid cycle
-            - [ ] Anatomy of Mitochondria
-        - [ ] Citric acid cycle completes oxidation of organic molecules
+        - [x] Pyruvate is oxidized in preparation for citric acid cycle
+            - [x] Anatomy of Mitochondria
+        - [x] Citric acid cycle completes oxidation of organic molecules
 
-  - [ ] Electron Transport Chain (most ATP production occurs by oxidative phosphorylation)
+	  - [ ] Electron Transport Chain (most ATP production occurs by oxidative phosphorylation)
 
   - [ ] Overview: Oxidative Phosphorylation
 
