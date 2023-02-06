@@ -1,5 +1,5 @@
 
-- [ ] Atp drives cellular work by coupling exergonic and endergonic reactions
+- [ ] ATP drives cellular work by coupling exergonic and endergonic reactions
 - [ ] Substrate level phosphorylation
 - [ ] Cellular Respiration
       
@@ -27,4 +27,9 @@
 	- [ ] Lactic acid fermentation
 	- [ ] Alcohol fermentation
 
-- [ ] Evolution connection: Glycolysis evolved early in the history of life on ER
+- [ ] Evolution connection: Glycolysis evolved early in the history of life on Earth
+- [ ] Connection between metabolic pathways
+- [ ] cells use many kinds of organic molecules as fuel for cellular respiration
+
+----
+
