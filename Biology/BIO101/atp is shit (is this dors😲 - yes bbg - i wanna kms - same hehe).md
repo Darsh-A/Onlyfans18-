@@ -16,12 +16,11 @@
         - [x] Pyruvate is oxidized in preparation for citric acid cycle
             - [x] Anatomy of Mitochondria
         - [x] Citric acid cycle completes oxidation of organic molecules
-
-	  - [ ] Electron Transport Chain (most ATP production occurs by oxidative phosphorylation)
+        - [ ] Electron Transport Chain (most ATP production occurs by oxidative phosphorylation)
 
   - [ ] Overview: Oxidative Phosphorylation
 
-  - [ ]  scientific thinking bullshit
+  - [x]  scientific thinking bullshit
 
 - [ ] Fermentation: Anaerobic harvesting of energy
 	- [ ] Lactic acid fermentation
