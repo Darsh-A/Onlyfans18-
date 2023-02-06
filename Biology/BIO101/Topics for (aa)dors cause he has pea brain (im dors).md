@@ -30,7 +30,7 @@
 - [ ] Cell Communication
       Protein Kinase
       Phosphatase
-- [x] Cell to Cell Interactions
+- [ ] Cell to Cell Interactions
       Anchoring junctions
       Tight junctions
       Signal relaying
