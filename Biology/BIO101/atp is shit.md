@@ -19,4 +19,12 @@
 
   - [ ] Electron Transport Chain (most ATP production occurs by oxidative phosphorylation)
 
-  - [ ] Overview: Oxidative Phos
+  - [ ] Overview: Oxidative Phosphorylation
+
+  - [ ]  scientific thinking bullshit
+
+- [ ] Fermentation: Anaerobic harvesting of energy
+	- [ ] Lactic acid fermentation
+	- [ ] Alcohol fermentation
+
+- [ ] Evolution connection: Glycolysis evolved early in the history of life on ER
