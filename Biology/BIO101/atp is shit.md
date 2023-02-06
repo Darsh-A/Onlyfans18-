@@ -11,8 +11,8 @@
     - [ ] Stages of Cellular Respiration
           Overview
           Glycolysis harvests chemical energy by oxidizing glucose to pyruvate
-        - [ ] Energy Investment Phase
-        - [ ] Energy payoff phase
+        - [x] Energy Investment Phase
+        - [x] Energy payoff phase
         - [ ] Pyruvate is oxidized in preparation for citric acid cycle
             - [ ] Anatomy of Mitochondria
         - [ ] Citric acid cycle completes oxidation of organic molecules
