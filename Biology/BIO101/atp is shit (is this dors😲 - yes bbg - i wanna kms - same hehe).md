@@ -23,9 +23,9 @@
 
   - [x]  scientific thinking bullshit
 
-- [ ] Fermentation: Anaerobic harvesting of energy
-	- [ ] Lactic acid fermentation
-	- [ ] Alcohol fermentation
+- [x] Fermentation: Anaerobic harvesting of energy
+	- [x] Lactic acid fermentation
+	- [x] Alcohol fermentation
 
 - [ ] Evolution connection: Glycolysis evolved early in the history of life on Earth
 - [ ] Connection between metabolic pathways
