@@ -9,4 +9,12 @@
 
 - [ ] IUPAC
 
-- [ ] 
+- [ ] GOC
+    - [ ] Inductive Effect
+    - [ ] Electromeric Effect
+    - [ ] Resonance
+    - [ ] Hyperconjugation
+
+- [ ] Stereochemistry
+      -----
+
