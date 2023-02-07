@@ -11,4 +11,10 @@
     - [ ] Goldschimdts
 
 - [ ] ***Periodic table***
-      
+    - [ ] Mendeleev's Periodic Table
+    - [ ] Other bs periodic tables
+
+- [ ] Periodic Trends of atomic size
+    - [ ] Exceptions
+    - [ ] Effective Nuclear Charge
+        - [ ] Slaters rule
