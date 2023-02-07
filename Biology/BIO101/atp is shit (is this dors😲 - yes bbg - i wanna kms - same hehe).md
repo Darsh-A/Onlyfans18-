@@ -2,7 +2,7 @@
 - [x] ATP drives cellular work by coupling exergonic and endergonic reactions
 - [x] Substrate level phosphorylation
 
-- [ ] Cellular Respiration
+- [x] Cellular Respiration
       
     - [x] Aerobic Harvesting of Energy 
         - [x] breathing
@@ -19,7 +19,7 @@
         - [x] Citric acid cycle completes oxidation of organic molecules
         - [x] Electron Transport Chain (most ATP production occurs by oxidative phosphorylation)
 
-  - [ ] Overview: Oxidative Phosphorylation
+  - [x] Overview: Oxidative Phosphorylation
 
   - [x]  scientific thinking bullshit
 
@@ -27,7 +27,7 @@
 	- [x] Lactic acid fermentation
 	- [x] Alcohol fermentation
 
-- [ ] Evolution connection: Glycolysis evolved early in the history of life on Earth
+- [x] Evolution connection: Glycolysis evolved early in the history of life on Earth
 - [ ] Connection between metabolic pathways
 - [ ] cells use many kinds of organic molecules as fuel for cellular respiration
 
