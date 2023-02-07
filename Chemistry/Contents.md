@@ -1,6 +1,6 @@
 1. CHM101
 	- [[Classification Of Elements]]
-	- [[1.2 Periodic Tables]]
+	- [[1. Tables and Classification]]
 	- [[Periodic Trends of Atomic Size]]
 
 
