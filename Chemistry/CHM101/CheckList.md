@@ -18,3 +18,9 @@
     - [ ] Exceptions
     - [ ] Effective Nuclear Charge
         - [ ] Slaters rule
+        - [ ] Scandide Contraction
+        - [ ] Lanthanide Contraction
+        - [ ] Post Lanthanide
+            - [ ] Post Occurrence of yttrium along with heavier lanthanides
+            - [ ] Europium and ytterbium
+        - [ ] 
