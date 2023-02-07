@@ -14,7 +14,7 @@
     - [ ] Mendeleev's Periodic Table
     - [ ] Other bs periodic tables
 
-- [ ] Periodic Trends of atomic size
+- [ ] ***Periodic Trends of atomic size***
     - [ ] Exceptions
     - [ ] Effective Nuclear Charge
         - [ ] Slaters rule
@@ -23,4 +23,5 @@
         - [ ] Post Lanthanide
             - [ ] Post Occurrence of yttrium along with heavier lanthanides
             - [ ] Europium and ytterbium
-        - [ ] 
+        - [ ] Actinide Contraction
+
