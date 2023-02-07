@@ -20,3 +20,6 @@
 
 - [ ] Whole periodic bullshit as written in notes (23-25)
 
+- [ ] VSPER
+
+
