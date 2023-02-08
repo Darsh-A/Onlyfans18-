@@ -25,3 +25,6 @@ E_{\text{Ligand}} =  -0.4 \times n_{t_{2g}} + 0.6 \times n_{e_{g}}
 	$$
 ### Example
 ![](https://i.imgur.com/34C7Hoc.png)
+
+## Jahn-Teller Effect
+
