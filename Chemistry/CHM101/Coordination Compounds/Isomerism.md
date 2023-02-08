@@ -1,2 +1,2 @@
 ## Geometrical Isomers
-- Cis an
+Differ only in
