@@ -7,8 +7,10 @@ $$
 
 ## Centrifugal Force
 
-$a_{centrifugal}= r \dot{\theta}^{2}$
 
 ## Coriolis Force
+The Coriolis force is an inertial force that acts on objects that are in motion relative to a rotating reference frame. It is an apparent force that acts to the right of the direction of motion in the northern hemisphere and to the left in the southern hemisphere. The Coriolis force is given by the following formula:
 
-$a_{coriolis} = 2 \dot{r} \dot{\theta}$
+$$F_c = -2m\Omega \times v$$
+
+Where $F_c$ is the Coriolis force, m is the mass of the object, $\Omega$ is the angular velocity of the rotating reference frame, and v is the velocity of the object relative to the rotating reference frame.
