@@ -6,3 +6,5 @@ The energy splitting is represented by the following formula:
 $\Delta = \Omega_{CF} = \sum_{L}B_{L}\cdot \left \langle L \right \rangle$
 
 Where $\Delta$ is the energy splitting, $\Omega_{CF}$ is the crystal field splitting energy, $B_{L}$ is the crystal field stabilization energy, and $\left \langle L \right \rangle$ is the ligand field strength.
+
+## CFSE Calculation
