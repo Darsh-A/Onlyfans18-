@@ -22,6 +22,5 @@
 
 - [ ] VSPER
 
-- [ ] Coordination compounds (28-29)
-- [ ] IDK WHAT SHIT IS THIS? (be better) im too lazy to read  (29-30)
-	 smthing related to coord
+- [x] Coordination compounds (28-29)
+- [x] IDK WHAT SHIT IS THIS? (be better) im too lazy to read  (29-30) smthing related to coord
