@@ -27,4 +27,4 @@ E_{\text{Ligand}} =  -0.4 \times n_{t_{2g}} + 0.6 \times n_{e_{g}}
 ![](https://i.imgur.com/34C7Hoc.png)
 
 ## Jahn-Teller Effect
-
+The Jahn-Teller effect is a geometric distortion of a non-linear molecular system that reduces its symmetry and energy. This distortion is typically observed among [octahedral complexes](https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Molecular_Geometry/Octahedral "Inorganic Chemistry/Molecular Geometry/Octahedral") where the two axial bonds can be shorter or longer than those of the equatorial bonds. This effect can also be observed in [tetrahedral compounds](https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Molecular_Geometry/Tetrahedral_Molecular_Geometry "Inorganic Chemistry/Molecular Geometry/Tetrahedral Molecular Geometry"). This effect is dependent on the electronic state of the system.
