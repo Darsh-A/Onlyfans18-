@@ -15,6 +15,8 @@ Crystal Field Splitting Energy (CFSE) is the energy released when the d-orbitals
 3. Calculate $E_{\text{Ligand Field}}$  by the formula:
 	$$
 	\begin{align}
-E_{\text{Ligand}} = n_{t_{2g}}
+E_{\text{Ligand}} =  -0.4 \times n_{t_{2g}} + 0.6 \times n_{e_{g}} 
 \end{align}
 	$$
+	where $n_{t_{2g}}$ is the number of electrons in $2g$ and $n_{e_{g}}$ is the number of electrons in $e_{g}$.
+4
