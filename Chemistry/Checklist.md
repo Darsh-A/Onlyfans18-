@@ -20,7 +20,7 @@
 
 - [ ] Whole periodic bullshit as written in notes (23-25)
 
-- [ ] VSPER
+- [x] VSPER
 
 - [x] Coordination compounds (28-29)
 - [x] IDK WHAT SHIT IS THIS? (be better) im too lazy to read  (29-30) smthing related to coord
