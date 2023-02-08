@@ -8,3 +8,6 @@ $\Delta = \Omega_{CF} = \sum_{L}B_{L}\cdot \left \langle L \right \rangle$
 Where $\Delta$ is the energy splitting, $\Omega_{CF}$ is the crystal field splitting energy, $B_{L}$ is the crystal field stabilization energy, and $\left \langle L \right \rangle$ is the ligand field strength.
 
 ## CFSE Calculation
+
+
+Crystal Field Splitting Energy (CFSE) is the energy released when the d-orbitals of a transition metal ion split due to the electrostatic interactions between the metal ion and the surrounding ligands. It can be calculated using the following steps:
