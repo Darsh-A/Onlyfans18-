@@ -11,12 +11,17 @@ Where $\Delta$ is the energy splitting, $\Omega_{CF}$ is the crystal field split
 Crystal Field Splitting Energy (CFSE) is the energy released when the d-orbitals of a transition metal ion split due to the electrostatic interactions between the metal ion and the surrounding ligands. It can be calculated using the following steps:
 
 1.  First figure out the strength of the ligand. If it is a strong field ligand, it will cause more crystal field splitting which would lead to forceful pairings being formed and the opposite for weak field ligands which cause less bond pairs.
-2. Calculate $E_{\text{Isotropic field}}$ by $E_{isotropic}= n P$ where $n$ is the number of electron pairs initially and $P$ is the pairing energy.
-3. Calculate $E_{\text{Ligand Field}}$  by the formula:
+2. Draw the cryst
+3. Calculate $E_{\text{Isotropic field}}$ by $E_{isotropic}= n P$ where $n$ is the number of electron pairs initially and $P$ is the pairing energy.
+4. Calculate $E_{\text{Ligand Field}}$  by the formula:
 	$$
 	\begin{align}
 E_{\text{Ligand}} =  -0.4 \times n_{t_{2g}} + 0.6 \times n_{e_{g}} 
 \end{align}
 	$$
 	where $n_{t_{2g}}$ is the number of electrons in $2g$ and $n_{e_{g}}$ is the number of electrons in $e_{g}$.
-4
+4. $$
+	CFSE = E_{\text{Ligand Field}} - E_{\text{Isotropic Field}}
+	$$
+### Example
+![](https://i.imgur.com/34C7Hoc.png)
