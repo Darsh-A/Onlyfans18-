@@ -12,4 +12,9 @@ Crystal Field Splitting Energy (CFSE) is the energy released when the d-orbitals
 
 1.  First figure out the strength of the ligand. If it is a strong field ligand, it will cause more crystal field splitting which would lead to forceful pairings being formed and the opposite for weak field ligands which cause less bond pairs.
 2. Calculate $E_{\text{Isotropic field}}$ by $E_{isotropic}= n P$ where $n$ is the number of electron pairs initially and $P$ is the pairing energy.
-3. Calculate $E$
+3. Calculate $E_{\text{Ligand Field}}$  by the formula:
+	$$
+	\begin{align}
+E_{\text{Ligand}} = n_{t_{2g}}
+\end{align}
+	$$
