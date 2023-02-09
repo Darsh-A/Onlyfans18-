@@ -27,7 +27,7 @@ I_{zx} & I_{zy} & I_{zz} \\
 \end{align}
 $$
 
-## Parallel and Perpendicular Axis Theorem
+## Parallel Axis Theorem
 
 $$
 \require{physics}
@@ -37,4 +37,10 @@ where:
 $I$: Moment of Inertia of the body
 $I_{c}$: Moment of Inertia of the body about the center
 $M$: Mass of the body
-$h$: The distance be
+$h$: The distance between the two axes
+
+## Perpendicular Axis Theorem
+$$
+\require{physics}
+I_{a}=I_{b}+I_{c}
+$$
