@@ -4,4 +4,4 @@
 ![](https://i.imgur.com/c9RPUJz.png)
 
 
-# Newtom
+# Newton
