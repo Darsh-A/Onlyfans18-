@@ -35,3 +35,9 @@
 ![](https://i.imgur.com/kOag3bV.png)
 ![](https://i.imgur.com/44YVjzO.png)
 
+The Tennis racket thing
+i think its called the intermediate theorem or something?
+![](https://i.imgur.com/ZkmMEhw.png)
+![](https://i.imgur.com/8wSalnm.png)
+
+
