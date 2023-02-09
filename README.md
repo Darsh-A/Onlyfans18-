@@ -23,7 +23,7 @@ $\Zbar$ : `\Zbar`
 $\dgoes {a}$   : `\dgoes {}`
 
 ### Physics
-$\tensortwo{}$
+$\tensorTwo{a}$: `\tensorTwo{a}`
 
 ## List of cool plugins:
 
