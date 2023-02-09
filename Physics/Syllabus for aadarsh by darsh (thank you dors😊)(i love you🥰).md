@@ -1,5 +1,5 @@
 - [x] Vectors
-- [ ] Newton
+- [x] Newton
 - [ ] Momentum
 - [ ] Energy
 - [ ] Angular Momentum
