@@ -59,7 +59,7 @@ z
 \end{pmatrix}
 =0
 $$
-This gives us a set
+This gives us a set of equations
 ## Parallel Axis Theorem
 
 $$
