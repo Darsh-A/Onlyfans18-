@@ -27,8 +27,8 @@ I_{zx} & I_{zy} & I_{zz} \\
 \end{align}
 $$
 
-## Principle Axes Finding
-
+## Principal Axes Finding
+The principal axes can be found by s
 
 ## Parallel Axis Theorem
 
