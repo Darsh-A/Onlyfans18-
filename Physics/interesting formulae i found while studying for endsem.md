@@ -4,9 +4,13 @@
 ![](https://i.imgur.com/c9RPUJz.png)
 
 
+---
+
 # Newton
 ![](https://i.imgur.com/j78UpcV.png)
 
+
+---
 
 # Topics in Dynamics
 
@@ -16,4 +20,10 @@
 
 ***IF THE SYSTEM IS CONSERVATIVE THAT ENERGY IS CONSTANT***
 
+
+---
+
+# RBD
+
+![](https://i.imgur.com/XBHNby6.png)
 
