@@ -32,5 +32,5 @@
 ***NOTE:*** A set of "three" principle axes which are perpendicular to each other
 ![](https://i.imgur.com/q7lLKh4.png)
 
-
+![](https://i.imgur.com/kOag3bV.png)
 
