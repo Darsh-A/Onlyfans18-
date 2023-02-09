@@ -12,5 +12,7 @@
     - [ ] Rotating Frame
 
 ** What does the star mean - after midsem
+
 will edit if i remember something more so keep a check on this file
 or add if u remember smthing too 😉
+okay 
