@@ -29,5 +29,8 @@
 
 ![](https://i.imgur.com/XBHNby6.png)
 
+***NOTE:*** A set of "three" principle axes which are perpendicular to each other
 ![](https://i.imgur.com/q7lLKh4.png)
+
+
 
