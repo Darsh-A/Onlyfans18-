@@ -1,4 +1,4 @@
-- [ ] Vectors
+- [x] Vectors
 - [ ] Newton
 - [ ] Momentum
 - [ ] Energy
