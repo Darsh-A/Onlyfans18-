@@ -20,8 +20,11 @@ $\catBlue{\text{Blue}}$: `\catBlue{}`
 ## Custom Latex Commands:
 
 ### Just Fancy Symbols
+
 $\Zbar$ : `\Zbar`
+
 $\dgoes {a}$   : `\dgoes {}`
+
 
 ### Physics
 $\tensorTwo{a}$: `\tensorTwo{a}`
