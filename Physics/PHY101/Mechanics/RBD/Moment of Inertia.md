@@ -19,6 +19,6 @@ $$
 $$
 \require{physics}
 \begin{align}
-
+I^{\leftrightarrow}
 \end{align}
 $$
