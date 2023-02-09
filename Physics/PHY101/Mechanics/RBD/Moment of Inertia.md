@@ -28,3 +28,13 @@ I_{zx} & I_{zy} & I_{zz} \\
 $$
 
 ## Parallel and Perpendicular Axis Theorem
+
+$$
+\require{physics}
+I = I_{c} + Mh^{2}
+$$
+where:
+$I$: Moment of Inertia of the body
+$I_{c}$: Moment of Inertia of the body about the center
+$M$: Mass of the body
+$h$: The distance be
