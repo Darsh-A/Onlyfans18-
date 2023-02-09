@@ -15,3 +15,10 @@ I_{xz} &= I_{zx}
 $$
 
 ## Moment of Inertia Tensor
+
+$$
+\require{physics}
+\begin{align}
+\tensorTwo{I} = 
+\end{align}
+$$
