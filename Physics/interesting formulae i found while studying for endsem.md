@@ -11,3 +11,6 @@
 # Topics in Dynamics
 
 ![](https://i.imgur.com/oLF1QEI.png)
+
+![](https://i.imgur.com/mtynked.png)
+
