@@ -6,3 +6,8 @@
 
 # Newton
 ![](https://i.imgur.com/j78UpcV.png)
+
+
+# Topics in Dynamics
+
+![](https://i.imgur.com/oLF1QEI.png)
