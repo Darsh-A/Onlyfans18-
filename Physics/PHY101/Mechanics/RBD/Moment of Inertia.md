@@ -27,6 +27,9 @@ I_{zx} & I_{zy} & I_{zz} \\
 \end{align}
 $$
 
+## Principle Axes Finding
+
+
 ## Parallel Axis Theorem
 
 $$
@@ -44,3 +47,4 @@ $$
 \require{physics}
 I_{a}=I_{b}+I_{c}
 $$
+where $a, b, c$ are three axes perpendicular to each other.
