@@ -44,7 +44,22 @@ $$
 a_{0}+a_{1}\lambda+a_{2}\lambda^{2}+a_{3}\lambda^{3}=0
 $$
 Solving the above equation gives at max 3 real roots.
-The principal axes can then by found by subsi
+The principal axes can then by found by substituting the value of $\lambda$ in the above matrix, and then multiplying it with standard axes:
+$$
+\require{physics}
+\begin{pmatrix}
+I_{xx}-\lambda & I_{xy} & I_{xz} \\
+I_{yx} & I_{yy}-\lambda & I_{yz} \\
+I_{zx} & I_{zy} & I_{zz}-\lambda \\
+\end{pmatrix}
+\begin{pmatrix}
+x \\
+y \\
+z
+\end{pmatrix}
+=0
+$$
+This gives us a set
 ## Parallel Axis Theorem
 
 $$
