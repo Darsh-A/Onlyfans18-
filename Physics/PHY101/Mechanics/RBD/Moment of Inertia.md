@@ -15,3 +15,5 @@ I_{xz} &= I_{zx}
 $$
 
 ## Moment of Inertia Tensor
+$\catRed{\text{Test a thing}}$
+$\catSky{\text{Alpha}}$
