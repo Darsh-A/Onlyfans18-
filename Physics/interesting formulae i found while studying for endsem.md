@@ -14,3 +14,6 @@
 
 ![](https://i.imgur.com/mtynked.png)
 
+***IF THE SYSTEM IS CONSERVATIVE THAT ENERGY IS CONSTANT***
+
+
