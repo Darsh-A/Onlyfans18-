@@ -65,11 +65,18 @@ This gives us a set of equations, the principal axes then become the normalized 
 Let Inertia Tensor be:
 ![](https://i.imgur.com/NzVA1pg.png)
 
-
+Eigen-form:
 ![](https://i.imgur.com/rAE2p1o.png)
+
+Determinant:
 ![](https://i.imgur.com/LmA6SjH.png)
+
+System of Equations:
 ![](https://i.imgur.com/Net28Yp.png)
+
+Simplified system:
 ![](https://i.imgur.com/mPD4afO.png)
+
 And the normalized vectors are therefore:
 $$
 \require{physics}
@@ -77,7 +84,6 @@ $$
 \frac{\hat{i}}{\sqrt{ 2 }} & -\frac{\hat{j}}{\sqrt{ 2 }} & 0
 \end{pmatrix}
 $$
-
 ## Parallel Axis Theorem
 $$
 \require{physics}
