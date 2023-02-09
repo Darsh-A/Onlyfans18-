@@ -13,3 +13,12 @@ I_{yz} &= I_{zy} \\
 I_{xz} &= I_{zx}
 \end{align}
 $$
+
+## Moment of Inertia Tensor
+
+$$
+\require{physics}
+\begin{align}
+
+\end{align}
+$$
