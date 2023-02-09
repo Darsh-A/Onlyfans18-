@@ -44,7 +44,7 @@ $$
 a_{0}+a_{1}\lambda+a_{2}\lambda^{2}+a_{3}\lambda^{3}=0
 $$
 Solving the above equation gives at max 3 real roots.
-The principal axes can then by 
+The principal axes can then by found by subsi
 ## Parallel Axis Theorem
 
 $$
