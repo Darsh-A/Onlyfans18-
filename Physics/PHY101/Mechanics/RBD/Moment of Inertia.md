@@ -15,5 +15,7 @@ I_{xz} &= I_{zx}
 $$
 
 ## Moment of Inertia Tensor
-$\catRed{\text{Test a thing}}$
-$\catSky{\text{Alpha}}$
+$\catRed{\text{Red}}$
+$\catSky{\text{Sky}}$
+$\catPeach{\text{Peach}}$
+$\catMauve{\text{Mauve}}$
