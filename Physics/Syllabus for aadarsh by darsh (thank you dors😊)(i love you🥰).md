@@ -15,4 +15,4 @@
 
 will edit if i remember something more so keep a check on this file
 or add if u remember smthing too 😉
-okay 
+okay ☺️
