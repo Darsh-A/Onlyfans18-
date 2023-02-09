@@ -15,4 +15,4 @@ I_{xz} &= I_{zx}
 $$
 
 ## Moment of Inertia Tensor
-
+$\red{ascii}$
