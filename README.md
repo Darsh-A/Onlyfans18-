@@ -15,6 +15,7 @@ $\catTeal{\text{Teal}}$: `\catTeal{}`
 $\catGreen{\text{Green}}$: `\catGreen{}`
 $\catMaroon{\text{Maroon}}$: `\catMaroon{}`
 $\catLavender{\text{Lavender}}$: `\catLavender{}`
+$\catBlue{\text{Blue}}$: `\catBlue{}`
 
 ## Custom Latex Commands:
 
