@@ -1,10 +1,15 @@
+## Custom Colors Through Latex
+
+### Dorsh
+$\red {red}$ : `\red {}`
+$\blue {blue}$ : `\blue {}`
+$\purp {purp}$ : `\purp {}`
+
+### Kshitish
 
 ## Custom Latex Commands:
 
 $\Zbar$ : `\Zbar`
-$\red {red}$ : `\red {}`
-$\blue {blue}$ : `\blue {}`
-$\purp {purp}$ : `\purp {}`
 $\dgoes {a}$   : `\dgoes {}`
 
 ## List of cool plugins:
