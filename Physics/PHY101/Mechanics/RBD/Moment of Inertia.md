@@ -59,7 +59,10 @@ z
 \end{pmatrix}
 =0
 $$
-This gives us a set of equations, the principal axes then become the normalized coefficient of each variab
+This gives us a set of equations, the principal axes then become the normalized coefficient of each variable.
+
+### Example
+
 ## Parallel Axis Theorem
 
 $$
