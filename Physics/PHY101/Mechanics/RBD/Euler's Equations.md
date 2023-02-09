@@ -11,6 +11,9 @@ To proceed with solving any problem using Euler's Equation, make sure the axes y
 $$
 \require{physics}
 \begin{align}
-\tau_{1} &= I_{1}\frac{d\omega}{}
+\tau_{1} &= I_{1}\frac{d\omega}{dt} + (I_{3}-I_{2})\omega_{3}\omega_{2} \\
+\tau_{2} &= I_{2}\frac{d\omega}{dt} + (I_{1}-I_{3})\omega_{1}\omega_{3} \\
+\tau_{3} &= I_{3}\frac{d\omega}{dt} + (I_{2}-I_{1})\omega_{2}\omega_{1} \\
+
 \end{align}
 $$
