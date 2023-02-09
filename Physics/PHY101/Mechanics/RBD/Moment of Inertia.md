@@ -19,3 +19,8 @@ $\catRed{\text{Red}}$
 $\catSky{\text{Sky}}$
 $\catPeach{\text{Peach}}$
 $\catMauve{\text{Mauve}}$
+$\catPink{\text{Pink}}$
+$\catTeal{\text{Teal}}$
+$\catGreen{\text{Green}}$
+$\catMaroon{\text{Maroon}}$
+$\catLavender{\text{Lavender}}$
