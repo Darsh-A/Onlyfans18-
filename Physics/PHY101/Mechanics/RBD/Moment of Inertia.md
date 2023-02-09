@@ -16,9 +16,3 @@ $$
 
 ## Moment of Inertia Tensor
 
-$$
-\require{physics}
-\begin{align}
-I^{\leftrightarrow}
-\end{align}
-$$
