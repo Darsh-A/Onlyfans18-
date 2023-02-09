@@ -5,11 +5,12 @@
 - [ ] Energy
 - [ ] Angular Momentum
 - [ ] * RBD
+    - [ ] Rotating Frame
     - [ ]  IMP: Tensor
 - [ ] Central motion
 - [ ] * Special theory of Relativity
 - [ ] * Topics in Dynamics
-    - [ ] Rotating Frame
+
 
 ** What does the star mean - after midsem
 
