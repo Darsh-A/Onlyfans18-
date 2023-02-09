@@ -62,9 +62,14 @@ $$
 This gives us a set of equations, the principal axes then become the normalized coefficient of each variable.
 
 ### Example
+Let Inertia Tensor be:
+![](https://i.imgur.com/NzVA1pg.png)
+![](https://i.imgur.com/rAE2p1o.png)
+![](https://i.imgur.com/LmA6SjH.png)
+![](https://i.imgur.com/Net28Yp.png)
+
 
 ## Parallel Axis Theorem
-
 $$
 \require{physics}
 I = I_{c} + Mh^{2}
