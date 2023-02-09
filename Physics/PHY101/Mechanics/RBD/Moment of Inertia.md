@@ -19,17 +19,26 @@ $$
 $$
 \require{physics}
 \begin{align}
-\tensorTwo{I} &= \begin{bmatrix}
+\tensorTwo{I} &= \begin{pmatrix}
 I_{xx} & I_{xy} & I_{xz} \\
 I_{yx} & I_{yy} & I_{yz} \\
 I_{zx} & I_{zy} & I_{zz} \\
-\end{bmatrix}
+\end{pmatrix}
 \end{align}
 $$
 
 ## Principal Axes Finding
-The principal axes can be found by s
-
+The principal axes can be found by solving the equation:
+$$
+\require{physics}
+\begin{bmatrix}
+I_{xx}-\lambda & I_{xy} & I_{xz} \\
+I_{yx} & I_{yy}-\lambda & I_{yz} \\
+I_{zx} & I_{zy} & I_{zz}-\lambda \\
+\end{bmatrix}
+=1
+$$
+a
 ## Parallel Axis Theorem
 
 $$
