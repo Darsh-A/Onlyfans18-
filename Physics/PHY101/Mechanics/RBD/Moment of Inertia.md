@@ -64,10 +64,19 @@ This gives us a set of equations, the principal axes then become the normalized 
 ### Example
 Let Inertia Tensor be:
 ![](https://i.imgur.com/NzVA1pg.png)
+
+
 ![](https://i.imgur.com/rAE2p1o.png)
 ![](https://i.imgur.com/LmA6SjH.png)
 ![](https://i.imgur.com/Net28Yp.png)
-
+![](https://i.imgur.com/mPD4afO.png)
+And the normalized vectors are therefore:
+$$
+\require{physics}
+\begin{pmatrix}
+\frac{\hat{i}}{\sqrt{ 2 }} & -\frac{\hat{j}}{\sqrt{ 2 }} & 0
+\end{pmatrix}
+$$
 
 ## Parallel Axis Theorem
 $$
