@@ -16,4 +16,3 @@ $$
 
 ## Moment of Inertia Tensor
 
-$\tensortwo{I}$
