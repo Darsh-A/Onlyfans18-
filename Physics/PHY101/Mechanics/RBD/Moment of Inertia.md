@@ -16,3 +16,35 @@ $$
 
 ## Moment of Inertia Tensor
 
+$$
+\require{physics}
+\begin{align}
+\tensorTwo{I} &= \begin{bmatrix}
+I_{xx} & I_{xy} & I_{xz} \\
+I_{yx} & I_{yy} & I_{yz} \\
+I_{zx} & I_{zy} & I_{zz} \\
+\end{bmatrix}
+\end{align}
+$$
+
+## Principle Axes Finding
+
+
+## Parallel Axis Theorem
+
+$$
+\require{physics}
+I = I_{c} + Mh^{2}
+$$
+where:
+$I$: Moment of Inertia of the body
+$I_{c}$: Moment of Inertia of the body about the center
+$M$: Mass of the body
+$h$: The distance between the two axes
+
+## Perpendicular Axis Theorem
+$$
+\require{physics}
+I_{a}=I_{b}+I_{c}
+$$
+where $a, b, c$ are three axes perpendicular to each other.
