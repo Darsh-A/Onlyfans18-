@@ -6,11 +6,24 @@ $\blue {blue}$ : `\blue {}`
 $\purp {purp}$ : `\purp {}`
 
 ### Kshitish
+$\catRed{\text{Red}}$ : `\catRed{}`
+$\catSky{\text{Sky}}$: `\catSky{}`
+$\catPeach{\text{Peach}}$: `\catPeach{}`
+$\catMauve{\text{Mauve}}$: `\catMauve{}`
+$\catPink{\text{Pink}}$: `\catPink{}`
+$\catTeal{\text{Teal}}$: `\catTeal{}`
+$\catGreen{\text{Green}}$: `\catGreen{}`
+$\catMaroon{\text{Maroon}}$: `\catMaroon{}`
+$\catLavender{\text{Lavender}}$: `\catLavender{}`
 
 ## Custom Latex Commands:
 
+### Just Fancy Symbols
 $\Zbar$ : `\Zbar`
 $\dgoes {a}$   : `\dgoes {}`
+
+### Physics
+$\tensortwo{}$
 
 ## List of cool plugins:
 
