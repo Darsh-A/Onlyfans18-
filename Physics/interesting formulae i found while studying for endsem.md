@@ -40,4 +40,6 @@ i think its called the intermediate theorem or something?
 ![](https://i.imgur.com/ZkmMEhw.png)
 ![](https://i.imgur.com/8wSalnm.png)
 
+![](https://i.imgur.com/BdS4Ntl.png)
+
 
