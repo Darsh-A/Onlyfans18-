@@ -11,4 +11,10 @@ Equipment
 Standard equipment are available from various equipment manufacturers located in the nearby city.
 
 Chicks
-One day old commercial h
+One day old commercial hybrid chicks are available from the hatcheries. In order to cover transportation, hatchery is supplying 3 percent extra chicks. Chicks will be vaccinated against Rd & Marek's at source. Chicks will be purchased in lots at regular intervals.
+
+Feeds
+Company will provides feeds require to birds on contract basis.
+
+Medicine & Veterinary Aid
+The person who will be looking after the day-to-day management of the farm is conversant wi
