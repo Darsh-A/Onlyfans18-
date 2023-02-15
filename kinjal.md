@@ -5,4 +5,10 @@ Location
 The proposed unit will be located on a piece of land which is almost leveled & is well connected to approach road. Electricity is available near the farm site. In the absence of assured of water supply, a tub well/hand pump is proposed on the farm. Underground water is adequately available & is of good quality
 
 Housing
-Provision has been made for the construction of a brooder-cum-grower house measuring at a rate of 1 sq feet in a case of broiler. Besides it, the farm will have a small store room, office & servants quarters. Construction of house will be puck
+Provision has been made for the construction of a brooder-cum-grower house measuring at a rate of 1 sq feet in a case of broiler. Besides it, the farm will have a small store room, office & servants quarters. Construction of house will be pucka with absestos roofing. Provision has also been made for construction of built in laying nests. The installation of a tube well & laying of pipeline is also to be done.
+
+Equipment
+Standard equipment are available from various equipment manufacturers located in the nearby city.
+
+Chicks
+One day old commercial h
