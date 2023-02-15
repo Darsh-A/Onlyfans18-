@@ -36,4 +36,7 @@ Strengths
 
 - Poultry has the potential to meet the protein requirements of a nation where malnutrition is rampant - since both eggs/broilers are a good source of protein
 - Helps to augment the income of the rural masses. Thus improve the socio-economic status of rural population
-- Poultry 
+- Poultry is one of the most efficient converters of plant products / waste into edible food that can in some measure tackle the problem of malnutrition especially in a country like India.
+- Unlike other meat (beef, pork) which have religious taboos-chicken is widely accepted in India and is cheaper than goat meat.
+- Poultry litter has high manure value and can be used in agriculture activities.
+- It has tremendous potential to create non - farm employment and check migration from rural to urban r
