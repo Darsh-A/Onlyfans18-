@@ -31,4 +31,9 @@ India is one of the fastest growing poultry feed markets in the world. Growing p
 The domestic market has displayed increasing buoyancy, owing to a growing rural market based on lower feed and poultry prices in the sector. A growing rural market and awareness of new technologies and specialized methodologies and techniques also boosted market growth and reduced wastage. Among the meats analyzed in the region, poultry consumption is shown to be the most responsive to income and to have the strongest statistical relationship with income.
 
 
+CHAPTER 4
+Strengths
 
+- Poultry has the potential to meet the protein requirements of a nation where malnutrition is rampant - since both eggs/broilers are a good source of protein
+- Helps to augment the income of the rural masses. Thus improve the socio-economic status of rural population
+- Poultry 
