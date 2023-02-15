@@ -45,4 +45,10 @@ Strengths
 Opportunities
 - Present per capita meat consumption in India is increasing day by day, therefore there is large scope for poultry farming.
 - Besides this, India has also great potential to exploit the international market.
-- The increasing awareness of the need for balanced nutrition has led to changes in the eating habits with vegetarians accepting eggs as a par
+- The increasing awareness of the need for balanced nutrition has led to changes in the eating habits with vegetarians accepting eggs as a part of their diet compared to all other
+
+Weakness
+- Poultry farming is labor intensive.
+- A peculiar feature of poultry industry is that it is highly fragmented.
+- Poor transport, Infrastructure and lack of cold chain facilities currently limit the feasibility of handling significant volumes of chilled or frozen products.
+- Low growing charges coupled with the cost of making investments in the infrastructure such as sheds, feeders, breeders, 
