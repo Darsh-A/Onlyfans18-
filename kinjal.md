@@ -17,4 +17,10 @@ Feeds
 Company will provides feeds require to birds on contract basis.
 
 Medicine & Veterinary Aid
-The person who will be looking after the day-to-day management of the farm is conversant wi
+The person who will be looking after the day-to-day management of the farm is conversant with the use of medicines. In cases of need, the sick birds will be taken to the disease investigation laboratory located in town. For various operations like vaccination, debeaking etc. a poultry specialist visits the area at regular intervals.
+
+
+
+CHAPTER 3
+Market Potential
+"India is one of the fastest growing pultry "
