@@ -39,4 +39,10 @@ Strengths
 - Poultry is one of the most efficient converters of plant products / waste into edible food that can in some measure tackle the problem of malnutrition especially in a country like India.
 - Unlike other meat (beef, pork) which have religious taboos-chicken is widely accepted in India and is cheaper than goat meat.
 - Poultry litter has high manure value and can be used in agriculture activities.
-- It has tremendous potential to create non - farm employment and check migration from rural to urban r
+- It has tremendous potential to create non - farm employment and check migration from rural to urban areas.
+- Generates relatively quick returns in low investment requirements
+
+Opportunities
+- Present per capita meat consumption in India is increasing day by day, therefore there is large scope for poultry farming.
+- Besides this, India has also great potential to exploit the international market.
+- The increasing awareness of the need for balanced nutrition has led to changes in the eating habits with vegetarians accepting eggs as a par
