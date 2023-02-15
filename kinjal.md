@@ -52,4 +52,8 @@ Weakness
 - A peculiar feature of poultry industry is that it is highly fragmented.
 - Poor transport, Infrastructure and lack of cold chain facilities currently limit the feasibility of handling significant volumes of chilled or frozen products.
 - Low growing charges coupled with the cost of making investments in the infrastructure such as sheds, feeders, breeders, heating and cooling systems result in a low income for farmers.
-- The stringent mortality norms (only 5% mortality is permitted in most integration contracts - else the farmer gets penalized and is f)
+- The stringent mortality norms (only 5% mortality is permitted in most integration contracts - else the farmer gets penalized and is offered a lower rate) leaves the farmers in a vulnerable position and with no avenue to voice their grievances.
+
+Threats
+- Natural calamities 
+- If adequate health precautions are not taken infectious/contagious diseases can be spread. The recent avian flu has spread a wave of panic across the globe. The other aspects that have dragged the poultry industry are the recent SARS and Ebola and also the older diseases like tuber
