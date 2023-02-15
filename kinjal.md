@@ -56,4 +56,6 @@ Weakness
 
 Threats
 - Natural calamities 
-- If adequate health precautions are not taken infectious/contagious diseases can be spread. The recent avian flu has spread a wave of panic across the globe. The other aspects that have dragged the poultry industry are the recent SARS and Ebola and also the older diseases like tuber
+- If adequate health precautions are not taken infectious/contagious diseases can be spread. The recent avian flu has spread a wave of panic across the globe. The other aspects that have dragged the poultry industry are the recent SARS and Ebola and also the older diseases like tuberculosis and malaria
+- Shortage in major feed ingredients ie, maize, which constitutes more than 50% of feed rations. Therefore, even a small increase in costs can wipe out the profits.
+
