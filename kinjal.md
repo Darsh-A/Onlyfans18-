@@ -26,5 +26,9 @@ Market Potential
 
 India is one of the fastest growing poultry feed markets in the world. Growing population, changes in food consumption habits, increasing consumptions of poultry products, etc. are some of the key reasons driving poultry feed markets in India. With the rise of middle class and increased urbanization, a major population prefers to go for non-vegetation.
 
-1 billion+ population with per capita income increase of 5-6% annually make India a very large market. Most economical source of animal protein without any religious taboo. 80% of egg & poultry meat is targeting 30% urban India - vast untapped potential. With rapid urbanization, and increasing demand from the present 250 million economically strong, future is only bright for the poultry 
+1 billion+ population with per capita income increase of 5-6% annually make India a very large market. Most economical source of animal protein without any religious taboo. 80% of egg & poultry meat is targeting 30% urban India - vast untapped potential. With rapid urbanization, and increasing demand from the present 250 million economically strong, future is only bright for the poultry sector in India.
+
+The domestic market has displayed increasing buoyancy, owing to a growing rural market based on lower feed and poultry prices in the sector. A growing rural market and awareness of new technologies and specialized methodologies and techniques also boosted market growth and reduced wastage. Among the meats analyzed in the region, poultry consumption is shown to be the most responsive to income and to have the strongest statistical relationship with income.
+
+
 
