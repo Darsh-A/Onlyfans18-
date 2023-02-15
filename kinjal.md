@@ -23,4 +23,4 @@ The person who will be looking after the day-to-day management of the farm is co
 
 CHAPTER 3
 Market Potential
-"India is one of the fastest growing pultry "
+"ndia is one of the fastest growing poultry feed markets in the world. Growing population, changes in food consumption habits, increasing consumptions of poultry products, etc. are some of the key reasons driving poultry feed markets in India. With the rise of middle class and increased urbanization, a major population prefers to go for non-vegetation"
