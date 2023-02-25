@@ -6,10 +6,11 @@ It is understood that to use this plugin you require a backup of your vault on G
 ### Key Features
 - Checks which file is worked on right now and by whom
 - Personalized with each members Github Usernames
-- Alerts like Notices and Status Bar  for active files
+- Alerts like Notices and Status Bar for active files
 - Fully Customizable UI giving you full control of the alerts and messages
 
 ## Authentication
 
 You need the `token`, `username` and `repository name` of the owner of the repository.
-without these two the plugin cant work
+without these two the plugin cant work.
+
