@@ -11,6 +11,6 @@ It is understood that to use this plugin you require a backup of your vault on G
 
 ## Authentication
 
-You need the `token`, `username` and `repository name` of the owner of the repository.
-without these two the plugin cant work.
+You need the `token`, `username` of the owner of the repository and `repository name`,
+without these the plugin cant work.
 
