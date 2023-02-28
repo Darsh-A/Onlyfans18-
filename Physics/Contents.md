@@ -36,4 +36,6 @@ Sheet Edition: [Purcell and Morin](https://physicaeducator.files.wordpress.com/2
 
 ### Electrostatics
 - [[1.]]
+
+
 ## PHY112
