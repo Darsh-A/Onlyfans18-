@@ -1,3 +1,4 @@
+# Symmetry
 # Group Theory
 
 [[0.Theorems]] 
@@ -112,9 +113,8 @@
 > [[7. Linear Independence#Image|Image]]
 > [[7. Linear Independence#Kernel|Kernel]]
 
-
-
-
+---------
+# Analysis in One Variable
 
 
 
