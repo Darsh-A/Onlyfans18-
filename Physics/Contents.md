@@ -1,4 +1,6 @@
-## Sem 1
+# Mechanics
+
+## PHY101
 - [[Central Force and Inverse Square Law Force]]
 - [[Centrifugal and Coriolis Forces]]
 - [[Conservation of Energy]]
@@ -13,9 +15,9 @@
 - [[Lorentz Transformations]]
 - [[Phase Space]]
 - [[Polar Coordinate System]]
-	- [[Relativistic Kinematics]]
+- [[Relativistic Kinematics]]
 
-2. PHY102
+# Electrodynamics and Magnetism
 	
 ```ad-note
 title: Books To Follow
