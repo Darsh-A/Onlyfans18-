@@ -17,6 +17,8 @@
 - [[Polar Coordinate System]]
 - [[Relativistic Kinematics]]
 
+## PHY111
+
 # Electrodynamics and Magnetism
 	
 ```ad-note
@@ -27,3 +29,11 @@ Kshitish Edition: [D.J. Griffiths](https://himafi.fmipa.unej.ac.id/wp-content/up
 Sheet Edition: [Purcell and Morin](https://physicaeducator.files.wordpress.com/2017/11/electricity_and_magnetism-by-purcell-3ed-ed.pdf)
 ```
 
+## PHY102
+
+### Mathematics
+- [[0. Vector Calculus]]
+
+### Electrostatics
+- [[1.]]
+## PHY112
