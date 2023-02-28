@@ -14,4 +14,8 @@
 	- [[Phase Space]]
 	- [[Polar Coordinate System]]
 	- [[Relativistic Kinematics]]
-	- [[Rigid Body Dynamics]]
+
+2. PHY102
+	title: Books To Follow
+	color: 105,164,92
+	Kshitish Edition: [Introduction to Electrodynamics by D]
