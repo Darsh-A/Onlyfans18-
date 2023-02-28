@@ -1,5 +1,6 @@
 # Symmetry
-# Group Theory
+
+## Group Theory
 
 [[0.Theorems]] 
 > List of all Theorems in the course
@@ -65,7 +66,7 @@
 
 ---
 
-# Linear Algebra
+## Linear Algebra
 
 [[1. Solving Linear Equations]]
 > [[1. Solving Linear Equations#Understanding the method: | Understanding the Method]]
@@ -114,7 +115,12 @@
 > [[7. Linear Independence#Kernel|Kernel]]
 
 ---------
+
 # Analysis in One Variable
+
+title: Books to follow
+color: 250,140,36
+[Methods of Real Analysis by R. R. Goldberg](https://alansinyal.files.wordpress.com/2012/08/method-of-real-analysis.pdf)
 
 
 
