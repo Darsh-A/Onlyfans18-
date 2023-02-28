@@ -22,6 +22,6 @@ title: Books To Follow
 color: 105,164,92
 Kshitish Edition: [D.J. Griffiths](https://himafi.fmipa.unej.ac.id/wp-content/uploads/sites/16/2018/09/Introduction-to-Electrodinamic.pdf)
 
-Sheet Edition: [Purcell and Morin]()
+Sheet Edition: [Purcell and Morin](https://physicaeducator.files.wordpress.com/2017/11/electricity_and_magnetism-by-purcell-3ed-ed.pdf)
 ```
-gr
+
