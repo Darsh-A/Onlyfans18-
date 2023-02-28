@@ -20,7 +20,7 @@
 ```ad-note
 title: Books To Follow
 color: 105,164,92
-Kshitish Edition: [D.J. Griffiths]()
+Kshitish Edition: [D.J. Griffiths](https://himafi.fmipa.unej.ac.id/wp-content/uploads/sites/16/2018/09/Introduction-to-Electrodinamic.pdf)
 
 Sheet Edition: [Purcell and Morin]()
 ```
