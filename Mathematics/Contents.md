@@ -120,8 +120,10 @@
 
 ```ad-note
 title: Books to follow
-color: 250,140,36
+color: 0,255,255
 [Methods of Real Analysis by R. R. Goldberg](https://alansinyal.files.wordpress.com/2012/08/method-of-real-analysis.pdf)
+
+![PDf](https://alansinyal.files.wordpress.com/2012/08/method-of-real-analysis.pdf)
 ```
 
 ## Real Number System
