@@ -9,10 +9,12 @@
 
 # Gene Expression
 
+```ad-note
 title: Books to follow
 color: 0, 255, 255
 
-Just follow [Campbell](https://download.sberdisk.ru/download/file/419840166?token=knj6yDjoKA9nFWB&filename=%5BMedicalstudyzone.com%5D%20Campbell%20Biology%2C%2012th%20Edition.pdf) 
+Just follow [Campbell](https://download.sberdisk.ru/download/file/419840166?token=knj6yDjoKA9nFWB&filename=%5BMedicalstudyzone.com%5D%20Campbell%20Biology%2C%2012th%20Edition.pdf), why are you looking for an alternative ಠ⁠_⁠ಠ
+```
 
 ```ad-note
 title: Marking Schemes
