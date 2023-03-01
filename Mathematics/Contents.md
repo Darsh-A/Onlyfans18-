@@ -124,6 +124,12 @@ color: 0,255,255
 [Methods of Real Analysis by R. R. Goldberg](https://alansinyal.files.wordpress.com/2012/08/method-of-real-analysis.pdf)
 ```
 
+```ad-note
+title: Mark Schemes 
+color: 255,0,255
+Quiz: 10
+Mid-Sem: 
+```
 ## Real Number System
 
 ## Sequences and Limits
