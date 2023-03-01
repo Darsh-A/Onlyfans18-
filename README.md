@@ -47,6 +47,3 @@ $\tensorTwo{a}$: `\tensorTwo{a}`
 - Omnisearch
 - Better PDF Plugin
 
-
-
-
