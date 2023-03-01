@@ -11,6 +11,11 @@
 
 # Gene Expression
 
+title: Books to follow
+color: 0, 255, 255
+
+Follow Campbell ;D
+Campbell: 
 
 ```ad-note
 title: Marking Schemes
@@ -22,7 +27,5 @@ Mid-Sems: 30
 
 End-Sems: 60
 
-Creative Expression: 5
-
-Just be creative lel
+Creative Expression (Bonus Marks): 5
 ```
