@@ -11,11 +11,18 @@
 
 # Gene Expression
 
+
 ```ad-note
 title: Marking Schemes
 color: 255,0,255
 
 Surprise Quizzes: 10
+
 Mid-Sems: 30
+
 End-Sems: 60
+
+Creative Expression: 5
+
+Just be creative lel
 ```
