@@ -1,8 +1,16 @@
-1. CHM101
-	- [[1. Tables and Classification]]
-	- [[3. Periodic Trends of Atomic Size]]
+# Sem I
 
-# Atoms and Symmetry
+## Classification of Elements
+
+- [[1. Tables and Classification]]
+- [[3. Periodic Trends of Atomic Size]]
+
+## CHM111
+- [[Chem111_Reactions.pdf]]
+- [[CHM111_Lab_basic radicals-final.pdf]]
+
+# Sem II
+## Atoms and Symmetry
 
 ```ad-note
 title: Books to follow
@@ -32,3 +40,5 @@ Mid-Sem II (First Week of May): 20
 End-Sems: 60
 
 ```
+
+##
