@@ -131,13 +131,16 @@ title: Mark Schemes
 color: 255,0,255
 
 No step marking.
-\n
-Mid-Sem: 
 
-End Sems:
+Assignments: 10
 
-Quizzes:
+Quizzes: 30
+
+Mid-Sem: 20
+
+End Sems: 40
 ```
+
 ## Real Number System
 
 ## Sequences and Limits
