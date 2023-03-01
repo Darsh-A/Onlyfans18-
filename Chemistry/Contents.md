@@ -16,7 +16,7 @@ Quantum Chemistry: [D.A. McQuarrie and J.D. Simon](https://elearning.raghunathpu
 title: Marking Scheme
 color: 255, 0, 255
 
-Quizzes: 
+Quizzes: HEHEHEHEHE
 
 Assignments: 
 
