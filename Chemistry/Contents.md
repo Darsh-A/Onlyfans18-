@@ -6,9 +6,18 @@
 
 ```ad-note
 title: Books to follow
-Physical Chemistry: [P. Atkins and J de Paula]()
+
+### Instructor Recommended
 
 Quantum Chemistry: [D.A. McQuarrie and J.D. Simon](https://elearning.raghunathpurcollege.ac.in/files/F814BC5915875384820.pdf)
+
+Quantum Chemistry: [Levine]()
+
+------
+
+### Course Structure Recommended
+
+Physical Chemistry: [P. Atkins and J de Paula]()
 
 ```
 
@@ -23,5 +32,3 @@ Mid-Sem II (First Week of May): 20
 End-Sems: 60
 
 ```
-
-
