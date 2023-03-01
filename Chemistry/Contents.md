@@ -16,13 +16,11 @@ Quantum Chemistry: [D.A. McQuarrie and J.D. Simon](https://elearning.raghunathpu
 title: Marking Scheme
 color: 255, 0, 255
 
-Quizzes: 
+Mid-Sem I (First Week of April): 20
 
-Assignments: 
+Mid-Sem II (First Week of May): 20
 
-Mid-Sems: 
-
-End-Sems:
+End-Sems: 60
 
 ```
 
