@@ -32,7 +32,7 @@ Sheet Edition: [Purcell and Morin](https://physicaeducator.files.wordpress.com/2
 ## PHY102
 
 ### Mathematics
-- [[0. Vector Calculus]]
+- [[1. Vector Calculus]]
 
 ### Electrostatics
 - [[1.]]
