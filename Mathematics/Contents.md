@@ -121,14 +121,22 @@
 ```ad-note
 title: Books to follow
 color: 0,255,255
-[Methods of Real Analysis by R. R. Goldberg](https://alansinyal.files.wordpress.com/2012/08/method-of-real-analysis.pdf)
+Course Structure Recommended: [Methods of Real Analysis by R. R. Goldberg](https://alansinyal.files.wordpress.com/2012/08/method-of-real-analysis.pdf)
+
+Instructor Recommended: [Kenneth and Ross]()
 ```
 
 ```ad-note
 title: Mark Schemes 
 color: 255,0,255
-Quiz: 10
+
+No step marking.
+\n
 Mid-Sem: 
+
+End Sems:
+
+Quizzes:
 ```
 ## Real Number System
 
