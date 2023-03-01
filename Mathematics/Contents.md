@@ -123,7 +123,7 @@ title: Books to follow
 color: 0,255,255
 Course Structure Recommended: [Methods of Real Analysis by R. R. Goldberg](https://alansinyal.files.wordpress.com/2012/08/method-of-real-analysis.pdf)
 
-Instructor Recommended: [Kenneth A. Ross]()
+Instructor Recommended: [Kenneth A. Ross](https://piazza.com/class_profile/get_resource/ixbzgb46cf85ri/j0eaxrf238r4rl)
 ```
 
 ```ad-note
