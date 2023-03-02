@@ -144,6 +144,14 @@ End Sems: 40
 
 ## Real Number System
 
+[[1. Number System]]
+> [[1. Number System#Mathematical Induction|Mathematical Induction]]
+> [[1. Number System#Rational Zeros Theorem|Rational Zeros Theorem]]
+
+
+
+
+
 ## Sequences and Limits
 
 ## Calculus
