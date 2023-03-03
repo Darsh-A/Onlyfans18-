@@ -48,4 +48,3 @@ $\vector{a}$: `\vector{a}`
 ## Good For Specific Tasks
 - Omnisearch
 - Better PDF Plugin
-
