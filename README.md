@@ -32,6 +32,7 @@ $\tensorTwo{a}$: `\tensorTwo{a}`
 ## List of cool plugins:
 
 ## Necessary
+- Git Collab
 - Admonitions
 - Imgur Plugin
 - Obsidian Git
