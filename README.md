@@ -22,9 +22,8 @@ $\catBlue{\text{Blue}}$: `\catBlue{}`
 ### Just Fancy Symbols
 
 $\Zbar$ : `\Zbar`
-
+$\zbar$: `\zbar`
 $\dgoes {a}$   : `\dgoes {}`
-
 
 ### Physics
 $\tensorTwo{a}$: `\tensorTwo{a}`
