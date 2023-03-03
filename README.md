@@ -29,6 +29,7 @@ $\dgoes {a}$   : `\dgoes {}`
 ### Physics
 $\tensorTwo{a}$: `\tensorTwo{a}`
 $\unitVector{a}$: `\unitvector{a}`
+$\vector{a}$: `\vector{a}`
 
 ## List of cool plugins:
 
