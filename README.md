@@ -17,7 +17,7 @@ $\catMaroon{\text{Maroon}}$: `\catMaroon{}`
 $\catLavender{\text{Lavender}}$: `\catLavender{}`
 $\catBlue{\text{Blue}}$: `\catBlue{}`
 
-## Custom Latex Commands:
+## Custom Latex Co`mmands:
 
 ### Just Fancy Symbols
 
