@@ -28,7 +28,7 @@ $$
 
 #### Solutions 
 
-$$\Psi(x)=A\cos kx+B\sin kx$$
+$$\blue \Psi(x)=A\cos kx+B\sin kx$$
 
 **According to boundary conditions,**
 
@@ -51,7 +51,7 @@ Also, $k^2=\frac{2mE}{\bar{h}^2}$
 $$
 \begin{align}
 \left( \frac{n\pi}{l} \right)^2=\frac{2mE}{\bar{h^2}} \\ \\
-E=\frac{n^2h^2}{8ml^2}
+\blue E=\frac{n^2h^2}{8ml^2}
 \end{align}
 $$
 
