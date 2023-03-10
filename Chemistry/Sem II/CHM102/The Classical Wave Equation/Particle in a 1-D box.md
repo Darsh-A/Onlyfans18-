@@ -35,11 +35,13 @@ $$\Psi(x)=A\cos kx+B\sin kx$$
 >$\Psi(x=0)=0 \Rightarrow A=0$
 >
 >$\Psi(x=l)=0 \Rightarrow B\sin kl=0$
->	$$B \sin kl\begin{cases} B=0\:\text{and}\:A=0, \text{trivial solution} \\
-\sin kl=0 \Rightarrow kl=n\pi \begin{cases}
-n=0, trivial solutiom
+>	$$B \sin kl=\begin{cases} B=0\:\text{and}\:A=0, \text{trivial solution} \\
+\sin kl=0 \Rightarrow kl=n\pi;\:\:n=\begin{cases}
+n=0, \text{trivial solution} \\
+n\neq 0
 \end{cases}
 \end{cases}$$
->
+
+
 
 
