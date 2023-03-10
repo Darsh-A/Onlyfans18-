@@ -48,3 +48,10 @@ $\blue\Psi(x)=B \sin kl$  where  $\blue{k=\frac{n\pi}{l}}$ and $\purp n=1,2,3,\d
 
 Also, $k^2=\frac{2mE}{\bar{h}^2}$
 
+$$
+\begin{align}
+\left( \frac{n\pi}{l} \right)^2=\frac{2mE}{\bar{h^2}} \\ \\
+E=\frac{n^2h^2}{8ml^2}
+\end{align}
+$$
+
