@@ -35,7 +35,7 @@ $$\blue \Psi(x)=A\cos kx+B\sin kx$$
 >$\Psi(x=0)=0 \Rightarrow A=0$
 >
 >$\Psi(x=l)=0 \Rightarrow B\sin kl=0$
->	$$\blue B \sin kl=\begin{cases} \red B=0\:\text{and}\:A=0, \text{trivial solution} \\  {\color{#77DD77}
+>	$$B \sin kl=\begin{cases} \red B=0\:\text{and}\:A=0, \text{trivial solution} \\  {\color{#77DD77}
 \sin kl=0 \Rightarrow kl=n\pi}\:;\:\:n=\begin{cases}\red
 n=0, \text{trivial solution} \\  \color{#77DD77}
 n\neq 0
