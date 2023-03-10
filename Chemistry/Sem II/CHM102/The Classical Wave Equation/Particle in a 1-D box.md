@@ -72,5 +72,8 @@ E_{n}=n^2 \cdot \frac{h^2}{8ml^2}\:;\:n=1,2,3,\dots
 | $E_{1}=\frac{h^2}{8ml^2}$    | $\Psi_{1}(x)=B\sin\left( \frac{\pi}{l} \right)x$ |
 | $E_{2}=\frac{4h^2}{8ml^2}$   | $\Psi_{2}(x)=B\sin(\frac{2\pi}{l})x$             |
 | $E_{3}=\frac{9h^2}{8ml^2}$   | $\Psi_{3}(x)=B\sin(\frac{3\pi}{l})x$             |
-| $\vdots$                     | \vdots                                           |
-| $E_{n}=\frac{n^2h^2}{8ml^2}$ | $\Psi$                                                 |
+| $\vdots$                     | $\vdots$                                          |
+| $E_{n}=\frac{n^2h^2}{8ml^2}$ | $\Psi_{n}(x)=B\sin(\frac{n\pi}{l})x$                                                 |
+
+**Note:**
+Each state is associated with an observable energy
