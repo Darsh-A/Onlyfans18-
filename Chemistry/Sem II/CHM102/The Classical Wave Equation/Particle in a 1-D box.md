@@ -13,6 +13,7 @@ where,
 $m$ is the mass of the particle 
 $E$ is the energy 
 >$PE$ need not be taken into account as particle experiences no external force and undergoes no other interaction. Therefore, $PE=\text{constant}=0$  
+>**Note:** For any quantum mechanical state, energy is an observable
 
 and $\bar{h}=\frac{h}{2\pi}$ 
 
@@ -59,9 +60,8 @@ $$
 
 #### Conclusion 
 
-$$\partial^2 \Psi(x)\begin{cases}
-\begin{align}
+$$\frac{\partial^2\Psi(x)}{\partial x^2}+k^2\Psi(x) \text{  is satisfied by}\begin{cases}
+
 \Psi_{n}(x)= B\sin\left( \frac{n\pi}{l} \right)x  \\ \\
-E_{n}=n^2 \cdot \frac{h^2}{8ml^2} \\ \\
-n=1,2,3,\dots
-\end{align}\end{cases}$$
+E_{n}=n^2 \cdot \frac{h^2}{8ml^2}\:;\:n=1,2,3,\dots
+\end{cases}$$
