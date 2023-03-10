@@ -67,11 +67,6 @@ E_{n}=n^2 \cdot \frac{h^2}{8ml^2}\:;\:n=1,2,3,\dots
 \end{cases}$$
 
 
-$$
-\begin{align}
-E_{1}=\frac{h^2}{8ml^2} \rightarrow \quad \Psi_{1}(x)=B\sin\left( \frac{\pi}{l} \right)x \\ \\
-E_{2}=\frac{4h^2}{8ml^2} \rightarrow \quad\Psi_{2}(x)=B\sin\left( \frac{2\pi}{l} \right)x \\ \\
-E_{3}=\frac{9h^2}{8ml^2} \rightarrow \quad\Psi_{3}(x)=B\sin\left( \frac{3\pi}{l} \right)x \\ \\
-\vdots\qquad\qquad\qquad\qquad\qquad\quad\quad\quad\quad\vdots\quad\quad
-\end{align}
-$$
+| Energy | State |
+| ------ | ----- |
+| $E_{1}=\frac{h^2}{8ml^2}$       |       |
