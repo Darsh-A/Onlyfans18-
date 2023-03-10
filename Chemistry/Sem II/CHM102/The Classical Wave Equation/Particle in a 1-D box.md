@@ -23,8 +23,8 @@ $$
 \frac{\partial^2\Psi(x)}{\partial x^2}+k^2\Psi(x)=0
 $$
 
-1. $\blue \Psi(x=0)=0$
-2. $\blue \Psi(x=l)=0$ 
+1. $\Psi(x=0)=0$
+2. $\Psi(x=l)=0$ 
 
 
 #### Solutions 
@@ -75,5 +75,8 @@ E_{n}=n^2 \cdot \frac{h^2}{8ml^2}\:;\:n=1,2,3,\dots
 | $\vdots$                     | $\vdots$                                          |
 | $E_{n}=\frac{n^2h^2}{8ml^2}$ | $\Psi_{n}(x)=B\sin(\frac{n\pi}{l})x$                                                 |
 
+
 **Note:**
 Each state is associated with an observable energy
+
+
