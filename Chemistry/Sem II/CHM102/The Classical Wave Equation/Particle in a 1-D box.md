@@ -59,7 +59,9 @@ $$
 
 #### Conclusion 
 
-$$\begin{align}
-\Psi_{n}(x)= B\sin\left( \frac{n\pi}{l} \right)x  \\
-E_{n}=n^2 \cdot h^2
-\end{align}$$
+$$\partial^2 \Psi(x)\begin{cases}
+\begin{align}
+\Psi_{n}(x)= B\sin\left( \frac{n\pi}{l} \right)x  \\ \\
+E_{n}=n^2 \cdot \frac{h^2}{8ml^2} \\ \\
+n=1,2,3,\dots
+\end{align}\end{cases}$$
