@@ -35,7 +35,7 @@ $$\Psi(x)=A\cos kx+B\sin kx$$
 >$\Psi(x=0)=0 \Rightarrow A=0$
 >
 >$\Psi(x=l)=0 \Rightarrow B\sin kl=0$
->	$$B \sin kl=\begin{cases} \red B=0\:\text{and}\:A=0, \text{trivial solution} \\  {\color{#77DD77}
+>	$$\blue B \sin kl=\begin{cases} \red B=0\:\text{and}\:A=0, \text{trivial solution} \\  {\color{#77DD77}
 \sin kl=0 \Rightarrow kl=n\pi}\:;\:\:n=\begin{cases}\red
 n=0, \text{trivial solution} \\  \color{#77DD77}
 n\neq 0
@@ -44,5 +44,7 @@ n\neq 0
 
 Therefore, 
 
-$\blue\Psi(x)=B \sin kl$  where  $\red{k=\frac{n\pi}{l}}$ and $\purp n=1,2,3,\dots$
+$\blue\Psi(x)=B \sin kl$  where  $\blue{k=\frac{n\pi}{l}}$ and $\purp n=1,2,3,\dots$
+
+Also, $k^2=\frac{2mE}{\bar{h}^2}$
 
