@@ -7,7 +7,7 @@ $$
 
 where, 
 $$
-k^2=\frac{2mE}{\bar{h}^2}
+\blue k^2=\frac{2mE}{\bar{h}^2}
 $$
 where, 
 $m$ is the mass of the particle 
@@ -22,8 +22,8 @@ $$
 \frac{\partial^2\Psi(x)}{\partial x^2}+k^2\Psi(x)=0
 $$
 
-1. $\Psi(x=0)=0$
-2. $\Psi(x=l)=0$ 
+1. $\blue \Psi(x=0)=0$
+2. $\blue \Psi(x=l)=0$ 
 
 
 #### Solutions 
