@@ -12,4 +12,7 @@ $$
 where, 
 $m$ is the mass of the particle 
 $E$ is the energy 
-and $\bar{h}$
+>$PE$ need not be taken into account as particle experiences no external force and undergoes no other interaction. 
+
+and $\bar{h}=\frac{h}{2\pi}$ 
+
