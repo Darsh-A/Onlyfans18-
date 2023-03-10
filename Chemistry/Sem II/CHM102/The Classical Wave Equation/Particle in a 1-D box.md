@@ -35,5 +35,9 @@ $$\Psi(x)=A\cos kx+B\sin kx$$
 >$\Psi(x=0)=0 \Rightarrow A=0$
 >
 >$\Psi(x=l)=0 \Rightarrow B\sin kl=0$
+>	$$B \sin kl\begin{cases} \\
+
+\end{cases}$$
+>
 
 
