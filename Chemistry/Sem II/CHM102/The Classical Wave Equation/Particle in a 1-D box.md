@@ -70,6 +70,6 @@ E_{n}=n^2 \cdot \frac{h^2}{8ml^2}\:;\:n=1,2,3,\dots
 $$
 \begin{align}
 E_{1}=\frac{h^2}{8ml^2} \rightarrow \quad \Psi_{1}(x)=B\sin\left( \frac{\pi}{l} \right)x \\ \\
-E_{2}=4h^2
+E_{2}=\frac{4h^2}{8ml^2}
 \end{align}
 $$
