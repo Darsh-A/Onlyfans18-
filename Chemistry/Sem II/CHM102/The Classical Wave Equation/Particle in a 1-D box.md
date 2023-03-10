@@ -60,6 +60,6 @@ $$
 #### Conclusion 
 
 $$\begin{align}
-\Psi(x)=B\sin kx \\ \\
-= B\sin\left( \frac{n\pi}{l} \right)x
+\Psi_{n}(x)= B\sin\left( \frac{n\pi}{l} \right)x  \\
+E_{n}=n^2 \cdot h^2
 \end{align}$$
