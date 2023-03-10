@@ -61,5 +61,5 @@ $$
 
 $$\begin{align}
 \Psi(x)=B\sin kx \\
-=B\sin\left( \frac{n\pi}{l} \right)x
+ =B\sin\left( \frac{n\pi}{l} \right)x
 \end{align}$$
