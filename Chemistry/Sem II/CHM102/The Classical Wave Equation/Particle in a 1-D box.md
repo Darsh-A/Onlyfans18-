@@ -19,5 +19,10 @@ and $\bar{h}=\frac{h}{2\pi}$
 #### Boundary Conditions 
 
 $$
-\frac{\partial^2\Psi}{\partial x^2}+k^2|\Psi(x)
+\frac{\partial^2\Psi(x)}{\partial x^2}+k^2\Psi(x)=0
 $$
+
+1. $\Psi(x=0)=0$
+2. $\Psi(x=l)=0$ 
+
+
