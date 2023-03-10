@@ -44,4 +44,5 @@ n\neq 0
 
 Therefore, 
 
-$\Psi(x)=B \sin kl$    $k=\frac{n\pi}{l$
+$\blue\Psi(x)=B \sin kl$  where  $\red{k=\frac{n\pi}{l}}$ and $n=1,2,3,\dots$
+
