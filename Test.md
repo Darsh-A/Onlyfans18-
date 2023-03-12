@@ -1,5 +1,0 @@
-
-ghj
-yuk
-yyiyuiy
-yuikutyityt
