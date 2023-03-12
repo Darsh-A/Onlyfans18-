@@ -1,8 +1,3 @@
-sdfsdf
-sdf
-sfsf
+( I )
 
 
-sdfsdf
-
-( I )( III )( II )( V )( IV )( VII )( VI )( I )( VIII )
