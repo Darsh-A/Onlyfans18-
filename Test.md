@@ -1,4 +1,1 @@
-d( I )  asdfsdfsdfdfdfd
-dfgd
-dfgd
-( IV )( IV )( IV )( IV )( IV )( IV )( I )dfgdf
+( I )( IV )( IV )( IV )( IV )( IV )
