@@ -1,11 +1,4 @@
-sdfsdf
 sdf
-sd
 sdf
-
-
-
-sdfsdf
 sdf
-( I )sdf( I )
-sdfsdf( I )( I )sdsdfsdfsdf( I )
+( I )sdfsdf( I )( I )sdfasd( I )( I )qwrssdfsdfsdfsdfsdfsdfsdf( I )
