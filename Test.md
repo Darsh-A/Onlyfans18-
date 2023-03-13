@@ -1,2 +1,3 @@
-( I )( LXIII )( LXII )
-( I )( LXV )( LXIV )( LXVII )( LXVI )( LXIX )( LXVIII )( LXXI )( LXX )( LXXIII )( LXXII )( LXXV )( LXXIV )( LXXVII )( LXXVI )( LXXIX )( LXXVIII )( LXXXI )( LXXX )
+( I )( II )( I )( IV )( III )( VI )( V )( VIII )( VII )( X )( IX )( XII )( XI )( XIV )( XIII )( XVI )( XV )( XVIII )( XVII )( XX )( XIX )( XXII )( XXI )
+
+( I )( II )( I )( IV )( III )( VI )( V )( VIII )( VII )( X )( IX )( XII )( XI )( XIV )( XIII )( XVI )( XV )( XVIII )( XVII )( XX )( XIX )
