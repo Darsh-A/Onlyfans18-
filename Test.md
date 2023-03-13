@@ -1,7 +1,16 @@
-( I )( II )( I )( IV )( III )( VI )( V )( VII )
 
 
 
 
+sswwfwfwefwefwefwef
 
+w
+w
+wwwwww
 
+w
+w
+we
+wfe
+e
+wefwefwwfwfewe
