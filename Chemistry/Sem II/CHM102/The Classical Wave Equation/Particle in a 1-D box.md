@@ -46,16 +46,12 @@ Therefore,
 $\blue\Psi(x)=B \sin kl$  where  $\blue{k=\frac{n\pi}{l}}$ and $\purp n=1,2,3,\dots$
 
 Also, $k^2=\frac{2mE}{\bar{h}^2}$
-
 $$
 \begin{align}
 \left( \frac{n\pi}{l} \right)^2=\frac{2mE}{\bar{h^2}} \\ \\
 \blue E=\frac{n^2h^2}{8ml^2}
 \end{align}
 $$
-
-
-
 #### Conclusion 
 
 $$\frac{\partial^2\Psi(x)}{\partial x^2}+k^2\Psi(x) \text{  is satisfied by}\begin{cases}
@@ -63,8 +59,6 @@ $$\frac{\partial^2\Psi(x)}{\partial x^2}+k^2\Psi(x) \text{  is satisfied by}\beg
 \Psi_{n}(x)= B\sin\left( \frac{n\pi}{l} \right)x  \\ \\
 E_{n}=n^2 \cdot \frac{h^2}{8ml^2}\:;\:n=1,2,3,\dots
 \end{cases}$$
-
-
 $$
 \begin{align}
 E_{1}=\frac{h^2}{8ml^2} \rightarrow \quad \Psi_{1}(x)=B\sin\left( \frac{\pi}{l} \right)x \\ \\
