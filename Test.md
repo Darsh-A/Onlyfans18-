@@ -1,1 +1,20 @@
-( I )( II )( I )( IV )( III )( VI )( V )( VIII )( VII )( X )( IX )( XII )( XI )( XIII )
+w
+w
+w
+w
+
+d
+f
+w
+
+s
+dfdda
+
+ssdf
+adfsd
+
+sdf
+asdf
+sf
+
+
