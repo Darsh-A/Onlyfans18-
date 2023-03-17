@@ -1,12 +1,14 @@
-w
-w
-w
-w
+wi
+wikj
 
-d
-f
-w
 
+w
+iow
+i
+id
+if
+iw
+i
 s
 dfdda
 
