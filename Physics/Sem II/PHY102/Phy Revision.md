@@ -8,4 +8,4 @@
 		- Spherical Symmetry
 		- Cylindrical Symmetry
 		- Plane Symmetry
-	- [ ] 
+2. 
