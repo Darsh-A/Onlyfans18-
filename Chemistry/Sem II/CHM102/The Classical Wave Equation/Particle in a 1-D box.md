@@ -138,5 +138,5 @@ B^2 \int_{0}^{l}\sin^2\left( \frac{n\pi}{l} \right)x \, dx \\
 B=\pm \sqrt{ \frac{2}{l} }\:\:\:\:\:\:\:\: 
 \end{align}
 $$
-
-*Normalised State*: $$
+$\sqrt{ \frac{2}{l} }$
+*Normalised State(convention)*: $\psi_{n}(x)=\sqrt{ \frac{2}{l} }\sin(\frac{n\pi}{l})x$ 
