@@ -203,3 +203,9 @@ $*\:\:\purp{\text{Basis functions are othogonal}}$
 
 
 ###### Example:
+$\Phi=c_{1}\phi_{1}+c_{2}\phi_{2}$
+$\Phi^*=c_{1}^*\phi^* + c_{2}^*\phi_{2}^*$ 
+
+$$
+\int \Phi \Phi^* \, dx= \int  \, dx  
+$$
