@@ -85,4 +85,10 @@ $$\psi(x)=Ae^{ikx} + Be^{-ikx} $$
 
 $\psi(x=0)=0\Rightarrow A+B=0\Rightarrow A=-B$ 
 
-$\psi(x=l)=A(e^{ikl}+e^{-ikl})$
+$$\psi(x=l)=A(e^{ikl}+e^{-ikl})=A(2i)\sin(kl)$$
+
+
+
+###### What is $\psi(x)$? (Max Born Interpreation)
+
+- $\psi(x)$ is the wave fuc
