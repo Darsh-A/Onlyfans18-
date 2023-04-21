@@ -148,6 +148,7 @@ $\sqrt{ \frac{2}{l} }$ is the normalisation constant
 
 - All observables are associated with *operators*
 
-| Observables | Operators |
-| ----------- | --------- |
-| K.E.        | k.          |
+| Observables | Operators    |
+| ----------- | ------------ |
+| K.E.        | $\hat{K.E.}$ |
+| Momentum    | $\hat{P_{x}},P_{y}$             |
