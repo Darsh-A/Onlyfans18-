@@ -181,6 +181,7 @@ $$
 
 ### Expectation Value of an observable 
 
+Expextation value is the wighted average of all possible eigen values 
 
 $$
 <\hat{A}>|<A>\:= \frac{{\int\hat{\psi}\:A\:\psi^{*} d\tau}}{\int \psi^{*}\:\psi \, dx }
@@ -198,4 +199,4 @@ $$
 0,\: m\neq n
 \end{cases}
 $$
-$\purp{}$
+$*\:\:\purp{\text{Basis functions are othogonal}}$
