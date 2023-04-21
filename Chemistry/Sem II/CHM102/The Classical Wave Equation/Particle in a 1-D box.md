@@ -214,3 +214,9 @@ $$
 
 $\hat{A}\phi_{n}=a\phi_{n}$
 
+$$
+\begin{align}
+<\hat{A}> = \int \Phi\: \hat{A}\: \Phi^*\, dx \\
+=c_{1}c_{1}^*a_{1} +c_{2}c_{2}^*a_{2} 
+\end{align}
+$$
