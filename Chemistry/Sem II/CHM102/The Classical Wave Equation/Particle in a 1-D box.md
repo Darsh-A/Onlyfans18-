@@ -262,5 +262,10 @@ $$
 $$\begin{align}
 
 [\hat{A},\hat{B}]f(x)=0 \\
-[\hat{A}\hat{B}-\hat{}]
+[\hat{A}\hat{B}-\hat{B}\hat{A}]f(x)=0 \\
 \end{align}$$
+$\Rightarrow$ The two operators commute
+
+- If the operators don't commute then the observable associated with them cannot be measured simultaneously
+- When operators commute, more info about the system can be found simultaneously 
+
