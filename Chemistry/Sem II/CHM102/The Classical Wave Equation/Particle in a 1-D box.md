@@ -135,6 +135,7 @@ $$
 $$
 \begin{align}
 B^2 \int_{0}^{l}\sin^2\left( \frac{n\pi}{l} \right)x \, dx \\
-B^2 \int _{0}^{l}1-\cos\left( \frac{2n\pi}{l} \right)x \, dx  
+	B^2 \int _{0}^{l} \frac{{1-\cos\left( \frac{2n\pi}{l} \right)x}}{2} \, dx   \\  \\
+B=
 \end{align}
 $$
