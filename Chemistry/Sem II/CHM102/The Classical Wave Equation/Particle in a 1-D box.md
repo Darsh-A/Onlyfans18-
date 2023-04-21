@@ -239,3 +239,6 @@ $$
 \Phi=c_{1}\phi_{1}+c_{2}\phi_{2}+\dots+c_{n}\phi_{n}
 $$
 
+$$
+P(P_{i})=\frac{c_{i}c_{i}^*}{\sum}
+$$
