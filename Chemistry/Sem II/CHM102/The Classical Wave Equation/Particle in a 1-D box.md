@@ -247,6 +247,13 @@ $$
 $$
 
 
-## Properties of $\Psi$
+### Properties of $\Psi$
 
-1. Single V
+1. Single Valued
+2. Continous 
+3. Differentiable 
+4. Square Integrable 
+
+
+### Commutators 
+
