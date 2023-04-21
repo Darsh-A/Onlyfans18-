@@ -168,7 +168,8 @@ $[-\frac{\bar{h}^2}{2m} \frac{d^2}{dx^2}]=\hat{K.E.}$
 $K.E.=\frac{P_{x}^2}{2m}$
 
 $$
-\hat{P_{x}^2}=-\bar{h}^2 \frac{d^2}{dx^{2}} \begin{cases}
-s
+\hat{P_{x}^2}=-\bar{h}^2 \frac{d^2}{dx^{2}} \Rightarrow \hat{P_{x}}=\begin{cases}
+\:\:\:ih \frac{d}{dx} \\
+-ih \frac{d}{dx}
 \end{cases}
 $$
