@@ -183,5 +183,5 @@ $$
 
 
 $$
-<\hat{A}
+<\hat{A}>|<A>\:= \frac{{\int\hat{\psi}\:A\:\psi^{*} d\tau}}{\int \psi \, dx }
 $$
