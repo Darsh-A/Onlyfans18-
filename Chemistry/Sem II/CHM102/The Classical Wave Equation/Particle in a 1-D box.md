@@ -108,9 +108,11 @@ $$
 
 
 $$\begin{align}
-\text{Energy} \rightarrow \text{Discrete} \\
+\text{Energy} \rightarrow \text{Discrete}\:\:\:\:\:\:\: \\
 \text{As}\: n\uparrow , \text{Discreteness} \rightarrow \text{Continous}
 \end{align}
 $$
+
+
 
 $$$$
