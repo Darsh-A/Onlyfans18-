@@ -124,6 +124,9 @@ $\psi_{n}(x)=B\sin (\frac{n\pi}{l})x$
 $\psi^{*}_{n}(x)=B\sin \left( \frac{n\pi}{l} \right)x$
 
 For normalisation, 
+
 $$
-\ref{limits}\int   \psi(x)\psi^{*}(x)dx 
+\begin{equation}
+\lim_{ 0 \to l }\int  \, dx  
+\end{equation}
 $$
