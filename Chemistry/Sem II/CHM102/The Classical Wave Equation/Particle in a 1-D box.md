@@ -84,6 +84,5 @@ As,  $\blue e^{i\theta}=\cos \theta +i\sin \theta$
 $$\psi(x)=Ae^{ikx} + Be^{-ikx} $$
 
 $\psi(x=0)=0\Rightarrow A+B=0\Rightarrow A=-B$ 
-$\psi(x=l)=0$
 
-Therefore, 
+$\psi(x=l)=A(e^{ikl}+e^{-ikl})$
