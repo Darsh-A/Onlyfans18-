@@ -147,9 +147,15 @@ $\sqrt{ \frac{2}{l} }$ is the normalisation constant
 ### Operators 
 
 - All observables are associated with *operators*
-
 | Observables | Operators                             |
 | ----------- | ------------------------------------- |
 | K.E.        | $\hat{K.E.}$                          |
 | Momentum    | $\hat{P_{x}},\hat{P_{y}},\hat{P_{z}}$ |
-| x,y,z       | $\hat{x},\hat{y},\hat{z}$             |
+| Position      | $\hat{x},\hat{y},\hat{z}$             |
+
+
+- All observables are nothing but eigen values 
+
+$$
+\frac{d^2\psi(x)}{dx^2}
+$$
