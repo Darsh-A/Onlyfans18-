@@ -206,6 +206,9 @@ $*\:\:\purp{\text{Basis functions are othogonal}}$
 $\Phi=c_{1}\phi_{1}+c_{2}\phi_{2}$
 $\Phi^*=c_{1}^*\phi^* + c_{2}^*\phi_{2}^*$ 
 
-$$
-\int \Phi \Phi^* \, dx= \int  \, dx  
+$$\begin{align}
+\int \Phi \Phi^* \, dx \\
+= \int  (c_{1}\phi_{1}+c_{2}\phi_{2})(c_{1}^*\phi^* + c_{2}^*\phi_{2}^*)\, dx   \\
+= c_{1}c_{2}+c_{1}^*c_{2}^*
+\end{align}
 $$
