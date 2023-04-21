@@ -119,6 +119,11 @@ $$
 
 ### Normalisation of Wave Function 
 
+$\psi_{n}(x)=B\sin (\frac{n\pi}{l})x$
+
+$\psi^{*}_{n}(x)=B\sin \left( \frac{n\pi}{l} \right)x$
+
+For normalisation, 
 $$
-
-
+\int \psi(x)\psi^{*}(x)dx 
+$$
