@@ -101,7 +101,8 @@ $$\psi(x=l)=A(e^{ikl}+e^{-ikl})=A(2i)\sin(kl)$$
 
 $$
 \begin{align}
-{\red\text{Discrete}:}\: P_{i} =\frac{n}{N} \\
-{\red\\text{COntinous}}
+{\red\text{Discrete}:}\: P_{i} =\frac{n}{N}\big\big \\
+
+{\red\text{Continous}:} \: P(x,x+dx)=g(x)dx
 \end{align}
 $$
