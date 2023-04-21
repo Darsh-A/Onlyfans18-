@@ -113,6 +113,12 @@ $$\begin{align}
 \end{align}
 $$
 
+- The state of a system is expressed as the linear combination of all possible states 
 
 
-$$$$
+
+### Normalisation of Wave Function 
+
+$$
+
+
