@@ -177,3 +177,11 @@ $$
 -ih \frac{d}{dx}
 \end{cases}
 $$
+
+
+### Expectation Value
+
+
+$$
+<\hat{A}
+$$
