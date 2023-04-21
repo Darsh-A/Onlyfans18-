@@ -191,3 +191,11 @@ $\Psi=c_{1}\psi_{1}+c_{2}\psi_{2}$
 $\hat{A}\psi_{1}=a_{1}\psi_{1}$
 $\hat{A}\psi_{2}=a_{2}\psi_{2}$
 
+
+$$
+\int \phi_{m}\phi _{n}^{*} \, dx =\begin{cases}
+1,\:m=n \\
+0,\: m\neq n
+\end{cases}
+$$
+$\purp{}$
