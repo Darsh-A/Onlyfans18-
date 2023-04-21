@@ -81,4 +81,9 @@ Each state is associated with an observable energy
 
 As,  $\blue e^{i\theta}=\cos \theta +i\sin \theta$
 
-$$\psi(x)=$$
+$$\psi(x)=Ae^{ikx} + Be^{-ikx} $$
+
+$\psi(x=0)=0\Rightarrow A+B=0\Rightarrow A=-B$ 
+$\psi(x=l)=0$
+
+Therefore, 
