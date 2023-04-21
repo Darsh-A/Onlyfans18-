@@ -157,5 +157,7 @@ $\sqrt{ \frac{2}{l} }$ is the normalisation constant
 - All observables are nothing but eigen values 
 
 $$
-\frac{d^2\psi(x)}{dx^2}
+\frac{d^2\psi(x)}{dx^2}+kx=0
 $$
+$$
+[-\frac{\bar{h^2}}{2m} \frac{d^2}{dx}$$
