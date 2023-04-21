@@ -127,6 +127,6 @@ For normalisation,
 
 $$
 \begin{equation}
-\lim_{ 0 \to l }\int  \, dx  
+\int _{0}^{l} \psi(x)\psi^{*}(x)\, dx=1 
 \end{equation}
 $$
