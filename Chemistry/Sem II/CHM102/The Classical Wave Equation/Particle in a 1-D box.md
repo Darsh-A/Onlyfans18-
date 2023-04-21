@@ -200,3 +200,6 @@ $$
 \end{cases}
 $$
 $*\:\:\purp{\text{Basis functions are othogonal}}$
+
+
+###### Example:
