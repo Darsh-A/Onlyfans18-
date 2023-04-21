@@ -125,5 +125,5 @@ $\psi^{*}_{n}(x)=B\sin \left( \frac{n\pi}{l} \right)x$
 
 For normalisation, 
 $$
-\int{\lim}{ n \to \infty } \psi(x)\psi^{*}(x)dx 
+\int  \psi(x)\psi^{*}(x)dx 
 $$
