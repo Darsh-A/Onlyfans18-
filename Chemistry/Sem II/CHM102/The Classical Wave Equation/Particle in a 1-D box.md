@@ -234,11 +234,17 @@ P_{1}+P_{2}=1
 \end{align}
 $$
 
-
+Generally, for
 $$
 \Phi=c_{1}\phi_{1}+c_{2}\phi_{2}+\dots+c_{n}\phi_{n}
 $$
 
 $$
-P(P_{i})=\frac{c_{i}c_{i}^*}{\sum_{i=0}^{n}c_{i}c_{i}^*}
+P(P_{i})=\frac{c_{i}c_{i}^*}{{\sum_{i=0}^{n}}c_{i}c_{i}^*}
 $$
+$$
+<\hat{A}> = \sum_{i=o}^{n}P_{i}c_{i}
+$$
+
+
+## Prop
