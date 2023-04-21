@@ -179,9 +179,15 @@ $$
 $$
 
 
-### Expectation Value
+### Expectation Value of an observable 
 
 
 $$
-<\hat{A}>|<A>\:= \frac{{\int\hat{\psi}\:A\:\psi^{*} d\tau}}{\int \psi \, dx }
+<\hat{A}>|<A>\:= \frac{{\int\hat{\psi}\:A\:\psi^{*} d\tau}}{\int \psi^{*}\:\psi \, dx }
 $$
+
+$\Psi=c_{1}\psi_{1}+c_{2}\psi_{2}$
+
+$\hat{A}\psi_{1}=a_{1}\psi_{1}$
+$\hat{A}\psi_{2}=a_{2}\psi_{2}$
+
