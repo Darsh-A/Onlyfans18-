@@ -164,6 +164,10 @@ $$
 
 $[-\frac{\bar{h}^2}{2m} \frac{d^2}{dx^2}]=\hat{K.E.}$
 
+$$
+\Phi(x)=c_{1}\phi_{1} + c_{2}\phi_{2} +\dots+c_{}
+$$
+
 
 $K.E.=\frac{P_{x}^2}{2m}$
 
