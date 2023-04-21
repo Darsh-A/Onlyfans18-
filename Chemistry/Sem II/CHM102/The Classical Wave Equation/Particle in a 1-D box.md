@@ -94,3 +94,14 @@ $$\psi(x=l)=A(e^{ikl}+e^{-ikl})=A(2i)\sin(kl)$$
 - $\psi(x)$ is the wave function, represents the probability amplitude 
 - $\psi(x)\psi^{*}(x)=|\psi(x)|^{2}$  represents the probability density 
 
+
+**Note:**
+
+- Probability can be discrete or continous 
+
+$$
+\begin{align}
+{\red\text{Discrete}:}\: P_{i} =\frac{n}{N} \\
+{\red\\text{COntinous}}
+\end{align}
+$$
