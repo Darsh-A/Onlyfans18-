@@ -91,4 +91,6 @@ $$\psi(x=l)=A(e^{ikl}+e^{-ikl})=A(2i)\sin(kl)$$
 
 ###### What is $\psi(x)$? (Max Born Interpreation)
 
-- $\psi(x)$ is the wave fuc
+- $\psi(x)$ is the wave function, represents the probability amplitude 
+- $\psi(x)\psi^{*}(x)=|\psi(x)|^{2}$  represents the probability density 
+
