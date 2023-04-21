@@ -165,3 +165,4 @@ $$
 $[-\frac{\bar{h}^2}{2m} \frac{d^2}{dx^2}]=\hat{K.E.}$
 
 
+$K.E.=\frac{P_{x}^2}{2m}\Rightarrow -\frac{\bar{h}^2}{2m} \frac{d^2}{dx^2}$
