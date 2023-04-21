@@ -165,9 +165,9 @@ $$
 $[-\frac{\bar{h}^2}{2m} \frac{d^2}{dx^2}]=\hat{K.E.}$
 
 $$
-\Phi(x)=c_{1}\phi_{1} + c_{2}\phi_{2} +\dots+c_{}
+\Phi(x)=c_{1}\phi_{1}(x) + c_{2}\phi_{2}(x) +\dots+c_{n}\phi_{n}(x)
 $$
-
+where, $c_{1},c_{2},\dots$ are eigen values which represent energies 
 
 $K.E.=\frac{P_{x}^2}{2m}$
 
