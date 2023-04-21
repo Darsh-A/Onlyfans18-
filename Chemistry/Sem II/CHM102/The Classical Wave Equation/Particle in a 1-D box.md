@@ -247,4 +247,6 @@ $$
 $$
 
 
-## Prop
+## Properties of $\Psi$
+
+1. Single V
